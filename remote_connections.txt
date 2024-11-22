@@ -1,0 +1,2375 @@
+
+
+[2023-09-26 18:52:39] Client version: 1694466342
+[2023-09-26 18:52:39] Generated client id: 900279379268151527
+[2023-09-26 18:52:39] Listening for IPv4 broadcast on: 27036
+[2023-09-26 18:52:39] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-26 19:42:23] Client version: 1694466342
+[2023-09-26 19:42:23] Loaded client id: 900279379268151527
+[2023-09-26 19:42:23] Listening for IPv4 broadcast on: 27036
+[2023-09-26 19:42:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 08:49:06] Client version: 1694466342
+[2023-09-27 08:49:06] Loaded client id: 900279379268151527
+[2023-09-27 08:49:06] Listening for IPv4 broadcast on: 27036
+[2023-09-27 08:49:06] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 10:58:20] Client version: 1694466342
+[2023-09-27 10:58:20] Loaded client id: 900279379268151527
+[2023-09-27 10:58:20] Listening for IPv4 broadcast on: 27036
+[2023-09-27 10:58:20] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 19:41:18] Client version: 1694466342
+[2023-09-27 19:41:18] Loaded client id: 900279379268151527
+[2023-09-27 19:41:18] Listening for IPv4 broadcast on: 27036
+[2023-09-27 19:41:18] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 20:47:16] Client version: 1694466342
+[2023-09-27 20:47:16] Loaded client id: 900279379268151527
+[2023-09-27 20:47:16] Listening for IPv4 broadcast on: 27036
+[2023-09-27 20:47:16] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 22:06:03] Client version: 1694466342
+[2023-09-27 22:06:03] Loaded client id: 900279379268151527
+[2023-09-27 22:06:03] Listening for IPv4 broadcast on: 27036
+[2023-09-27 22:06:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 22:28:58] Client version: 1694466342
+[2023-09-27 22:28:58] Loaded client id: 900279379268151527
+[2023-09-27 22:28:58] Listening for IPv4 broadcast on: 27036
+[2023-09-27 22:28:58] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 22:43:02] Client version: 1694466342
+[2023-09-27 22:43:02] Loaded client id: 900279379268151527
+[2023-09-27 22:43:02] Listening for IPv4 broadcast on: 27036
+[2023-09-27 22:43:02] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-27 23:05:30] Client version: 1694466342
+[2023-09-27 23:05:30] Loaded client id: 900279379268151527
+[2023-09-27 23:05:30] Listening for IPv4 broadcast on: 27036
+[2023-09-27 23:05:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-28 08:21:50] Client version: 1694466342
+[2023-09-28 08:21:50] Loaded client id: 900279379268151527
+[2023-09-28 08:21:50] Listening for IPv4 broadcast on: 27036
+[2023-09-28 08:21:50] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-30 17:48:49] Client version: 1696019606
+[2023-09-30 17:48:49] Loaded client id: 900279379268151527
+[2023-09-30 17:48:49] Listening for IPv4 broadcast on: 27036
+[2023-09-30 17:48:49] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-09-30 18:38:52] Client version: 1696019606
+[2023-09-30 18:38:52] Loaded client id: 900279379268151527
+[2023-09-30 18:38:52] Listening for IPv4 broadcast on: 27036
+[2023-09-30 18:38:52] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-02 21:13:08] Client version: 1696019606
+[2023-10-02 21:13:08] Loaded client id: 900279379268151527
+[2023-10-02 21:13:08] Listening for IPv4 broadcast on: 27036
+[2023-10-02 21:13:08] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-03 10:22:48] Client version: 1696019606
+[2023-10-03 10:22:48] Loaded client id: 900279379268151527
+[2023-10-03 10:22:48] Listening for IPv4 broadcast on: 27036
+[2023-10-03 10:22:48] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-03 21:54:37] Client version: 1696019606
+[2023-10-03 21:54:37] Loaded client id: 900279379268151527
+[2023-10-03 21:54:37] Listening for IPv4 broadcast on: 27036
+[2023-10-03 21:54:37] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-05 18:20:01] Client version: 1696019606
+[2023-10-05 18:20:01] Loaded client id: 900279379268151527
+[2023-10-05 18:20:01] Listening for IPv4 broadcast on: 27036
+[2023-10-05 18:20:01] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-05 23:19:53] Client version: 1696019606
+[2023-10-05 23:19:53] Loaded client id: 900279379268151527
+[2023-10-05 23:19:53] Listening for IPv4 broadcast on: 27036
+[2023-10-05 23:19:53] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-08 09:52:20] Client version: 1696019606
+[2023-10-08 09:52:20] Loaded client id: 900279379268151527
+[2023-10-08 09:52:20] Listening for IPv4 broadcast on: 27036
+[2023-10-08 09:52:20] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-08 15:17:45] Client version: 1696019606
+[2023-10-08 15:17:45] Loaded client id: 900279379268151527
+[2023-10-08 15:17:45] Listening for IPv4 broadcast on: 27036
+[2023-10-08 15:17:45] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-08 17:47:03] Client version: 1696019606
+[2023-10-08 17:47:03] Loaded client id: 900279379268151527
+[2023-10-08 17:47:03] Listening for IPv4 broadcast on: 27036
+[2023-10-08 17:47:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-09 23:44:11] Client version: 1696019606
+[2023-10-09 23:44:11] Loaded client id: 900279379268151527
+[2023-10-09 23:44:11] Listening for IPv4 broadcast on: 27036
+[2023-10-09 23:44:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-10 10:35:12] Client version: 1696019606
+[2023-10-10 10:35:12] Loaded client id: 900279379268151527
+[2023-10-10 10:35:12] Listening for IPv4 broadcast on: 27036
+[2023-10-10 10:35:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-10 22:30:37] Client version: 1696019606
+[2023-10-10 22:30:37] Loaded client id: 900279379268151527
+[2023-10-10 22:30:37] Listening for IPv4 broadcast on: 27036
+[2023-10-10 22:30:37] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-11 19:59:11] Client version: 1696019606
+[2023-10-11 19:59:11] Loaded client id: 900279379268151527
+[2023-10-11 19:59:11] Listening for IPv4 broadcast on: 27036
+[2023-10-11 19:59:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-14 08:57:29] Client version: 1696019606
+[2023-10-14 08:57:29] Loaded client id: 900279379268151527
+[2023-10-14 08:57:29] Listening for IPv4 broadcast on: 27036
+[2023-10-14 08:57:29] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-14 10:20:11] Client version: 1696019606
+[2023-10-14 10:20:11] Loaded client id: 900279379268151527
+[2023-10-14 10:20:11] Listening for IPv4 broadcast on: 27036
+[2023-10-14 10:20:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-15 08:43:09] Client version: 1696019606
+[2023-10-15 08:43:09] Loaded client id: 900279379268151527
+[2023-10-15 08:43:09] Listening for IPv4 broadcast on: 27036
+[2023-10-15 08:43:09] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-16 14:20:04] Client version: 1696019606
+[2023-10-16 14:20:04] Loaded client id: 900279379268151527
+[2023-10-16 14:20:04] Listening for IPv4 broadcast on: 27036
+[2023-10-16 14:20:04] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-16 18:08:51] Client version: 1696019606
+[2023-10-16 18:08:51] Loaded client id: 900279379268151527
+[2023-10-16 18:08:51] Listening for IPv4 broadcast on: 27036
+[2023-10-16 18:08:51] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-16 23:28:24] Client version: 1696019606
+[2023-10-16 23:28:24] Loaded client id: 900279379268151527
+[2023-10-16 23:28:24] Listening for IPv4 broadcast on: 27036
+[2023-10-16 23:28:24] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-22 17:40:18] Client version: 1696019606
+[2023-10-22 17:40:18] Loaded client id: 900279379268151527
+[2023-10-22 17:40:18] Listening for IPv4 broadcast on: 27036
+[2023-10-22 17:40:18] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-23 21:29:27] Client version: 1696019606
+[2023-10-23 21:29:27] Loaded client id: 900279379268151527
+[2023-10-23 21:29:27] Listening for IPv4 broadcast on: 27036
+[2023-10-23 21:29:27] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-10-29 15:04:10] Client version: 1698260427
+[2023-10-29 15:04:10] Loaded client id: 900279379268151527
+[2023-10-29 15:04:10] Listening for IPv4 broadcast on: 27036
+[2023-10-29 15:04:10] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-06 15:11:56] Client version: 1698777785
+[2023-11-06 15:11:56] Loaded client id: 900279379268151527
+[2023-11-06 15:11:56] Listening for IPv4 broadcast on: 27036
+[2023-11-06 15:11:56] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-09 11:43:00] Client version: 1698777785
+[2023-11-09 11:43:00] Loaded client id: 900279379268151527
+[2023-11-09 11:43:00] Listening for IPv4 broadcast on: 27036
+[2023-11-09 11:43:00] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-13 17:52:46] Client version: 1698777785
+[2023-11-13 17:52:46] Loaded client id: 900279379268151527
+[2023-11-13 17:52:46] Listening for IPv4 broadcast on: 27036
+[2023-11-13 17:52:46] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-13 18:27:57] Client version: 1698777785
+[2023-11-13 18:27:57] Loaded client id: 900279379268151527
+[2023-11-13 18:27:57] Listening for IPv4 broadcast on: 27036
+[2023-11-13 18:27:57] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-21 15:37:55] Client version: 1700160213
+[2023-11-21 15:37:55] Loaded client id: 900279379268151527
+[2023-11-21 15:37:55] Listening for IPv4 broadcast on: 27036
+[2023-11-21 15:37:55] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-21 18:42:30] Client version: 1700160213
+[2023-11-21 18:42:30] Loaded client id: 900279379268151527
+[2023-11-21 18:42:30] Listening for IPv4 broadcast on: 27036
+[2023-11-21 18:42:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-22 23:51:08] Client version: 1700160213
+[2023-11-22 23:51:08] Loaded client id: 900279379268151527
+[2023-11-22 23:51:08] Listening for IPv4 broadcast on: 27036
+[2023-11-22 23:51:08] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-11-28 17:07:51] Client version: 1700160213
+[2023-11-28 17:07:51] Loaded client id: 900279379268151527
+[2023-11-28 17:07:51] Listening for IPv4 broadcast on: 27036
+[2023-11-28 17:07:51] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-24 18:07:12] Client version: 1700160213
+[2023-12-24 18:07:12] Loaded client id: 900279379268151527
+[2023-12-24 18:07:12] Listening for IPv4 broadcast on: 27036
+[2023-12-24 18:07:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-26 12:43:57] Client version: 1702079146
+[2023-12-26 12:43:57] Loaded client id: 900279379268151527
+[2023-12-26 12:43:57] Listening for IPv4 broadcast on: 27036
+[2023-12-26 12:43:57] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-26 13:24:14] Client version: 1702079146
+[2023-12-26 13:24:14] Loaded client id: 900279379268151527
+[2023-12-26 13:24:14] Listening for IPv4 broadcast on: 27036
+[2023-12-26 13:24:14] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-26 13:46:54] Client version: 1702079146
+[2023-12-26 13:46:54] Loaded client id: 900279379268151527
+[2023-12-26 13:46:54] Listening for IPv4 broadcast on: 27036
+[2023-12-26 13:46:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-26 14:37:44] Client version: 1702079146
+[2023-12-26 14:37:44] Loaded client id: 900279379268151527
+[2023-12-26 14:37:44] Listening for IPv4 broadcast on: 27036
+[2023-12-26 14:37:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-26 14:39:28] Client version: 1702079146
+[2023-12-26 14:39:28] Loaded client id: 900279379268151527
+[2023-12-26 14:39:28] Listening for IPv4 broadcast on: 27036
+[2023-12-26 14:39:28] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-27 16:09:04] Client version: 1702079146
+[2023-12-27 16:09:04] Loaded client id: 900279379268151527
+[2023-12-27 16:09:04] Listening for IPv4 broadcast on: 27036
+[2023-12-27 16:09:04] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-27 16:18:37] Client version: 1702079146
+[2023-12-27 16:18:37] Loaded client id: 900279379268151527
+[2023-12-27 16:18:37] Listening for IPv4 broadcast on: 27036
+[2023-12-27 16:18:37] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-27 18:13:08] Client version: 1702079146
+[2023-12-27 18:13:08] Loaded client id: 900279379268151527
+[2023-12-27 18:13:08] Listening for IPv4 broadcast on: 27036
+[2023-12-27 18:13:08] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-27 22:45:40] Client version: 1702079146
+[2023-12-27 22:45:40] Loaded client id: 900279379268151527
+[2023-12-27 22:45:40] Listening for IPv4 broadcast on: 27036
+[2023-12-27 22:45:40] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-29 11:54:10] Client version: 1702079146
+[2023-12-29 11:54:10] Loaded client id: 900279379268151527
+[2023-12-29 11:54:10] Listening for IPv4 broadcast on: 27036
+[2023-12-29 11:54:10] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-29 14:24:05] Client version: 1702079146
+[2023-12-29 14:24:05] Loaded client id: 900279379268151527
+[2023-12-29 14:24:05] Listening for IPv4 broadcast on: 27036
+[2023-12-29 14:24:05] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-30 22:36:10] Client version: 1702079146
+[2023-12-30 22:36:10] Loaded client id: 900279379268151527
+[2023-12-30 22:36:10] Listening for IPv4 broadcast on: 27036
+[2023-12-30 22:36:10] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-31 22:24:01] Client version: 1702079146
+[2023-12-31 22:24:01] Loaded client id: 900279379268151527
+[2023-12-31 22:24:01] Listening for IPv4 broadcast on: 27036
+[2023-12-31 22:24:01] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-12-31 22:57:34] Client version: 1702079146
+[2023-12-31 22:57:34] Loaded client id: 900279379268151527
+[2023-12-31 22:57:34] Listening for IPv4 broadcast on: 27036
+[2023-12-31 22:57:34] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 11:58:52] Client version: 1702079146
+[2024-01-04 11:58:52] Loaded client id: 900279379268151527
+[2024-01-04 11:58:52] Listening for IPv4 broadcast on: 27036
+[2024-01-04 11:58:52] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 12:37:35] Client version: 1702079146
+[2024-01-04 12:37:35] Loaded client id: 900279379268151527
+[2024-01-04 12:37:35] Listening for IPv4 broadcast on: 27036
+[2024-01-04 12:37:35] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 12:47:38] Client version: 1702079146
+[2024-01-04 12:47:38] Loaded client id: 900279379268151527
+[2024-01-04 12:47:38] Listening for IPv4 broadcast on: 27036
+[2024-01-04 12:47:38] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 13:15:17] Client version: 1702079146
+[2024-01-04 13:15:17] Loaded client id: 900279379268151527
+[2024-01-04 13:15:17] Listening for IPv4 broadcast on: 27036
+[2024-01-04 13:15:17] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 13:20:57] Client version: 1702079146
+[2024-01-04 13:20:57] Loaded client id: 900279379268151527
+[2024-01-04 13:20:57] Listening for IPv4 broadcast on: 27036
+[2024-01-04 13:20:57] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 13:26:56] Client version: 1702079146
+[2024-01-04 13:26:56] Loaded client id: 900279379268151527
+[2024-01-04 13:26:56] Listening for IPv4 broadcast on: 27036
+[2024-01-04 13:26:56] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-04 17:24:19] Client version: 1702079146
+[2024-01-04 17:24:19] Loaded client id: 900279379268151527
+[2024-01-04 17:24:19] Listening for IPv4 broadcast on: 27036
+[2024-01-04 17:24:19] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-05 16:41:38] Client version: 1702079146
+[2024-01-05 16:41:38] Loaded client id: 900279379268151527
+[2024-01-05 16:41:38] Listening for IPv4 broadcast on: 27036
+[2024-01-05 16:41:38] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-06 14:53:53] Client version: 1702079146
+[2024-01-06 14:53:53] Loaded client id: 900279379268151527
+[2024-01-06 14:53:53] Listening for IPv4 broadcast on: 27036
+[2024-01-06 14:53:53] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-06 15:00:53] Client version: 1702079146
+[2024-01-06 15:00:53] Loaded client id: 900279379268151527
+[2024-01-06 15:00:53] Listening for IPv4 broadcast on: 27036
+[2024-01-06 15:00:53] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-06 19:28:50] Client version: 1702079146
+[2024-01-06 19:28:50] Loaded client id: 900279379268151527
+[2024-01-06 19:28:50] Listening for IPv4 broadcast on: 27036
+[2024-01-06 19:28:50] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-07 11:31:31] Client version: 1702079146
+[2024-01-07 11:31:31] Loaded client id: 900279379268151527
+[2024-01-07 11:31:31] Listening for IPv4 broadcast on: 27036
+[2024-01-07 11:31:31] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-07 19:37:26] Client version: 1702079146
+[2024-01-07 19:37:26] Loaded client id: 900279379268151527
+[2024-01-07 19:37:26] Listening for IPv4 broadcast on: 27036
+[2024-01-07 19:37:26] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-14 20:48:50] Client version: 1705108172
+[2024-01-14 20:48:50] Loaded client id: 900279379268151527
+[2024-01-14 20:48:50] Listening for IPv4 broadcast on: 27036
+[2024-01-14 20:48:50] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-18 21:26:38] Client version: 1705108172
+[2024-01-18 21:26:38] Loaded client id: 900279379268151527
+[2024-01-18 21:26:38] Listening for IPv4 broadcast on: 27036
+[2024-01-18 21:26:38] Listening for connections on: 0.0.0.0:27036
+[2024-01-18 21:26:38] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.11:27036
+[2024-01-18 21:26:38] Received broadcast message from client 3075563792148672893 (arch): 3075563792148672893:27036
+[2024-01-18 21:26:40] Received broadcast message from client 3075563792148672893 (arch): 3075563792148672893:27036
+[2024-01-18 21:26:42] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.11:27036
+[2024-01-18 21:26:48] Received broadcast message from client 3075563792148672893 (arch): 3075563792148672893:27036
+[2024-01-18 21:26:58] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.11:27036
+
+
+[2024-01-19 00:47:18] Client version: 1705108172
+[2024-01-19 00:47:18] Loaded client id: 900279379268151527
+[2024-01-19 00:47:18] Listening for IPv4 broadcast on: 27036
+[2024-01-19 00:47:18] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-21 01:38:34] Client version: 1705108172
+[2024-01-21 01:38:34] Loaded client id: 900279379268151527
+[2024-01-21 01:38:34] Listening for IPv4 broadcast on: 27036
+[2024-01-21 01:38:34] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-21 21:55:33] Client version: 1705108172
+[2024-01-21 21:55:33] Loaded client id: 900279379268151527
+[2024-01-21 21:55:33] Listening for IPv4 broadcast on: 27036
+[2024-01-21 21:55:33] Listening for connections on: 0.0.0.0:27036
+[2024-01-21 22:52:51] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.11:27036
+[2024-01-21 22:52:51] Received discovery message from client 3075563792148672893 at 192.168.18.11:27036
+[2024-01-21 22:52:53] Received discovery message from client 3075563792148672893 at 192.168.18.11:27036
+[2024-01-21 22:52:56] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.11:27036
+[2024-01-21 22:53:00] Received discovery message from client 3075563792148672893 at 192.168.18.11:27036
+[2024-01-21 22:53:16] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.11:27036
+
+
+[2024-01-26 19:32:13] Client version: 1705108172
+[2024-01-26 19:32:13] Loaded client id: 900279379268151527
+[2024-01-26 19:32:13] Listening for IPv4 broadcast on: 27036
+[2024-01-26 19:32:13] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-01-26 19:47:55] Client version: 1705108172
+[2024-01-26 19:47:55] Loaded client id: 900279379268151527
+[2024-01-26 19:47:55] Listening for IPv4 broadcast on: 27036
+[2024-01-26 19:47:55] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-01 19:50:29] Client version: 1705108172
+[2024-02-01 19:50:29] Loaded client id: 900279379268151527
+[2024-02-01 19:50:29] Listening for IPv4 broadcast on: 27036
+[2024-02-01 19:50:29] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-04 15:54:48] Client version: 1705108172
+[2024-02-04 15:54:48] Loaded client id: 900279379268151527
+[2024-02-04 15:54:48] Listening for IPv4 broadcast on: 27036
+[2024-02-04 15:54:48] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-04 16:43:31] Client version: 1705108172
+[2024-02-04 16:43:31] Loaded client id: 900279379268151527
+[2024-02-04 16:43:31] Listening for IPv4 broadcast on: 27036
+[2024-02-04 16:43:31] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-05 13:04:44] Client version: 1705108172
+[2024-02-05 13:04:44] Loaded client id: 900279379268151527
+[2024-02-05 13:04:44] Listening for IPv4 broadcast on: 27036
+[2024-02-05 13:04:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-05 20:27:54] Client version: 1705108172
+[2024-02-05 20:27:54] Loaded client id: 900279379268151527
+[2024-02-05 20:27:54] Listening for IPv4 broadcast on: 27036
+[2024-02-05 20:27:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-05 20:36:10] Client version: 1705108172
+[2024-02-05 20:36:10] Loaded client id: 900279379268151527
+[2024-02-05 20:36:10] Listening for IPv4 broadcast on: 27036
+[2024-02-05 20:36:10] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-06 10:20:03] Client version: 1705108172
+[2024-02-06 10:20:03] Loaded client id: 900279379268151527
+[2024-02-06 10:20:03] Listening for IPv4 broadcast on: 27036
+[2024-02-06 10:20:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-07 18:14:49] Client version: 1705108172
+[2024-02-07 18:14:49] Loaded client id: 900279379268151527
+[2024-02-07 18:14:49] Listening for IPv4 broadcast on: 27036
+[2024-02-07 18:14:49] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-08 13:03:24] Client version: 1705108172
+[2024-02-08 13:03:24] Loaded client id: 900279379268151527
+[2024-02-08 13:03:24] Listening for IPv4 broadcast on: 27036
+[2024-02-08 13:03:24] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-17 23:13:21] Client version: 1705108172
+[2024-02-17 23:13:21] Loaded client id: 900279379268151527
+[2024-02-17 23:13:21] Listening for IPv4 broadcast on: 27036
+[2024-02-17 23:13:21] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-19 22:35:40] Client version: 1705108172
+[2024-02-19 22:35:40] Loaded client id: 900279379268151527
+[2024-02-19 22:35:40] Listening for IPv4 broadcast on: 27036
+[2024-02-19 22:35:40] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-20 19:31:26] Client version: 1705108172
+[2024-02-20 19:31:26] Loaded client id: 900279379268151527
+[2024-02-20 19:31:26] Listening for IPv4 broadcast on: 27036
+[2024-02-20 19:31:26] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-21 23:00:15] Client version: 1705108172
+[2024-02-21 23:00:15] Loaded client id: 900279379268151527
+[2024-02-21 23:00:15] Listening for IPv4 broadcast on: 27036
+[2024-02-21 23:00:15] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 10:49:34] Client version: 1705108172
+[2024-02-22 10:49:34] Loaded client id: 900279379268151527
+[2024-02-22 10:49:34] Listening for IPv4 broadcast on: 27036
+[2024-02-22 10:49:34] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 14:57:40] Client version: 1705108172
+[2024-02-22 14:57:40] Loaded client id: 900279379268151527
+[2024-02-22 14:57:40] Listening for IPv4 broadcast on: 27036
+[2024-02-22 14:57:40] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 15:00:31] Client version: 1705108172
+[2024-02-22 15:00:31] Loaded client id: 900279379268151527
+[2024-02-22 15:00:31] Listening for IPv4 broadcast on: 27036
+[2024-02-22 15:00:31] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 15:03:25] Client version: 1705108172
+[2024-02-22 15:03:25] Loaded client id: 900279379268151527
+[2024-02-22 15:03:25] Listening for IPv4 broadcast on: 27036
+[2024-02-22 15:03:25] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 15:20:23] Client version: 1705108172
+[2024-02-22 15:20:23] Loaded client id: 900279379268151527
+[2024-02-22 15:20:23] Listening for IPv4 broadcast on: 27036
+[2024-02-22 15:20:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 15:23:30] Client version: 1705108172
+[2024-02-22 15:23:30] Loaded client id: 900279379268151527
+[2024-02-22 15:23:30] Listening for IPv4 broadcast on: 27036
+[2024-02-22 15:23:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 15:33:54] Client version: 1705108172
+[2024-02-22 15:33:54] Loaded client id: 900279379268151527
+[2024-02-22 15:33:54] Listening for IPv4 broadcast on: 27036
+[2024-02-22 15:33:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-22 15:50:12] Client version: 1705108172
+[2024-02-22 15:50:12] Loaded client id: 900279379268151527
+[2024-02-22 15:50:12] Listening for IPv4 broadcast on: 27036
+[2024-02-22 15:50:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-25 11:26:00] Client version: 1705108172
+[2024-02-25 11:26:00] Loaded client id: 900279379268151527
+[2024-02-25 11:26:00] Listening for IPv4 broadcast on: 27036
+[2024-02-25 11:26:00] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-25 12:36:21] Client version: 1705108172
+[2024-02-25 12:36:21] Loaded client id: 900279379268151527
+[2024-02-25 12:36:21] Listening for IPv4 broadcast on: 27036
+[2024-02-25 12:36:21] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-25 12:37:58] Client version: 1705108172
+[2024-02-25 12:37:58] Loaded client id: 900279379268151527
+[2024-02-25 12:37:58] Listening for IPv4 broadcast on: 27036
+[2024-02-25 12:37:58] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-25 13:23:16] Client version: 1705108172
+[2024-02-25 13:23:16] Loaded client id: 900279379268151527
+[2024-02-25 13:23:16] Listening for IPv4 broadcast on: 27036
+[2024-02-25 13:23:16] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-02-28 01:22:31] Client version: 1705108172
+[2024-02-28 01:22:31] Loaded client id: 900279379268151527
+[2024-02-28 01:22:31] Listening for IPv4 broadcast on: 27036
+[2024-02-28 01:22:31] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-05 15:23:46] Client version: 1709168962
+[2024-03-05 15:23:46] Loaded client id: 900279379268151527
+[2024-03-05 15:23:46] Listening for IPv4 broadcast on: 27036
+[2024-03-05 15:23:46] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 15:34:14] Client version: 1709168962
+[2024-03-06 15:34:14] Loaded client id: 900279379268151527
+[2024-03-06 15:34:14] Listening for IPv4 broadcast on: 27036
+[2024-03-06 15:34:14] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 15:37:13] Client version: 1709168962
+[2024-03-06 15:37:13] Loaded client id: 900279379268151527
+[2024-03-06 15:37:13] Listening for IPv4 broadcast on: 27036
+[2024-03-06 15:37:13] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 15:42:02] Client version: 1709168962
+[2024-03-06 15:42:02] Loaded client id: 900279379268151527
+[2024-03-06 15:42:02] Listening for IPv4 broadcast on: 27036
+[2024-03-06 15:42:02] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 15:43:31] Client version: 1709168962
+[2024-03-06 15:43:31] Loaded client id: 900279379268151527
+[2024-03-06 15:43:31] Listening for IPv4 broadcast on: 27036
+[2024-03-06 15:43:31] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 15:44:33] Client version: 1709168962
+[2024-03-06 15:44:33] Loaded client id: 900279379268151527
+[2024-03-06 15:44:33] Listening for IPv4 broadcast on: 27036
+[2024-03-06 15:44:33] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 15:44:58] Client version: 1709168962
+[2024-03-06 15:44:58] Loaded client id: 900279379268151527
+[2024-03-06 15:44:58] Listening for IPv4 broadcast on: 27036
+[2024-03-06 15:44:58] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-06 18:00:30] Client version: 1709168962
+[2024-03-06 18:00:30] Loaded client id: 900279379268151527
+[2024-03-06 18:00:30] Listening for IPv4 broadcast on: 27036
+[2024-03-06 18:00:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-09 12:19:25] Client version: 1709168962
+[2024-03-09 12:19:25] Loaded client id: 900279379268151527
+[2024-03-09 12:19:25] Listening for IPv4 broadcast on: 27036
+[2024-03-09 12:19:25] Listening for connections on: 0.0.0.0:27036
+[2024-03-09 12:19:25] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-09 12:19:26] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-09 12:19:31] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+
+
+[2024-03-12 22:20:54] Client version: 1709846872
+[2024-03-12 22:20:54] Loaded client id: 900279379268151527
+[2024-03-12 22:20:54] Listening for IPv4 broadcast on: 27036
+[2024-03-12 22:20:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-12 22:34:11] Client version: 1709846872
+[2024-03-12 22:34:11] Loaded client id: 900279379268151527
+[2024-03-12 22:34:11] Listening for IPv4 broadcast on: 27036
+[2024-03-12 22:34:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-13 15:23:03] Client version: 1709846872
+[2024-03-13 15:23:03] Loaded client id: 900279379268151527
+[2024-03-13 15:23:03] Listening for IPv4 broadcast on: 27036
+[2024-03-13 15:23:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-13 15:23:33] Client version: 1709846872
+[2024-03-13 15:23:33] Loaded client id: 900279379268151527
+[2024-03-13 15:23:33] Listening for IPv4 broadcast on: 27036
+[2024-03-13 15:23:33] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-13 15:23:56] Client version: 1709846872
+[2024-03-13 15:23:56] Loaded client id: 900279379268151527
+[2024-03-13 15:23:56] Listening for IPv4 broadcast on: 27036
+[2024-03-13 15:23:56] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-13 21:43:52] Client version: 1709846872
+[2024-03-13 21:43:52] Loaded client id: 900279379268151527
+[2024-03-13 21:43:52] Listening for IPv4 broadcast on: 27036
+[2024-03-13 21:43:52] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-17 19:04:23] Client version: 1709846872
+[2024-03-17 19:04:23] Loaded client id: 900279379268151527
+[2024-03-17 19:04:23] Listening for IPv4 broadcast on: 27036
+[2024-03-17 19:04:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-18 14:16:57] Client version: 1709846872
+[2024-03-18 14:16:57] Loaded client id: 900279379268151527
+[2024-03-18 14:16:57] Listening for IPv4 broadcast on: 27036
+[2024-03-18 14:16:57] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-20 00:32:12] Client version: 1709846872
+[2024-03-20 00:32:12] Loaded client id: 900279379268151527
+[2024-03-20 00:32:12] Listening for IPv4 broadcast on: 27036
+[2024-03-20 00:32:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-20 00:40:45] Client version: 1709846872
+[2024-03-20 00:40:45] Loaded client id: 900279379268151527
+[2024-03-20 00:40:45] Listening for IPv4 broadcast on: 27036
+[2024-03-20 00:40:45] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-20 10:27:54] Client version: 1709846872
+[2024-03-20 10:27:54] Loaded client id: 900279379268151527
+[2024-03-20 10:27:54] Listening for IPv4 broadcast on: 27036
+[2024-03-20 10:27:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-20 12:01:16] Client version: 1709846872
+[2024-03-20 12:01:16] Loaded client id: 900279379268151527
+[2024-03-20 12:01:16] Listening for IPv4 broadcast on: 27036
+[2024-03-20 12:01:16] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-20 14:14:46] Client version: 1709846872
+[2024-03-20 14:14:46] Loaded client id: 900279379268151527
+[2024-03-20 14:14:46] Listening for IPv4 broadcast on: 27036
+[2024-03-20 14:14:46] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-20 21:39:19] Client version: 1709846872
+[2024-03-20 21:39:19] Loaded client id: 900279379268151527
+[2024-03-20 21:39:19] Listening for IPv4 broadcast on: 27036
+[2024-03-20 21:39:19] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-21 13:19:29] Client version: 1709846872
+[2024-03-21 13:19:29] Loaded client id: 900279379268151527
+[2024-03-21 13:19:29] Listening for IPv4 broadcast on: 27036
+[2024-03-21 13:19:29] Listening for connections on: 0.0.0.0:27036
+[2024-03-21 16:29:35] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-21 16:29:35] Received discovery message from client 5682692411689188680 at 5682692411689188680
+[2024-03-21 16:29:36] Received discovery message from client 5682692411689188680 at 5682692411689188680
+[2024-03-21 16:29:36] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-21 16:29:41] Received discovery message from client 5682692411689188680 at 5682692411689188680
+[2024-03-21 16:30:01] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-21 16:30:30] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-21 16:30:30] Received discovery message from client 5682692411689188680 at 5682692411689188680
+[2024-03-21 16:30:32] Received discovery message from client 5682692411689188680 at 5682692411689188680
+[2024-03-21 16:30:35] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+[2024-03-21 16:30:37] Received discovery message from client 5682692411689188680 at 5682692411689188680
+[2024-03-21 16:30:51] Received broadcast message from client 5682692411689188680 (windows): 5682692411689188680:27036
+
+
+[2024-03-22 09:48:58] Client version: 1709846872
+[2024-03-22 09:48:58] Loaded client id: 900279379268151527
+[2024-03-22 09:48:58] Listening for IPv4 broadcast on: 27036
+[2024-03-22 09:48:58] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-23 00:01:23] Client version: 1709846872
+[2024-03-23 00:01:23] Loaded client id: 900279379268151527
+[2024-03-23 00:01:23] Listening for IPv4 broadcast on: 27036
+[2024-03-23 00:01:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-25 20:34:17] Client version: 1709846872
+[2024-03-25 20:34:17] Loaded client id: 900279379268151527
+[2024-03-25 20:34:17] Listening for IPv4 broadcast on: 27036
+[2024-03-25 20:34:17] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-25 20:41:16] Client version: 1709846872
+[2024-03-25 20:41:16] Loaded client id: 900279379268151527
+[2024-03-25 20:41:16] Listening for IPv4 broadcast on: 27036
+[2024-03-25 20:41:16] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-25 21:11:56] Client version: 1709846872
+[2024-03-25 21:11:56] Loaded client id: 900279379268151527
+[2024-03-25 21:11:56] Listening for IPv4 broadcast on: 27036
+[2024-03-25 21:11:56] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-27 13:58:44] Client version: 1709846872
+[2024-03-27 13:58:44] Loaded client id: 900279379268151527
+[2024-03-27 13:58:44] Listening for IPv4 broadcast on: 27036
+[2024-03-27 13:58:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-30 12:06:55] Client version: 1709846872
+[2024-03-30 12:06:55] Loaded client id: 900279379268151527
+[2024-03-30 12:06:55] Listening for IPv4 broadcast on: 27036
+[2024-03-30 12:06:55] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-04-02 22:44:30] Client version: 1709846872
+[2024-04-02 22:44:30] Loaded client id: 900279379268151527
+[2024-04-02 22:44:30] Listening for IPv4 broadcast on: 27036
+[2024-04-02 22:44:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-04-03 22:56:43] Client version: 1709846872
+[2024-04-03 22:56:43] Loaded client id: 900279379268151527
+[2024-04-03 22:56:43] Listening for IPv4 broadcast on: 27036
+[2024-04-03 22:56:43] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-04-12 14:21:14] Client version: 1709846872
+[2024-04-12 14:21:14] Loaded client id: 900279379268151527
+[2024-04-12 14:21:14] Listening for IPv4 broadcast on: 27036
+[2024-04-12 14:21:14] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-04-13 22:23:17] Client version: 1709846872
+[2024-04-13 22:23:17] Loaded client id: 900279379268151527
+[2024-04-13 22:23:17] Listening for IPv4 broadcast on: 27036
+[2024-04-13 22:23:17] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-04-17 22:31:56] Client version: 1709846872
+[2024-04-17 22:31:56] Loaded client id: 900279379268151527
+[2024-04-17 22:31:56] Listening for IPv4 broadcast on: 27036
+[2024-04-17 22:31:56] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-19 12:59:56] Client version: 1709846872
+[2024-05-19 12:59:56] Loaded client id: 900279379268151527
+[2024-05-19 12:59:56] Listening for IPv4 broadcast on: 27036
+[2024-05-19 12:59:56] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-28 10:13:43] Client version: 1716584667
+[2024-05-28 10:13:43] Loaded client id: 900279379268151527
+[2024-05-28 10:13:43] Listening for IPv4 broadcast on: 27036
+[2024-05-28 10:13:43] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-28 14:40:14] Client version: 1716584667
+[2024-05-28 14:40:14] Loaded client id: 900279379268151527
+[2024-05-28 14:40:14] Listening for IPv4 broadcast on: 27036
+[2024-05-28 14:40:14] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-28 14:40:42] Client version: 1716584667
+[2024-05-28 14:40:42] Loaded client id: 900279379268151527
+[2024-05-28 14:40:42] Listening for IPv4 broadcast on: 27036
+[2024-05-28 14:40:42] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-29 10:38:53] Client version: 1716584667
+[2024-05-29 10:38:53] Loaded client id: 900279379268151527
+[2024-05-29 10:38:53] Listening for IPv4 broadcast on: 27036
+[2024-05-29 10:38:53] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-29 11:19:50] Client version: 1716584667
+[2024-05-29 11:19:50] Loaded client id: 900279379268151527
+[2024-05-29 11:19:50] Listening for IPv4 broadcast on: 27036
+[2024-05-29 11:19:50] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-29 13:24:35] Client version: 1716584667
+[2024-05-29 13:24:35] Loaded client id: 900279379268151527
+[2024-05-29 13:24:35] Listening for IPv4 broadcast on: 27036
+[2024-05-29 13:24:35] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-29 17:04:44] Client version: 1716584667
+[2024-05-29 17:04:44] Loaded client id: 900279379268151527
+[2024-05-29 17:04:44] Listening for IPv4 broadcast on: 27036
+[2024-05-29 17:04:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-29 17:51:02] Client version: 1716584667
+[2024-05-29 17:51:02] Loaded client id: 900279379268151527
+[2024-05-29 17:51:02] Listening for IPv4 broadcast on: 27036
+[2024-05-29 17:51:02] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-05-29 20:09:28] Client version: 1716584667
+[2024-05-29 20:09:28] Loaded client id: 900279379268151527
+[2024-05-29 20:09:28] Listening for IPv4 broadcast on: 27036
+[2024-05-29 20:09:28] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-13 16:50:42] Client version: 1716584667
+[2024-06-13 16:50:42] Loaded client id: 900279379268151527
+[2024-06-13 16:50:42] Listening for IPv4 broadcast on: 27036
+[2024-06-13 16:50:42] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-13 22:43:21] Client version: 1716584667
+[2024-06-13 22:43:21] Loaded client id: 900279379268151527
+[2024-06-13 22:43:21] Listening for IPv4 broadcast on: 27036
+[2024-06-13 22:43:21] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-14 23:57:23] Client version: 1716584667
+[2024-06-14 23:57:23] Loaded client id: 900279379268151527
+[2024-06-14 23:57:23] Listening for IPv4 broadcast on: 27036
+[2024-06-14 23:57:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-15 22:46:05] Client version: 1718305227
+[2024-06-15 22:46:05] Loaded client id: 900279379268151527
+[2024-06-15 22:46:05] Listening for IPv4 broadcast on: 27036
+[2024-06-15 22:46:05] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-15 22:50:31] Client version: 1718305227
+[2024-06-15 22:50:31] Loaded client id: 900279379268151527
+[2024-06-15 22:50:31] Listening for IPv4 broadcast on: 27036
+[2024-06-15 22:50:31] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-17 10:24:22] Client version: 1718305227
+[2024-06-17 10:24:22] Loaded client id: 900279379268151527
+[2024-06-17 10:24:22] Listening for IPv4 broadcast on: 27036
+[2024-06-17 10:24:22] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-19 13:56:11] Client version: 1718751621
+[2024-06-19 13:56:11] Loaded client id: 900279379268151527
+[2024-06-19 13:56:11] Listening for IPv4 broadcast on: 27036
+[2024-06-19 13:56:11] Listening for connections on: 0.0.0.0:27036
+[2024-06-19 13:56:12] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-06-19 13:56:12] Client 15245563831188945744 (tpt470s) connected via indirect connection
+[2024-06-19 13:56:13] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-06-19 13:56:14] BAcceptConnection: 192.168.18.5:49897
+[2024-06-19 13:56:14] Incoming connection accepted: 0x89 192.168.18.5:49897
+[2024-06-19 13:56:14] Client 15245563831188945744 (tpt470s) disconnected
+[2024-06-19 13:56:14] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-06-19 13:56:16] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-06-19 13:56:17] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-06-19 13:56:19] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-06-19 13:56:40] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-06-19 13:57:30] SSGL: RPT client
+[2024-06-19 13:58:19] Client 15245563831188945744 (tpt470s) disconnected
+[2024-06-19 13:58:19] Disconnected from remote client: 0x89 15245563831188945744, trying indirect connection
+[2024-06-19 13:58:19] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-06-19 13:59:24] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-06-19 13:59:24] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-06-19 13:59:24] BAcceptConnection: 192.168.18.5:35643
+[2024-06-19 13:59:24] Incoming connection accepted: 0xbd 192.168.18.5:35643
+[2024-06-19 13:59:24] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-06-19 13:59:24] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-06-19 13:59:24] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-06-19 13:59:26] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-06-19 13:59:26] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-06-19 13:59:28] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-06-19 13:59:28] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-06-19 13:59:30] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-06-19 13:59:30] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-06-19 13:59:47] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-06-19 13:59:47] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+
+
+[2024-06-23 16:39:59] Client version: 1718904662
+[2024-06-23 16:39:59] Loaded client id: 900279379268151527
+[2024-06-23 16:39:59] Listening for IPv4 broadcast on: 27036
+[2024-06-23 16:39:59] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-23 23:58:59] Client version: 1718904662
+[2024-06-23 23:58:59] Loaded client id: 900279379268151527
+[2024-06-23 23:58:59] Listening for IPv4 broadcast on: 27036
+[2024-06-23 23:58:59] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-29 21:38:23] Client version: 1718904662
+[2024-06-29 21:38:23] Loaded client id: 900279379268151527
+[2024-06-29 21:38:23] Listening for IPv4 broadcast on: 27036
+[2024-06-29 21:38:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-30 16:54:40] Client version: 1718904662
+[2024-06-30 16:54:40] Loaded client id: 900279379268151527
+[2024-06-30 16:54:40] Listening for IPv4 broadcast on: 27036
+[2024-06-30 16:54:40] Listening for connections on: 0.0.0.0:27036
+[2024-06-30 16:56:40] SSGL: RPT client
+[2024-06-30 16:59:04] SSGL: RPT client
+[2024-06-30 17:14:50] SSGL: RPT client
+
+
+[2024-07-01 21:13:27] Client version: 1718904662
+[2024-07-01 21:13:27] Loaded client id: 900279379268151527
+[2024-07-01 21:13:27] Listening for IPv4 broadcast on: 27036
+[2024-07-01 21:13:27] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-01 23:40:06] Client version: 1718904662
+[2024-07-01 23:40:06] Loaded client id: 900279379268151527
+[2024-07-01 23:40:06] Listening for IPv4 broadcast on: 27036
+[2024-07-01 23:40:06] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-01 23:49:46] Client version: 1718904662
+[2024-07-01 23:49:46] Loaded client id: 900279379268151527
+[2024-07-01 23:49:46] Listening for IPv4 broadcast on: 27036
+[2024-07-01 23:49:46] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-02 00:20:37] Client version: 1718904662
+[2024-07-02 00:20:37] Loaded client id: 900279379268151527
+[2024-07-02 00:20:37] Listening for IPv4 broadcast on: 27036
+[2024-07-02 00:20:37] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 00:06:19] Client version: 1718904662
+[2024-07-04 00:06:19] Loaded client id: 900279379268151527
+[2024-07-04 00:06:19] Listening for IPv4 broadcast on: 27036
+[2024-07-04 00:06:19] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 00:37:20] Client version: 1718904662
+[2024-07-04 00:37:20] Loaded client id: 900279379268151527
+[2024-07-04 00:37:20] Listening for IPv4 broadcast on: 27036
+[2024-07-04 00:37:20] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 00:37:57] Client version: 1718904662
+[2024-07-04 00:37:57] Loaded client id: 900279379268151527
+[2024-07-04 00:37:57] Listening for IPv4 broadcast on: 27036
+[2024-07-04 00:37:57] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 00:51:47] Client version: 1718904662
+[2024-07-04 00:51:47] Loaded client id: 900279379268151527
+[2024-07-04 00:51:47] Listening for IPv4 broadcast on: 27036
+[2024-07-04 00:51:47] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 17:31:03] Client version: 1718904662
+[2024-07-04 17:31:03] Loaded client id: 900279379268151527
+[2024-07-04 17:31:03] Listening for IPv4 broadcast on: 27036
+[2024-07-04 17:31:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 20:13:36] Client version: 1718904662
+[2024-07-04 20:13:36] Loaded client id: 900279379268151527
+[2024-07-04 20:13:36] Listening for IPv4 broadcast on: 27036
+[2024-07-04 20:13:36] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-04 20:14:30] Client version: 1718904662
+[2024-07-04 20:14:30] Loaded client id: 900279379268151527
+[2024-07-04 20:14:30] Listening for IPv4 broadcast on: 27036
+[2024-07-04 20:14:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-08 14:10:06] Client version: 1718904662
+[2024-07-08 14:10:06] Loaded client id: 900279379268151527
+[2024-07-08 14:10:06] Listening for IPv4 broadcast on: 27036
+[2024-07-08 14:10:06] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-08 22:34:20] Client version: 1718904662
+[2024-07-08 22:34:20] Loaded client id: 900279379268151527
+[2024-07-08 22:34:20] Listening for IPv4 broadcast on: 27036
+[2024-07-08 22:34:20] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-09 12:41:42] Client version: 1718904662
+[2024-07-09 12:41:42] Loaded client id: 900279379268151527
+[2024-07-09 12:41:42] Listening for IPv4 broadcast on: 27036
+[2024-07-09 12:41:42] Listening for connections on: 0.0.0.0:27036
+[2024-07-09 12:41:43] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-09 12:41:47] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-09 12:42:10] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-11 19:55:53] Client version: 1718904662
+[2024-07-11 19:55:53] Loaded client id: 900279379268151527
+[2024-07-11 19:55:53] Listening for IPv4 broadcast on: 27036
+[2024-07-11 19:55:53] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-11 23:19:57] Client version: 1718904662
+[2024-07-11 23:19:57] Loaded client id: 900279379268151527
+[2024-07-11 23:19:57] Listening for IPv4 broadcast on: 27036
+[2024-07-11 23:19:57] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-12 00:32:04] Client version: 1718904662
+[2024-07-12 00:32:04] Loaded client id: 900279379268151527
+[2024-07-12 00:32:04] Listening for IPv4 broadcast on: 27036
+[2024-07-12 00:32:04] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-12 11:37:28] Client version: 1718904662
+[2024-07-12 11:37:28] Loaded client id: 900279379268151527
+[2024-07-12 11:37:28] Listening for IPv4 broadcast on: 27036
+[2024-07-12 11:37:28] Listening for connections on: 0.0.0.0:27036
+[2024-07-12 12:17:46] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-12 12:17:46] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-12 12:17:46] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-12 12:17:46] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-12 12:17:47] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-12 12:17:48] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-12 12:17:51] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-12 12:17:51] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-12 12:17:54] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-12 12:17:54] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-12 12:18:07] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-12 12:18:07] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-12 12:26:54] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-12 17:24:25] Client version: 1718904662
+[2024-07-12 17:24:25] Loaded client id: 900279379268151527
+[2024-07-12 17:24:25] Listening for IPv4 broadcast on: 27036
+[2024-07-12 17:24:25] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-13 13:27:17] Client version: 1718904662
+[2024-07-13 13:27:17] Loaded client id: 900279379268151527
+[2024-07-13 13:27:17] Listening for IPv4 broadcast on: 27036
+[2024-07-13 13:27:17] Listening for connections on: 0.0.0.0:27036
+[2024-07-13 13:27:17] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 13:27:19] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 13:27:35] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-13 15:16:19] Client version: 1718904662
+[2024-07-13 15:16:19] Loaded client id: 900279379268151527
+[2024-07-13 15:16:19] Listening for IPv4 broadcast on: 27036
+[2024-07-13 15:16:19] Listening for connections on: 0.0.0.0:27036
+[2024-07-13 15:16:19] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-13 15:16:19] BAcceptConnection: 192.168.18.6:43309
+[2024-07-13 15:16:19] Incoming connection accepted: 0x2d 192.168.18.6:43309
+[2024-07-13 15:16:19] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-13 15:16:20] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-13 15:16:22] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-13 15:16:23] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-13 15:16:28] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-13 15:16:42] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-13 15:17:37] Received authorization request with device ID 15245563831188945744 from 
+[2024-07-13 15:17:40] Received authorization cancellation request with device ID 15245563831188945744 from 
+[2024-07-13 15:17:40] Responding to authorization request from  with k_ERemoteDeviceAuthorizationCanceled
+
+
+[2024-07-13 23:01:34] Client version: 1718904662
+[2024-07-13 23:01:34] Loaded client id: 900279379268151527
+[2024-07-13 23:01:34] Listening for IPv4 broadcast on: 27036
+[2024-07-13 23:01:34] Listening for connections on: 0.0.0.0:27036
+[2024-07-13 23:16:52] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 23:16:52] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-13 23:16:52] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 23:16:52] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-13 23:16:53] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-13 23:16:53] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-13 23:16:55] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 23:16:55] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 23:16:58] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-13 23:16:58] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-13 23:17:20] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-13 23:17:20] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-13 23:30:54] Client version: 1718904662
+[2024-07-13 23:30:54] Loaded client id: 900279379268151527
+[2024-07-13 23:30:54] Listening for IPv4 broadcast on: 27036
+[2024-07-13 23:30:54] Listening for connections on: 0.0.0.0:27036
+[2024-07-13 23:30:54] BAcceptConnection: 192.168.18.5:46655
+[2024-07-13 23:30:54] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:30:54] Incoming connection accepted: 0x2d 192.168.18.5:46655
+[2024-07-13 23:30:55] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-13 23:30:55] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-13 23:30:56] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-13 23:30:56] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:31:03] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-13 23:31:20] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:31:41] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-13 23:31:41] Disconnected from remote client: 0x2d 15245563831188945744, trying indirect connection
+[2024-07-13 23:31:41] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:31:41] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:31:56] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:31:56] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:31:56] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:31:56] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:31:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:31:58] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:31:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:31:58] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:32:02] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:32:02] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-13 23:32:16] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:32:16] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:43:07] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:43:12] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:43:34] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:46:15] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:46:20] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:46:41] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:48:36] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:48:40] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-13 23:49:05] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+
+
+[2024-07-13 23:50:44] Client version: 1718904662
+[2024-07-13 23:50:44] Loaded client id: 900279379268151527
+[2024-07-13 23:50:44] Listening for IPv4 broadcast on: 27036
+[2024-07-13 23:50:44] Listening for connections on: 0.0.0.0:27036
+[2024-07-14 00:27:54] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 00:27:54] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 00:27:54] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 00:27:54] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 00:27:54] BAcceptConnection: 192.168.18.5:37073
+[2024-07-14 00:27:54] Incoming connection accepted: 0x9d 192.168.18.5:37073
+[2024-07-14 00:27:54] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-14 00:27:57] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 00:27:57] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 00:27:58] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 00:27:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 00:27:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 00:27:59] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 00:28:01] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 00:28:01] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 00:28:02] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 00:28:20] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 00:28:20] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 00:28:21] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 00:30:58] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-14 01:10:07] Client version: 1718904662
+[2024-07-14 01:10:07] Loaded client id: 900279379268151527
+[2024-07-14 01:10:07] Listening for IPv4 broadcast on: 27036
+[2024-07-14 01:10:07] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-14 14:28:38] Client version: 1718904662
+[2024-07-14 14:28:38] Loaded client id: 900279379268151527
+[2024-07-14 14:28:38] Listening for IPv4 broadcast on: 27036
+[2024-07-14 14:28:38] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-14 14:30:16] Client version: 1718904662
+[2024-07-14 14:30:16] Loaded client id: 900279379268151527
+[2024-07-14 14:30:16] Listening for IPv4 broadcast on: 27036
+[2024-07-14 14:30:16] Listening for connections on: 0.0.0.0:27036
+[2024-07-14 14:31:38] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 14:31:38] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 14:31:38] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 14:31:38] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 14:31:38] BAcceptConnection: 192.168.18.5:35383
+[2024-07-14 14:31:38] Incoming connection accepted: 0xb9 192.168.18.5:35383
+[2024-07-14 14:31:38] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-14 14:31:39] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 14:31:39] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 14:31:41] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 14:31:41] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 14:31:41] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 14:31:41] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 14:31:42] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 14:31:42] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 14:31:48] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 14:31:48] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 14:31:49] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 14:31:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 14:31:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 14:31:58] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 14:32:26] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-14 15:43:33] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:43:33] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:43:33] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:43:33] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:43:34] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:43:34] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:43:36] Client 15245563831188945744 (tpt470s) connected via indirect connection
+[2024-07-14 15:43:37] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:43:37] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:43:37] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 15:43:38] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:43:38] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:43:38] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 15:43:38] BAcceptConnection: 192.168.18.5:40815
+[2024-07-14 15:43:38] Incoming connection accepted: 0x1dd 192.168.18.5:40815
+[2024-07-14 15:43:38] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-14 15:43:38] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-14 15:43:53] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:43:53] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:43:53] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 15:45:09] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-14 15:45:09] Disconnected from remote client: 0x1dd 15245563831188945744, trying indirect connection
+[2024-07-14 15:45:10] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:45:10] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:06] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:46:06] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:06] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:46:06] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:09] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:46:09] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:09] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:46:09] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:14] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:14] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 15:46:24] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 15:46:24] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+
+
+[2024-07-14 23:45:10] Client version: 1718904662
+[2024-07-14 23:45:10] Loaded client id: 900279379268151527
+[2024-07-14 23:45:10] Listening for IPv4 broadcast on: 27036
+[2024-07-14 23:45:10] Listening for connections on: 0.0.0.0:27036
+[2024-07-14 23:45:39] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:45:39] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:45:39] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:45:40] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:45:42] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:45:42] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:45:42] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:45:43] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:45:48] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:45:49] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:46:04] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:46:04] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:47:17] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:17] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:29] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:47:29] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:29] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:47:29] BAcceptConnection: 192.168.18.5:41117
+[2024-07-14 23:47:29] Incoming connection accepted: 0x91 192.168.18.5:41117
+[2024-07-14 23:47:29] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-14 23:47:29] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:29] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 23:47:29] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 23:47:31] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:31] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:31] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 23:47:34] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:47:34] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-14 23:47:34] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-14 23:47:38] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:38] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-14 23:47:38] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-14 23:48:15] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-15 15:03:34] Client version: 1718904662
+[2024-07-15 15:03:34] Loaded client id: 900279379268151527
+[2024-07-15 15:03:34] Listening for IPv4 broadcast on: 27036
+[2024-07-15 15:03:34] Listening for connections on: 0.0.0.0:27036
+[2024-07-15 15:03:34] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:03:34] BAcceptConnection: 192.168.18.9:56897
+[2024-07-15 15:03:34] Incoming connection accepted: 0x2d 192.168.18.9:56897
+[2024-07-15 15:03:35] Client 3075563792148672893 (arch) connected via direct connection
+[2024-07-15 15:03:35] Received broadcast message from client 3075563792148672893 (arch): 3075563792148672893:27036
+[2024-07-15 15:03:37] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:03:38] Received broadcast message from client 3075563792148672893 (arch): 3075563792148672893:27036
+[2024-07-15 15:03:51] Client 3075563792148672893 (arch) disconnected
+[2024-07-15 15:04:07] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-15 15:04:27] Client version: 1718904662
+[2024-07-15 15:04:27] Loaded client id: 900279379268151527
+[2024-07-15 15:04:27] Listening for IPv4 broadcast on: 27036
+[2024-07-15 15:04:27] Listening for connections on: 0.0.0.0:27036
+[2024-07-15 15:04:27] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:04:32] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:04:47] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:04:47] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:04:49] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:05:10] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:27:07] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:27:12] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-15 15:27:28] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-15 17:12:44] Client version: 1718904662
+[2024-07-15 17:12:44] Loaded client id: 900279379268151527
+[2024-07-15 17:12:44] Listening for IPv4 broadcast on: 27036
+[2024-07-15 17:12:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-16 14:17:18] Client version: 1718904662
+[2024-07-16 14:17:18] Loaded client id: 900279379268151527
+[2024-07-16 14:17:18] Listening for IPv4 broadcast on: 27036
+[2024-07-16 14:17:18] Listening for connections on: 0.0.0.0:27036
+[2024-07-16 14:17:18] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:17:22] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:17:38] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:22:15] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:22:19] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:22:38] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:58:44] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:58:46] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-16 14:59:04] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-16 15:54:05] Client version: 1718904662
+[2024-07-16 15:54:05] Loaded client id: 900279379268151527
+[2024-07-16 15:54:05] Listening for IPv4 broadcast on: 27036
+[2024-07-16 15:54:05] Listening for connections on: 0.0.0.0:27036
+[2024-07-16 16:45:04] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:04] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:04] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:04] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:04] BAcceptConnection: 192.168.18.5:60609
+[2024-07-16 16:45:04] Incoming connection accepted: 0x231 192.168.18.5:60609
+[2024-07-16 16:45:04] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-16 16:45:04] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 16:45:04] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 16:45:05] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:05] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:05] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 16:45:06] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:06] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:07] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 16:45:10] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:10] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:11] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 16:45:22] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-16 16:45:22] Disconnected from remote client: 0x231 15245563831188945744, trying indirect connection
+[2024-07-16 16:45:22] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:22] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:39] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:39] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:39] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:39] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:41] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:41] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:42] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:42] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:45:47] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:45:47] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:46:07] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:46:07] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:47:41] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:47:41] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:47:50] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:47:50] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:47:50] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:47:50] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:47:50] BAcceptConnection: 192.168.18.5:37617
+[2024-07-16 16:47:50] Incoming connection accepted: 0x2a1 192.168.18.5:37617
+[2024-07-16 16:47:50] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-16 16:47:50] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 16:47:50] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 16:47:52] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:47:52] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:47:52] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 16:47:53] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:47:53] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:47:53] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 16:48:00] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:48:00] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 16:48:00] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 16:48:12] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:48:12] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 16:48:12] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 16:50:10] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-16 17:13:49] Client version: 1718904662
+[2024-07-16 17:13:49] Loaded client id: 900279379268151527
+[2024-07-16 17:13:49] Listening for IPv4 broadcast on: 27036
+[2024-07-16 17:13:49] Listening for connections on: 0.0.0.0:27036
+[2024-07-16 17:14:18] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:18] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:18] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:18] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:20] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:20] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:21] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:21] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:25] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:25] Received offline message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:43] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:43] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:43] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:43] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:43] BAcceptConnection: 192.168.18.5:58149
+[2024-07-16 17:14:43] Incoming connection accepted: 0x75 192.168.18.5:58149
+[2024-07-16 17:14:43] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-16 17:14:43] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 17:14:43] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 17:14:44] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:44] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:14:44] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 17:14:47] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:47] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:14:47] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 17:15:30] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-16 17:32:48] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:32:48] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:32:48] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:32:48] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:32:49] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:32:49] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:32:51] Client 15245563831188945744 (tpt470s) connected via indirect connection
+[2024-07-16 17:32:53] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:32:53] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:32:53] BAcceptConnection: 192.168.18.5:60993
+[2024-07-16 17:32:53] Incoming connection accepted: 0xa9 192.168.18.5:60993
+[2024-07-16 17:32:53] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-16 17:32:53] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-16 17:32:54] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 17:32:54] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:32:54] Received discovery message from client 15245563831188945744 at 192.168.18.5:27036
+[2024-07-16 17:32:55] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-16 17:33:11] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:33:11] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.5:27036
+[2024-07-16 17:33:12] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-16 17:33:40] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-16 20:55:44] Client version: 1718904662
+[2024-07-16 20:55:44] Loaded client id: 900279379268151527
+[2024-07-16 20:55:44] Listening for IPv4 broadcast on: 27036
+[2024-07-16 20:55:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-17 08:28:23] Client version: 1721173382
+[2024-07-17 08:28:23] Loaded client id: 900279379268151527
+[2024-07-17 08:28:23] Listening for IPv4 broadcast on: 27036
+[2024-07-17 08:28:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-17 15:21:06] Client version: 1721173382
+[2024-07-17 15:21:06] Loaded client id: 900279379268151527
+[2024-07-17 15:21:06] Listening for IPv4 broadcast on: 27036
+[2024-07-17 15:21:06] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-17 17:32:13] Client version: 1721173382
+[2024-07-17 17:32:13] Loaded client id: 900279379268151527
+[2024-07-17 17:32:13] Listening for IPv4 broadcast on: 27036
+[2024-07-17 17:32:13] Listening for connections on: 0.0.0.0:27036
+[2024-07-17 17:35:26] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:35:26] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:26] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:35:26] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:28] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:28] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:30] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:35:30] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:35:34] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:34] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:49] Received offline message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:35:49] Received offline message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:10] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:10] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:10] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:10] BAcceptConnection: 192.168.18.6:42087
+[2024-07-17 17:36:10] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:10] Incoming connection accepted: 0x89 192.168.18.6:42087
+[2024-07-17 17:36:10] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-17 17:36:10] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-17 17:36:10] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-17 17:36:11] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:11] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:11] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-17 17:36:15] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:15] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:15] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-17 17:36:18] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:18] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-17 17:36:18] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-17 17:36:34] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:34] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:34] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-17 17:36:51] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:36:52] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-17 17:36:53] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-17 17:36:55] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-17 17:37:28] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-18 11:38:12] Client version: 1721173382
+[2024-07-18 11:38:12] Loaded client id: 900279379268151527
+[2024-07-18 11:38:12] Listening for IPv4 broadcast on: 27036
+[2024-07-18 11:38:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-18 12:27:15] Client version: 1721173382
+[2024-07-18 12:27:15] Loaded client id: 900279379268151527
+[2024-07-18 12:27:15] Listening for IPv4 broadcast on: 27036
+[2024-07-18 12:27:15] Listening for connections on: 0.0.0.0:27036
+[2024-07-18 12:27:44] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:27:44] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-18 12:27:44] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:27:44] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-18 12:27:44] BAcceptConnection: 192.168.18.6:57359
+[2024-07-18 12:27:44] Incoming connection accepted: 0x59 192.168.18.6:57359
+[2024-07-18 12:27:44] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-18 12:27:45] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-18 12:27:45] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-18 12:27:47] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:27:47] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:27:47] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-18 12:27:51] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-18 12:27:51] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-18 12:27:51] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-18 12:27:53] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:27:53] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-18 12:27:56] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:28:01] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-18 12:28:01] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-18 12:28:04] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:28:04] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-18 12:28:04] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-18 12:28:32] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-19 11:37:32] Client version: 1721173382
+[2024-07-19 11:37:32] Loaded client id: 900279379268151527
+[2024-07-19 11:37:32] Listening for IPv4 broadcast on: 27036
+[2024-07-19 11:37:32] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-19 19:46:09] Client version: 1721173382
+[2024-07-19 19:46:09] Loaded client id: 900279379268151527
+[2024-07-19 19:46:09] Listening for IPv4 broadcast on: 27036
+[2024-07-19 19:46:09] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-19 21:48:19] Client version: 1721173382
+[2024-07-19 21:48:19] Loaded client id: 900279379268151527
+[2024-07-19 21:48:19] Listening for IPv4 broadcast on: 27036
+[2024-07-19 21:48:19] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-20 13:12:21] Client version: 1721173382
+[2024-07-20 13:12:21] Loaded client id: 900279379268151527
+[2024-07-20 13:12:21] Listening for IPv4 broadcast on: 27036
+[2024-07-20 13:12:21] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-20 13:29:38] Client version: 1721173382
+[2024-07-20 13:29:38] Loaded client id: 900279379268151527
+[2024-07-20 13:29:38] Listening for IPv4 broadcast on: 27036
+[2024-07-20 13:29:38] Listening for connections on: 0.0.0.0:27036
+[2024-07-20 14:33:41] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 14:33:41] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-20 14:33:41] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 14:33:41] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-20 14:33:44] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 14:33:44] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-20 14:33:44] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 14:33:44] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-20 14:33:48] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-20 14:33:48] Received discovery message from client 3075563792148672893 at 192.168.18.9:27036
+[2024-07-20 14:33:59] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 14:33:59] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 15:23:44] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 15:23:48] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 15:24:04] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 15:26:14] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-20 15:26:18] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-21 13:22:27] Client version: 1721173382
+[2024-07-21 13:22:27] Loaded client id: 900279379268151527
+[2024-07-21 13:22:27] Listening for IPv4 broadcast on: 27036
+[2024-07-21 13:22:27] Listening for connections on: 0.0.0.0:27036
+[2024-07-21 13:22:28] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:22:32] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:22:55] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:22:59] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:23:03] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:23:27] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:23:47] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:23:50] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:24:05] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:24:10] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:24:25] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:50:50] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:50:53] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 13:51:18] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-21 15:07:10] Client version: 1721173382
+[2024-07-21 15:07:10] Loaded client id: 900279379268151527
+[2024-07-21 15:07:10] Listening for IPv4 broadcast on: 27036
+[2024-07-21 15:07:10] Listening for connections on: 0.0.0.0:27036
+[2024-07-21 15:07:10] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:07:14] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:07:29] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:08:24] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:08:28] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:08:49] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:36:32] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:36:35] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+[2024-07-21 15:36:56] Received broadcast message from client 3075563792148672893 (arch): 192.168.18.9:27036
+
+
+[2024-07-21 19:04:28] Client version: 1721173382
+[2024-07-21 19:04:28] Loaded client id: 900279379268151527
+[2024-07-21 19:04:28] Listening for IPv4 broadcast on: 27036
+[2024-07-21 19:04:28] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-21 22:51:30] Client version: 1721173382
+[2024-07-21 22:51:30] Loaded client id: 900279379268151527
+[2024-07-21 22:51:30] Listening for IPv4 broadcast on: 27036
+[2024-07-21 22:51:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-22 12:13:21] Client version: 1721173382
+[2024-07-22 12:13:21] Loaded client id: 900279379268151527
+[2024-07-22 12:13:21] Listening for IPv4 broadcast on: 27036
+[2024-07-22 12:13:21] Listening for connections on: 0.0.0.0:27036
+[2024-07-22 12:58:52] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 12:58:52] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 12:58:52] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 12:58:52] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 12:58:52] BAcceptConnection: 192.168.18.6:53833
+[2024-07-22 12:58:52] Incoming connection accepted: 0xe1 192.168.18.6:53833
+[2024-07-22 12:58:52] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 12:58:52] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-22 12:58:52] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-22 12:58:53] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 12:58:53] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 12:58:53] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-22 12:58:55] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 12:58:55] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 12:58:55] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 12:58:58] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 12:58:58] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 12:58:59] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-22 12:59:40] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-22 15:25:07] Client version: 1721173382
+[2024-07-22 15:25:07] Loaded client id: 900279379268151527
+[2024-07-22 15:25:07] Listening for IPv4 broadcast on: 27036
+[2024-07-22 15:25:07] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-22 16:14:12] Client version: 1721173382
+[2024-07-22 16:14:12] Loaded client id: 900279379268151527
+[2024-07-22 16:14:12] Listening for IPv4 broadcast on: 27036
+[2024-07-22 16:14:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-22 17:37:07] Client version: 1721173382
+[2024-07-22 17:37:07] Loaded client id: 900279379268151527
+[2024-07-22 17:37:07] Listening for IPv4 broadcast on: 27036
+[2024-07-22 17:37:07] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-22 18:05:49] Client version: 1721173382
+[2024-07-22 18:05:49] Loaded client id: 900279379268151527
+[2024-07-22 18:05:49] Listening for IPv4 broadcast on: 27036
+[2024-07-22 18:05:49] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-22 18:08:32] Client version: 1721173382
+[2024-07-22 18:08:32] Loaded client id: 900279379268151527
+[2024-07-22 18:08:32] Listening for IPv4 broadcast on: 27036
+[2024-07-22 18:08:32] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-22 23:35:25] Client version: 1721173382
+[2024-07-22 23:35:25] Loaded client id: 900279379268151527
+[2024-07-22 23:35:25] Listening for IPv4 broadcast on: 27036
+[2024-07-22 23:35:25] Listening for connections on: 0.0.0.0:27036
+[2024-07-22 23:36:17] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:17] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 23:36:17] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:17] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 23:36:17] BAcceptConnection: 192.168.18.6:47325
+[2024-07-22 23:36:17] Incoming connection accepted: 0x85 192.168.18.6:47325
+[2024-07-22 23:36:17] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-22 23:36:17] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 23:36:17] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-22 23:36:18] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 23:36:18] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 23:36:18] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-22 23:36:19] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:19] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:19] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 23:36:24] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 23:36:24] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-22 23:36:24] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-22 23:36:36] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:36] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:36] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 23:36:39] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:39] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 23:36:40] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 23:36:44] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:36:46] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-22 23:37:01] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-22 23:49:45] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-23 00:22:21] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-23 00:22:21] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-23 00:22:21] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-23 00:22:21] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-23 00:22:23] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-23 00:22:23] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-23 00:22:23] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-23 00:22:23] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-23 00:22:23] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-23 00:22:23] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-23 00:22:24] Client 15245563831188945744 (tpt470s) connected via indirect connection
+[2024-07-23 00:22:24] BAcceptConnection: 192.168.18.6:35349
+[2024-07-23 00:22:24] Incoming connection accepted: 0x105 192.168.18.6:35349
+[2024-07-23 00:22:24] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-23 00:22:24] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-23 00:22:27] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-23 00:22:27] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-23 00:22:28] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-23 00:22:43] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-23 00:22:43] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-23 00:22:44] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-23 00:25:45] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-23 13:40:29] Client version: 1721173382
+[2024-07-23 13:40:29] Loaded client id: 900279379268151527
+[2024-07-23 13:40:29] Listening for IPv4 broadcast on: 27036
+[2024-07-23 13:40:29] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-26 11:59:45] Client version: 1721173382
+[2024-07-26 11:59:45] Loaded client id: 900279379268151527
+[2024-07-26 11:59:45] Listening for IPv4 broadcast on: 27036
+[2024-07-26 11:59:45] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-26 12:35:44] Client version: 1721173382
+[2024-07-26 12:35:44] Loaded client id: 900279379268151527
+[2024-07-26 12:35:44] Listening for IPv4 broadcast on: 27036
+[2024-07-26 12:35:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-27 08:57:33] Client version: 1721173382
+[2024-07-27 08:57:33] Loaded client id: 900279379268151527
+[2024-07-27 08:57:33] Listening for IPv4 broadcast on: 27036
+[2024-07-27 08:57:33] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-27 12:42:50] Client version: 1721173382
+[2024-07-27 12:42:50] Loaded client id: 900279379268151527
+[2024-07-27 12:42:50] Listening for IPv4 broadcast on: 27036
+[2024-07-27 12:42:50] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-27 23:03:47] Client version: 1721173382
+[2024-07-27 23:03:47] Loaded client id: 900279379268151527
+[2024-07-27 23:03:47] Listening for IPv4 broadcast on: 27036
+[2024-07-27 23:03:47] Listening for connections on: 0.0.0.0:27036
+[2024-07-27 23:11:58] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-27 23:11:58] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-27 23:11:58] BAcceptConnection: 192.168.18.6:52743
+[2024-07-27 23:11:58] Incoming connection accepted: 0x79 192.168.18.6:52743
+[2024-07-27 23:11:58] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-27 23:11:58] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-27 23:11:58] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-27 23:12:00] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-27 23:12:00] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-27 23:12:01] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-27 23:12:01] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-27 23:12:07] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-27 23:12:07] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-27 23:12:21] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-27 23:12:22] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-27 23:13:18] Client 15245563831188945744 (tpt470s) disconnected
+
+
+[2024-07-28 09:52:33] Client version: 1721173382
+[2024-07-28 09:52:33] Loaded client id: 900279379268151527
+[2024-07-28 09:52:33] Listening for IPv4 broadcast on: 27036
+[2024-07-28 09:52:33] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-28 10:04:26] Client version: 1721173382
+[2024-07-28 10:04:26] Loaded client id: 900279379268151527
+[2024-07-28 10:04:26] Listening for IPv4 broadcast on: 27036
+[2024-07-28 10:04:26] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-28 13:01:22] Client version: 1721173382
+[2024-07-28 13:01:22] Loaded client id: 900279379268151527
+[2024-07-28 13:01:22] Listening for IPv4 broadcast on: 27036
+[2024-07-28 13:01:22] Listening for connections on: 0.0.0.0:27036
+[2024-07-28 13:01:22] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 13:01:22] BAcceptConnection: 192.168.18.6:53093
+[2024-07-28 13:01:22] Incoming connection accepted: 0x3d 192.168.18.6:53093
+[2024-07-28 13:01:22] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-28 13:01:23] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 13:01:24] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 13:01:24] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 13:01:28] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 13:01:35] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 13:01:36] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 13:01:38] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 13:01:39] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 13:01:44] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 13:02:00] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 13:05:02] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-28 13:05:02] Disconnected from remote client: 0x3d 15245563831188945744, trying indirect connection
+[2024-07-28 14:20:07] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:20:07] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:20:07] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:20:07] BAcceptConnection: 192.168.18.6:54895
+[2024-07-28 14:20:07] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:20:07] Incoming connection accepted: 0x30d 192.168.18.6:54895
+[2024-07-28 14:20:07] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-28 14:20:07] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 14:20:07] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-28 14:20:10] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:20:10] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:20:10] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-28 14:20:12] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:20:12] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:20:12] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 14:20:17] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:20:17] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:20:17] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-28 14:20:30] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:20:30] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:20:30] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 14:22:24] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:22:24] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:22:24] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:22:25] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:22:25] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:22:28] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:22:28] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:22:29] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 14:22:31] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:22:31] Received discovery message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 14:22:32] Received discovery message from client 15245563831188945744 at 15245563831188945744
+[2024-07-28 14:22:50] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:22:50] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:22:51] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 14:23:10] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 14:23:10] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 14:23:12] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+
+
+[2024-07-28 15:22:05] Client version: 1721173382
+[2024-07-28 15:22:05] Loaded client id: 900279379268151527
+[2024-07-28 15:22:05] Listening for IPv4 broadcast on: 27036
+[2024-07-28 15:22:05] Listening for connections on: 0.0.0.0:27036
+[2024-07-28 15:22:05] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 15:22:05] BAcceptConnection: 192.168.18.6:55919
+[2024-07-28 15:22:05] Incoming connection accepted: 0x31 192.168.18.6:55919
+[2024-07-28 15:22:05] Client 15245563831188945744 (tpt470s) connected via direct connection
+[2024-07-28 15:22:05] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 15:22:06] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 15:22:10] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 15:22:12] Received broadcast message from client 15245563831188945744 (tpt470s): 15245563831188945744:27036
+[2024-07-28 15:22:27] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 15:22:30] Received broadcast message from client 15245563831188945744 (tpt470s): 192.168.18.6:27036
+[2024-07-28 15:22:32] Client 15245563831188945744 (tpt470s) disconnected
+[2024-07-28 15:22:32] Disconnected from remote client: 0x31 15245563831188945744, trying indirect connection
+[2024-07-28 15:22:32] Received offline message from client 15245563831188945744 at 192.168.18.6:27036
+[2024-07-28 15:22:32] Received offline message from client 15245563831188945744 at 192.168.18.6:27036
+
+
+[2024-07-28 16:36:41] Client version: 1721173382
+[2024-07-28 16:36:41] Loaded client id: 900279379268151527
+[2024-07-28 16:36:41] Listening for IPv4 broadcast on: 27036
+[2024-07-28 16:36:41] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-28 22:23:27] Client version: 1721173382
+[2024-07-28 22:23:27] Loaded client id: 900279379268151527
+[2024-07-28 22:23:27] Listening for IPv4 broadcast on: 27036
+[2024-07-28 22:23:27] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-28 23:32:19] Client version: 1721173382
+[2024-07-28 23:32:19] Loaded client id: 900279379268151527
+[2024-07-28 23:32:19] Listening for IPv4 broadcast on: 27036
+[2024-07-28 23:32:19] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-29 01:48:23] Client version: 1721173382
+[2024-07-29 01:48:23] Loaded client id: 900279379268151527
+[2024-07-29 01:48:23] Listening for IPv4 broadcast on: 27036
+[2024-07-29 01:48:23] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-29 10:53:05] Client version: 1721173382
+[2024-07-29 10:53:05] Loaded client id: 900279379268151527
+[2024-07-29 10:53:05] Listening for IPv4 broadcast on: 27036
+[2024-07-29 10:53:05] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-30 10:34:17] Client version: 1721173382
+[2024-07-30 10:34:17] Loaded client id: 900279379268151527
+[2024-07-30 10:34:17] Listening for IPv4 broadcast on: 27036
+[2024-07-30 10:34:17] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-31 17:01:55] Client version: 1721173382
+[2024-07-31 17:01:55] Loaded client id: 900279379268151527
+[2024-07-31 17:01:55] Listening for IPv4 broadcast on: 27036
+[2024-07-31 17:01:55] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-31 23:07:12] Client version: 1721173382
+[2024-07-31 23:07:12] Loaded client id: 900279379268151527
+[2024-07-31 23:07:12] Listening for IPv4 broadcast on: 27036
+[2024-07-31 23:07:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-01 15:39:03] Client version: 1721173382
+[2024-08-01 15:39:03] Loaded client id: 900279379268151527
+[2024-08-01 15:39:03] Listening for IPv4 broadcast on: 27036
+[2024-08-01 15:39:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-02 09:12:54] Client version: 1721173382
+[2024-08-02 09:12:54] Loaded client id: 900279379268151527
+[2024-08-02 09:12:54] Listening for IPv4 broadcast on: 27036
+[2024-08-02 09:12:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-03 12:44:35] Client version: 1721173382
+[2024-08-03 12:44:35] Loaded client id: 900279379268151527
+[2024-08-03 12:44:35] Listening for IPv4 broadcast on: 27036
+[2024-08-03 12:44:35] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-03 13:02:34] Client version: 1721173382
+[2024-08-03 13:02:34] Loaded client id: 900279379268151527
+[2024-08-03 13:02:34] Listening for IPv4 broadcast on: 27036
+[2024-08-03 13:02:34] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-03 16:53:37] Client version: 1721173382
+[2024-08-03 16:53:37] Loaded client id: 900279379268151527
+[2024-08-03 16:53:37] Listening for IPv4 broadcast on: 27036
+[2024-08-03 16:53:37] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-03 20:15:00] Client version: 1721173382
+[2024-08-03 20:15:00] Loaded client id: 900279379268151527
+[2024-08-03 20:15:00] Listening for IPv4 broadcast on: 27036
+[2024-08-03 20:15:00] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-04 15:35:38] Client version: 1721173382
+[2024-08-04 15:35:38] Loaded client id: 900279379268151527
+[2024-08-04 15:35:38] Listening for IPv4 broadcast on: 27036
+[2024-08-04 15:35:38] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-07 10:29:33] Client version: 1721173382
+[2024-08-07 10:29:33] Loaded client id: 900279379268151527
+[2024-08-07 10:29:33] Listening for IPv4 broadcast on: 27036
+[2024-08-07 10:29:33] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-11 09:48:04] Client version: 1721173382
+[2024-08-11 09:48:04] Loaded client id: 900279379268151527
+[2024-08-11 09:48:04] Listening for IPv4 broadcast on: 27036
+[2024-08-11 09:48:04] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-11 09:51:32] Client version: 1721173382
+[2024-08-11 09:51:32] Loaded client id: 900279379268151527
+[2024-08-11 09:51:32] Listening for IPv4 broadcast on: 27036
+[2024-08-11 09:51:32] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-17 23:18:14] Client version: 1721173382
+[2024-08-17 23:18:14] Loaded client id: 900279379268151527
+[2024-08-17 23:18:14] Listening for IPv4 broadcast on: 27036
+[2024-08-17 23:18:14] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-18 18:04:45] Client version: 1721173382
+[2024-08-18 18:04:45] Loaded client id: 900279379268151527
+[2024-08-18 18:04:45] Listening for IPv4 broadcast on: 27036
+[2024-08-18 18:04:45] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-26 22:27:44] Client version: 1721173382
+[2024-08-26 22:27:44] Loaded client id: 900279379268151527
+[2024-08-26 22:27:44] Listening for IPv4 broadcast on: 27036
+[2024-08-26 22:27:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-09-06 17:53:54] Client version: 1721173382
+[2024-09-06 17:53:54] Loaded client id: 900279379268151527
+[2024-09-06 17:53:54] Listening for IPv4 broadcast on: 27036
+[2024-09-06 17:53:54] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-09-13 12:30:09] Client version: 1726088054
+[2024-09-13 12:30:09] Loaded client id: 900279379268151527
+[2024-09-13 12:30:09] Listening for IPv4 broadcast on: 27036
+[2024-09-13 12:30:09] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-17 13:36:38] Client version: 1726604483
+[2024-10-17 13:36:38] Loaded client id: 900279379268151527
+[2024-10-17 13:36:38] Listening for IPv4 broadcast on: 27036
+[2024-10-17 13:36:38] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-24 21:53:33] Client version: 1726604483
+[2024-10-24 21:53:33] Loaded client id: 900279379268151527
+[2024-10-24 21:53:33] Listening for IPv4 broadcast on: 27036
+[2024-10-24 21:53:33] Listening for connections on: 0.0.0.0:27036
+[2024-10-24 23:18:18] SSGL: RPT client
+
+
+[2024-10-24 23:26:02] Client version: 1726604483
+[2024-10-24 23:26:02] Loaded client id: 900279379268151527
+[2024-10-24 23:26:02] Listening for IPv4 broadcast on: 27036
+[2024-10-24 23:26:02] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-24 23:26:52] Client version: 1726604483
+[2024-10-24 23:26:52] Loaded client id: 900279379268151527
+[2024-10-24 23:26:52] Listening for IPv4 broadcast on: 27036
+[2024-10-24 23:26:52] Listening for connections on: 0.0.0.0:27036
+[2024-10-25 00:31:17] SSGL: RPT client
+[2024-10-25 00:32:48] SSGL: RPT client
+
+
+[2024-10-25 10:07:26] Client version: 1726604483
+[2024-10-25 10:07:26] Loaded client id: 900279379268151527
+[2024-10-25 10:07:26] Listening for IPv4 broadcast on: 27036
+[2024-10-25 10:07:26] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-25 12:48:43] Client version: 1726604483
+[2024-10-25 12:48:43] Loaded client id: 900279379268151527
+[2024-10-25 12:48:43] Listening for IPv4 broadcast on: 27036
+[2024-10-25 12:48:43] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-26 10:43:05] Client version: 1726604483
+[2024-10-26 10:43:05] Loaded client id: 900279379268151527
+[2024-10-26 10:43:05] Listening for IPv4 broadcast on: 27036
+[2024-10-26 10:43:05] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-27 10:29:21] Client version: 1726604483
+[2024-10-27 10:29:21] Loaded client id: 900279379268151527
+[2024-10-27 10:29:21] Listening for IPv4 broadcast on: 27036
+[2024-10-27 10:29:21] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-29 14:04:38] Client version: 1726604483
+[2024-10-29 14:04:38] Loaded client id: 900279379268151527
+[2024-10-29 14:04:38] Listening for IPv4 broadcast on: 27036
+[2024-10-29 14:04:38] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-30 09:21:04] Client version: 1726604483
+[2024-10-30 09:21:04] Loaded client id: 900279379268151527
+[2024-10-30 09:21:04] Listening for IPv4 broadcast on: 27036
+[2024-10-30 09:21:04] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-30 20:36:50] Client version: 1726604483
+[2024-10-30 20:36:50] Loaded client id: 900279379268151527
+[2024-10-30 20:36:50] Listening for IPv4 broadcast on: 27036
+[2024-10-30 20:36:50] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-01 17:55:32] Client version: 1726604483
+[2024-11-01 17:55:32] Loaded client id: 900279379268151527
+[2024-11-01 17:55:32] Listening for IPv4 broadcast on: 27036
+[2024-11-01 17:55:32] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-04 14:20:55] Client version: 1726604483
+[2024-11-04 14:20:55] Loaded client id: 900279379268151527
+[2024-11-04 14:20:55] Listening for IPv4 broadcast on: 27036
+[2024-11-04 14:20:55] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-04 14:49:11] Client version: 1726604483
+[2024-11-04 14:49:11] Loaded client id: 900279379268151527
+[2024-11-04 14:49:11] Listening for IPv4 broadcast on: 27036
+[2024-11-04 14:49:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-04 14:51:43] Client version: 1726604483
+[2024-11-04 14:51:43] Loaded client id: 900279379268151527
+[2024-11-04 14:51:43] Listening for IPv4 broadcast on: 27036
+[2024-11-04 14:51:43] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-04 23:25:12] Client version: 1726604483
+[2024-11-04 23:25:12] Loaded client id: 900279379268151527
+[2024-11-04 23:25:12] Listening for IPv4 broadcast on: 27036
+[2024-11-04 23:25:12] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-10 15:10:35] Client version: 1730853027
+[2024-11-10 15:10:35] Loaded client id: 900279379268151527
+[2024-11-10 15:10:35] Listening for IPv4 broadcast on: 27036
+[2024-11-10 15:10:35] Listening for connections on: 0.0.0.0:27036
+[2024-11-10 15:31:19] SSGL: RPT client
+[2024-11-10 15:31:51] SSGL: RPT client
+[2024-11-10 15:32:13] SSGL: RPT client
+[2024-11-10 15:37:12] SSGL: RPT client
+
+
+[2024-11-10 15:38:33] Client version: 1730853027
+[2024-11-10 15:38:33] Loaded client id: 900279379268151527
+[2024-11-10 15:38:33] Listening for IPv4 broadcast on: 27036
+[2024-11-10 15:38:33] Listening for connections on: 0.0.0.0:27036
+[2024-11-10 15:39:34] SSGL: RPT client
+[2024-11-10 17:31:38] SSGL: RPT client
+
+
+[2024-11-11 17:44:01] Client version: 1730853027
+[2024-11-11 17:44:01] Loaded client id: 900279379268151527
+[2024-11-11 17:44:01] Listening for IPv4 broadcast on: 27036
+[2024-11-11 17:44:01] Listening for connections on: 0.0.0.0:27036
+[2024-11-11 19:08:46] SSGL: RPT client
+
+
+[2024-11-12 10:08:32] Client version: 1730853027
+[2024-11-12 10:08:32] Loaded client id: 900279379268151527
+[2024-11-12 10:08:32] Listening for IPv4 broadcast on: 27036
+[2024-11-12 10:08:32] Listening for connections on: 0.0.0.0:27036
+[2024-11-12 11:21:51] SSGL: RPT client
+
+
+[2024-11-13 10:33:12] Client version: 1731433018
+[2024-11-13 10:33:12] Loaded client id: 900279379268151527
+[2024-11-13 10:33:12] Listening for IPv4 broadcast on: 27036
+[2024-11-13 10:33:12] Listening for connections on: 0.0.0.0:27036
+[2024-11-13 12:17:20] SSGL: RPT client
+
+
+[2024-11-15 12:32:58] Client version: 1731433018
+[2024-11-15 12:32:58] Loaded client id: 900279379268151527
+[2024-11-15 12:32:58] Listening for IPv4 broadcast on: 27036
+[2024-11-15 12:32:58] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 13:46:40] Client version: 1731433018
+[2024-11-18 13:46:40] Loaded client id: 900279379268151527
+[2024-11-18 13:46:40] Listening for IPv4 broadcast on: 27036
+[2024-11-18 13:46:40] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 13:47:20] Client version: 1731433018
+[2024-11-18 13:47:20] Loaded client id: 900279379268151527
+[2024-11-18 13:47:20] Listening for IPv4 broadcast on: 27036
+[2024-11-18 13:47:20] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 13:48:43] Client version: 1731433018
+[2024-11-18 13:48:43] Loaded client id: 900279379268151527
+[2024-11-18 13:48:43] Listening for IPv4 broadcast on: 27036
+[2024-11-18 13:48:43] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 13:49:47] Client version: 1731433018
+[2024-11-18 13:49:47] Loaded client id: 900279379268151527
+[2024-11-18 13:49:47] Listening for IPv4 broadcast on: 27036
+[2024-11-18 13:49:47] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 13:50:27] Client version: 1731433018
+[2024-11-18 13:50:27] Loaded client id: 900279379268151527
+[2024-11-18 13:50:27] Listening for IPv4 broadcast on: 27036
+[2024-11-18 13:50:27] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 13:50:52] Client version: 1731433018
+[2024-11-18 13:50:52] Loaded client id: 900279379268151527
+[2024-11-18 13:50:52] Listening for IPv4 broadcast on: 27036
+[2024-11-18 13:50:52] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:00:32] Client version: 1731433018
+[2024-11-18 14:00:32] Loaded client id: 900279379268151527
+[2024-11-18 14:00:32] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:00:32] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:03:06] Client version: 1731433018
+[2024-11-18 14:03:06] Loaded client id: 900279379268151527
+[2024-11-18 14:03:06] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:03:06] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:05:20] Client version: 1731716808
+[2024-11-18 14:05:20] Loaded client id: 900279379268151527
+[2024-11-18 14:05:20] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:05:20] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:09:19] Client version: 1731716808
+[2024-11-18 14:09:19] Loaded client id: 900279379268151527
+[2024-11-18 14:09:19] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:09:19] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:11:18] Client version: 1731716808
+[2024-11-18 14:11:18] Loaded client id: 900279379268151527
+[2024-11-18 14:11:18] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:11:18] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:11:44] Client version: 1731716808
+[2024-11-18 14:11:44] Loaded client id: 900279379268151527
+[2024-11-18 14:11:44] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:11:44] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:12:09] Client version: 1731716808
+[2024-11-18 14:12:09] Loaded client id: 900279379268151527
+[2024-11-18 14:12:09] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:12:09] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:17:46] Client version: 1731433018
+[2024-11-18 14:17:46] Loaded client id: 900279379268151527
+[2024-11-18 14:17:46] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:17:46] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:24:11] Client version: 1731433018
+[2024-11-18 14:24:11] Loaded client id: 900279379268151527
+[2024-11-18 14:24:11] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:24:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-18 14:36:45] Client version: 1731433018
+[2024-11-18 14:36:45] Loaded client id: 900279379268151527
+[2024-11-18 14:36:45] Listening for IPv4 broadcast on: 27036
+[2024-11-18 14:36:45] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-11-22 13:08:49] Client version: 1731433018
+[2024-11-22 13:08:49] Loaded client id: 900279379268151527
+[2024-11-22 13:08:49] Listening for IPv4 broadcast on: 27036
+[2024-11-22 13:08:49] Listening for connections on: 0.0.0.0:27036

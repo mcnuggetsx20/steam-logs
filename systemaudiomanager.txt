@@ -1,0 +1,1276 @@
+
+
+[2023-09-26 18:52:13] Client version: 1694466342
+[2023-09-26 18:52:13] Initialized system audio manager: default
+
+
+[2023-09-26 19:42:20] Client version: 1694466342
+[2023-09-26 19:42:20] Initialized system audio manager: default
+
+
+[2023-09-27 08:49:03] Client version: 1694466342
+[2023-09-27 08:49:03] Initialized system audio manager: default
+
+
+[2023-09-27 10:58:18] Client version: 1694466342
+[2023-09-27 10:58:18] Initialized system audio manager: default
+
+
+[2023-09-27 19:41:15] Client version: 1694466342
+[2023-09-27 19:41:15] Initialized system audio manager: default
+
+
+[2023-09-27 20:47:02] Client version: 1694466342
+[2023-09-27 20:47:02] Initialized system audio manager: default
+
+
+[2023-09-27 22:06:01] Client version: 1694466342
+[2023-09-27 22:06:01] Initialized system audio manager: default
+
+
+[2023-09-27 22:28:56] Client version: 1694466342
+[2023-09-27 22:28:56] Initialized system audio manager: default
+
+
+[2023-09-27 22:43:00] Client version: 1694466342
+[2023-09-27 22:43:00] Initialized system audio manager: default
+
+
+[2023-09-27 23:05:28] Client version: 1694466342
+[2023-09-27 23:05:28] Initialized system audio manager: default
+
+
+[2023-09-27 23:42:31] Client version: no bootstrapper found
+[2023-09-27 23:42:31] Initialized system audio manager: default
+
+
+[2023-09-27 23:52:31] Client version: no bootstrapper found
+[2023-09-27 23:52:31] Initialized system audio manager: default
+
+
+[2023-09-28 08:21:47] Client version: 1694466342
+[2023-09-28 08:21:47] Initialized system audio manager: default
+
+
+[2023-09-28 08:36:10] Client version: no bootstrapper found
+[2023-09-28 08:36:10] Initialized system audio manager: default
+
+
+[2023-09-30 17:48:46] Client version: 1696019606
+[2023-09-30 17:48:46] Initialized system audio manager: default
+
+
+[2023-09-30 18:36:40] Client version: 1696019606
+[2023-09-30 18:36:40] Initialized system audio manager: default
+
+
+[2023-09-30 18:40:49] Client version: no bootstrapper found
+[2023-09-30 18:40:49] Initialized system audio manager: default
+
+
+[2023-10-02 21:13:05] Client version: 1696019606
+[2023-10-02 21:13:05] Initialized system audio manager: default
+
+
+[2023-10-03 10:22:45] Client version: 1696019606
+[2023-10-03 10:22:45] Initialized system audio manager: default
+
+
+[2023-10-03 21:54:35] Client version: 1696019606
+[2023-10-03 21:54:35] Initialized system audio manager: default
+
+
+[2023-10-03 22:03:35] Client version: no bootstrapper found
+[2023-10-03 22:03:35] Initialized system audio manager: default
+
+
+[2023-10-05 18:19:58] Client version: 1696019606
+[2023-10-05 18:19:58] Initialized system audio manager: default
+
+
+[2023-10-05 23:19:51] Client version: 1696019606
+[2023-10-05 23:19:51] Initialized system audio manager: default
+
+
+[2023-10-05 23:21:18] Client version: no bootstrapper found
+[2023-10-05 23:21:18] Initialized system audio manager: default
+
+
+[2023-10-05 23:25:15] Client version: no bootstrapper found
+[2023-10-05 23:25:15] Initialized system audio manager: default
+
+
+[2023-10-05 23:29:35] Client version: no bootstrapper found
+[2023-10-05 23:29:35] Initialized system audio manager: default
+
+
+[2023-10-08 09:52:16] Client version: 1696019606
+[2023-10-08 09:52:16] Initialized system audio manager: default
+
+
+[2023-10-08 15:17:41] Client version: 1696019606
+[2023-10-08 15:17:41] Initialized system audio manager: default
+
+
+[2023-10-08 17:47:01] Client version: 1696019606
+[2023-10-08 17:47:01] Initialized system audio manager: default
+
+
+[2023-10-08 17:48:30] Client version: no bootstrapper found
+[2023-10-08 17:48:30] Initialized system audio manager: default
+
+
+[2023-10-08 17:49:57] Client version: no bootstrapper found
+[2023-10-08 17:49:57] Initialized system audio manager: default
+
+
+[2023-10-09 23:44:08] Client version: 1696019606
+[2023-10-09 23:44:08] Initialized system audio manager: default
+
+
+[2023-10-10 10:35:10] Client version: 1696019606
+[2023-10-10 10:35:10] Initialized system audio manager: default
+
+
+[2023-10-10 22:30:35] Client version: 1696019606
+[2023-10-10 22:30:35] Initialized system audio manager: default
+
+
+[2023-10-10 23:54:14] Client version: no bootstrapper found
+[2023-10-10 23:54:14] Initialized system audio manager: default
+
+
+[2023-10-11 19:59:08] Client version: 1696019606
+[2023-10-11 19:59:08] Initialized system audio manager: default
+
+
+[2023-10-14 08:57:27] Client version: 1696019606
+[2023-10-14 08:57:27] Initialized system audio manager: default
+
+
+[2023-10-14 10:20:08] Client version: 1696019606
+[2023-10-14 10:20:08] Initialized system audio manager: default
+
+
+[2023-10-15 08:43:05] Client version: 1696019606
+[2023-10-15 08:43:05] Initialized system audio manager: default
+
+
+[2023-10-16 14:20:02] Client version: 1696019606
+[2023-10-16 14:20:02] Initialized system audio manager: default
+
+
+[2023-10-16 18:08:47] Client version: 1696019606
+[2023-10-16 18:08:47] Initialized system audio manager: default
+
+
+[2023-10-16 23:28:22] Client version: 1696019606
+[2023-10-16 23:28:22] Initialized system audio manager: default
+
+
+[2023-10-22 17:40:14] Client version: 1696019606
+[2023-10-22 17:40:14] Initialized system audio manager: default
+
+
+[2023-10-23 21:29:23] Client version: 1696019606
+[2023-10-23 21:29:23] Initialized system audio manager: default
+
+
+[2023-10-29 15:04:07] Client version: 1698260427
+[2023-10-29 15:04:07] Initialized system audio manager: default
+
+
+[2023-11-06 15:11:54] Client version: 1698777785
+[2023-11-06 15:11:54] Initialized system audio manager: default
+
+
+[2023-11-09 11:42:57] Client version: 1698777785
+[2023-11-09 11:42:57] Initialized system audio manager: default
+
+
+[2023-11-13 17:52:43] Client version: 1698777785
+[2023-11-13 17:52:43] Initialized system audio manager: default
+
+
+[2023-11-13 18:27:54] Client version: 1698777785
+[2023-11-13 18:27:54] Initialized system audio manager: default
+
+
+[2023-11-21 15:37:49] Client version: 1700160213
+[2023-11-21 15:37:49] Initialized system audio manager: default
+
+
+[2023-11-21 18:42:27] Client version: 1700160213
+[2023-11-21 18:42:27] Initialized system audio manager: default
+
+
+[2023-11-22 23:51:05] Client version: 1700160213
+[2023-11-22 23:51:05] Initialized system audio manager: default
+
+
+[2023-11-22 23:55:38] Client version: no bootstrapper found
+[2023-11-22 23:55:38] Initialized system audio manager: default
+
+
+[2023-11-28 17:07:48] Client version: 1700160213
+[2023-11-28 17:07:48] Initialized system audio manager: default
+
+
+[2023-11-28 17:09:42] Client version: no bootstrapper found
+[2023-11-28 17:09:42] Initialized system audio manager: default
+
+
+[2023-12-24 18:07:09] Client version: 1700160213
+[2023-12-24 18:07:09] Initialized system audio manager: default
+
+
+[2023-12-26 12:43:55] Client version: 1702079146
+[2023-12-26 12:43:55] Initialized system audio manager: default
+
+
+[2023-12-26 13:24:11] Client version: 1702079146
+[2023-12-26 13:24:11] Initialized system audio manager: default
+
+
+[2023-12-26 13:46:50] Client version: 1702079146
+[2023-12-26 13:46:50] Initialized system audio manager: default
+
+
+[2023-12-26 14:37:40] Client version: 1702079146
+[2023-12-26 14:37:40] Initialized system audio manager: default
+
+
+[2023-12-26 14:39:24] Client version: 1702079146
+[2023-12-26 14:39:24] Initialized system audio manager: default
+
+
+[2023-12-27 16:09:01] Client version: 1702079146
+[2023-12-27 16:09:01] Initialized system audio manager: default
+
+
+[2023-12-27 16:18:34] Client version: 1702079146
+[2023-12-27 16:18:34] Initialized system audio manager: default
+
+
+[2023-12-27 18:13:05] Client version: 1702079146
+[2023-12-27 18:13:05] Initialized system audio manager: default
+
+
+[2023-12-27 22:45:38] Client version: 1702079146
+[2023-12-27 22:45:38] Initialized system audio manager: default
+
+
+[2023-12-29 11:54:07] Client version: 1702079146
+[2023-12-29 11:54:07] Initialized system audio manager: default
+
+
+[2023-12-29 14:24:02] Client version: 1702079146
+[2023-12-29 14:24:02] Initialized system audio manager: default
+
+
+[2023-12-30 22:36:07] Client version: 1702079146
+[2023-12-30 22:36:07] Initialized system audio manager: default
+
+
+[2023-12-31 22:23:58] Client version: 1702079146
+[2023-12-31 22:23:58] Initialized system audio manager: default
+
+
+[2023-12-31 22:57:33] Client version: 1702079146
+[2023-12-31 22:57:33] Initialized system audio manager: default
+
+
+[2024-01-04 11:58:49] Client version: 1702079146
+[2024-01-04 11:58:49] Initialized system audio manager: default
+
+
+[2024-01-04 12:37:33] Client version: 1702079146
+[2024-01-04 12:37:33] Initialized system audio manager: default
+
+
+[2024-01-04 12:47:35] Client version: 1702079146
+[2024-01-04 12:47:35] Initialized system audio manager: default
+
+
+[2024-01-04 13:15:14] Client version: 1702079146
+[2024-01-04 13:15:14] Initialized system audio manager: default
+
+
+[2024-01-04 13:20:54] Client version: 1702079146
+[2024-01-04 13:20:54] Initialized system audio manager: default
+
+
+[2024-01-04 13:26:54] Client version: 1702079146
+[2024-01-04 13:26:54] Initialized system audio manager: default
+
+
+[2024-01-04 17:24:16] Client version: 1702079146
+[2024-01-04 17:24:16] Initialized system audio manager: default
+
+
+[2024-01-05 16:41:32] Client version: 1702079146
+[2024-01-05 16:41:32] Initialized system audio manager: default
+
+
+[2024-01-06 14:53:17] Client version: 1702079146
+[2024-01-06 14:53:17] Initialized system audio manager: default
+
+
+[2024-01-06 15:00:50] Client version: 1702079146
+[2024-01-06 15:00:50] Initialized system audio manager: default
+
+
+[2024-01-06 19:28:47] Client version: 1702079146
+[2024-01-06 19:28:47] Initialized system audio manager: default
+
+
+[2024-01-07 11:31:28] Client version: 1702079146
+[2024-01-07 11:31:28] Initialized system audio manager: default
+
+
+[2024-01-07 19:37:24] Client version: 1702079146
+[2024-01-07 19:37:24] Initialized system audio manager: default
+
+
+[2024-01-14 20:48:46] Client version: 1705108172
+[2024-01-14 20:48:46] Initialized system audio manager: default
+
+
+[2024-01-14 21:49:17] Client version: no bootstrapper found
+[2024-01-14 21:49:17] Initialized system audio manager: default
+
+
+[2024-01-18 21:26:34] Client version: 1705108172
+[2024-01-18 21:26:34] Initialized system audio manager: default
+
+
+[2024-01-19 00:47:15] Client version: 1705108172
+[2024-01-19 00:47:15] Initialized system audio manager: default
+
+
+[2024-01-21 01:38:31] Client version: 1705108172
+[2024-01-21 01:38:31] Initialized system audio manager: default
+
+
+[2024-01-21 21:55:30] Client version: 1705108172
+[2024-01-21 21:55:30] Initialized system audio manager: default
+
+
+[2024-01-26 19:32:10] Client version: 1705108172
+[2024-01-26 19:32:10] Initialized system audio manager: default
+
+
+[2024-01-26 19:45:59] Client version: 1705108172
+[2024-01-26 19:45:59] Initialized system audio manager: default
+
+
+[2024-01-26 19:47:53] Client version: 1705108172
+[2024-01-26 19:47:53] Initialized system audio manager: default
+
+
+[2024-02-01 19:50:26] Client version: 1705108172
+[2024-02-01 19:50:26] Initialized system audio manager: default
+
+
+[2024-02-04 15:54:45] Client version: 1705108172
+[2024-02-04 15:54:45] Initialized system audio manager: default
+
+
+[2024-02-04 16:43:25] Client version: 1705108172
+[2024-02-04 16:43:25] Initialized system audio manager: default
+
+
+[2024-02-05 13:04:42] Client version: 1705108172
+[2024-02-05 13:04:42] Initialized system audio manager: default
+
+
+[2024-02-05 20:27:52] Client version: 1705108172
+[2024-02-05 20:27:52] Initialized system audio manager: default
+
+
+[2024-02-05 20:36:05] Client version: 1705108172
+[2024-02-05 20:36:05] Initialized system audio manager: default
+
+
+[2024-02-06 10:19:59] Client version: 1705108172
+[2024-02-06 10:19:59] Initialized system audio manager: default
+
+
+[2024-02-07 18:14:46] Client version: 1705108172
+[2024-02-07 18:14:46] Initialized system audio manager: default
+
+
+[2024-02-08 13:03:22] Client version: 1705108172
+[2024-02-08 13:03:22] Initialized system audio manager: default
+
+
+[2024-02-17 23:13:17] Client version: 1705108172
+[2024-02-17 23:13:17] Initialized system audio manager: default
+
+
+[2024-02-19 22:35:37] Client version: 1705108172
+[2024-02-19 22:35:37] Initialized system audio manager: default
+
+
+[2024-02-20 19:31:22] Client version: 1705108172
+[2024-02-20 19:31:22] Initialized system audio manager: default
+
+
+[2024-02-21 23:00:12] Client version: 1705108172
+[2024-02-21 23:00:12] Initialized system audio manager: default
+
+
+[2024-02-22 10:49:30] Client version: 1705108172
+[2024-02-22 10:49:30] Initialized system audio manager: default
+
+
+[2024-02-22 14:57:38] Client version: 1705108172
+[2024-02-22 14:57:38] Initialized system audio manager: default
+
+
+[2024-02-22 15:00:28] Client version: 1705108172
+[2024-02-22 15:00:28] Initialized system audio manager: default
+
+
+[2024-02-22 15:03:23] Client version: 1705108172
+[2024-02-22 15:03:23] Initialized system audio manager: default
+
+
+[2024-02-22 15:20:18] Client version: 1705108172
+[2024-02-22 15:20:18] Initialized system audio manager: default
+
+
+[2024-02-22 15:23:25] Client version: 1705108172
+[2024-02-22 15:23:25] Initialized system audio manager: default
+
+
+[2024-02-22 15:33:52] Client version: 1705108172
+[2024-02-22 15:33:52] Initialized system audio manager: default
+
+
+[2024-02-22 15:50:08] Client version: 1705108172
+[2024-02-22 15:50:08] Initialized system audio manager: default
+
+
+[2024-02-25 11:25:58] Client version: 1705108172
+[2024-02-25 11:25:58] Initialized system audio manager: default
+
+
+[2024-02-25 12:36:18] Client version: 1705108172
+[2024-02-25 12:36:18] Initialized system audio manager: default
+
+
+[2024-02-25 12:37:55] Client version: 1705108172
+[2024-02-25 12:37:55] Initialized system audio manager: default
+
+
+[2024-02-25 13:23:13] Client version: 1705108172
+[2024-02-25 13:23:13] Initialized system audio manager: default
+
+
+[2024-02-28 01:22:29] Client version: 1705108172
+[2024-02-28 01:22:29] Initialized system audio manager: default
+
+
+[2024-02-28 01:34:07] Client version: no bootstrapper found
+[2024-02-28 01:34:07] Initialized system audio manager: default
+
+
+[2024-03-05 15:23:34] Client version: 1709168962
+[2024-03-05 15:23:34] Initialized system audio manager: default
+
+
+[2024-03-06 15:34:08] Client version: 1709168962
+[2024-03-06 15:34:08] Initialized system audio manager: default
+
+
+[2024-03-06 15:37:11] Client version: 1709168962
+[2024-03-06 15:37:11] Initialized system audio manager: default
+
+
+[2024-03-06 15:39:51] Client version: 1709168962
+[2024-03-06 15:39:51] Initialized system audio manager: default
+
+
+[2024-03-06 15:41:48] Client version: 1709168962
+[2024-03-06 15:41:48] Initialized system audio manager: default
+
+
+[2024-03-06 15:43:28] Client version: 1709168962
+[2024-03-06 15:43:28] Initialized system audio manager: default
+
+
+[2024-03-06 15:44:30] Client version: 1709168962
+[2024-03-06 15:44:30] Initialized system audio manager: default
+
+
+[2024-03-06 15:44:54] Client version: 1709168962
+[2024-03-06 15:44:54] Initialized system audio manager: default
+
+
+[2024-03-06 18:00:17] Client version: 1709168962
+[2024-03-06 18:00:17] Initialized system audio manager: default
+
+
+[2024-03-06 18:15:46] Client version: no bootstrapper found
+[2024-03-06 18:15:46] Initialized system audio manager: default
+
+
+[2024-03-09 12:19:19] Client version: 1709168962
+[2024-03-09 12:19:19] Initialized system audio manager: default
+
+
+[2024-03-12 22:20:40] Client version: 1709846872
+[2024-03-12 22:20:40] Initialized system audio manager: default
+
+
+[2024-03-12 22:34:07] Client version: 1709846872
+[2024-03-12 22:34:07] Initialized system audio manager: default
+
+
+[2024-03-13 15:22:49] Client version: 1709846872
+[2024-03-13 15:22:49] Initialized system audio manager: default
+
+
+[2024-03-13 15:23:29] Client version: 1709846872
+[2024-03-13 15:23:29] Initialized system audio manager: default
+
+
+[2024-03-13 15:23:53] Client version: 1709846872
+[2024-03-13 15:23:53] Initialized system audio manager: default
+
+
+[2024-03-13 21:43:49] Client version: 1709846872
+[2024-03-13 21:43:49] Initialized system audio manager: default
+
+
+[2024-03-17 19:04:10] Client version: 1709846872
+[2024-03-17 19:04:10] Initialized system audio manager: default
+
+
+[2024-03-17 21:02:37] Client version: no bootstrapper found
+[2024-03-17 21:02:37] Initialized system audio manager: default
+
+
+[2024-03-17 21:12:23] Client version: no bootstrapper found
+[2024-03-17 21:12:23] Initialized system audio manager: default
+
+
+[2024-03-18 14:16:53] Client version: 1709846872
+[2024-03-18 14:16:53] Initialized system audio manager: default
+
+
+[2024-03-20 00:31:59] Client version: 1709846872
+[2024-03-20 00:31:59] Initialized system audio manager: default
+
+
+[2024-03-20 00:40:42] Client version: 1709846872
+[2024-03-20 00:40:42] Initialized system audio manager: default
+
+
+[2024-03-20 00:49:16] Client version: no bootstrapper found
+[2024-03-20 00:49:16] Initialized system audio manager: default
+
+
+[2024-03-20 10:27:50] Client version: 1709846872
+[2024-03-20 10:27:50] Initialized system audio manager: default
+
+
+[2024-03-20 12:01:12] Client version: 1709846872
+[2024-03-20 12:01:12] Initialized system audio manager: default
+
+
+[2024-03-20 14:14:42] Client version: 1709846872
+[2024-03-20 14:14:42] Initialized system audio manager: default
+
+
+[2024-03-20 21:39:13] Client version: 1709846872
+[2024-03-20 21:39:13] Initialized system audio manager: default
+
+
+[2024-03-21 13:19:16] Client version: 1709846872
+[2024-03-21 13:19:16] Initialized system audio manager: default
+
+
+[2024-03-22 09:48:54] Client version: 1709846872
+[2024-03-22 09:48:54] Initialized system audio manager: default
+
+
+[2024-03-23 00:01:19] Client version: 1709846872
+[2024-03-23 00:01:19] Initialized system audio manager: default
+
+
+[2024-03-25 20:34:02] Client version: 1709846872
+[2024-03-25 20:34:02] Initialized system audio manager: default
+
+
+[2024-03-25 20:41:02] Client version: 1709846872
+[2024-03-25 20:41:02] Initialized system audio manager: default
+
+
+[2024-03-25 20:48:43] Client version: no bootstrapper found
+[2024-03-25 20:48:43] Initialized system audio manager: default
+
+
+[2024-03-25 21:11:53] Client version: 1709846872
+[2024-03-25 21:11:53] Initialized system audio manager: default
+
+
+[2024-03-25 21:21:10] Client version: no bootstrapper found
+[2024-03-25 21:21:10] Initialized system audio manager: default
+
+
+[2024-03-25 21:22:02] Client version: no bootstrapper found
+[2024-03-25 21:22:02] Initialized system audio manager: default
+
+
+[2024-03-27 13:58:39] Client version: 1709846872
+[2024-03-27 13:58:39] Initialized system audio manager: default
+
+
+[2024-03-30 12:06:40] Client version: 1709846872
+[2024-03-30 12:06:40] Initialized system audio manager: default
+
+
+[2024-03-30 12:12:31] Client version: no bootstrapper found
+[2024-03-30 12:12:31] Initialized system audio manager: default
+
+
+[2024-04-02 22:44:27] Client version: 1709846872
+[2024-04-02 22:44:27] Initialized system audio manager: default
+
+
+[2024-04-03 22:56:30] Client version: 1709846872
+[2024-04-03 22:56:30] Initialized system audio manager: default
+
+
+[2024-04-03 22:58:38] Client version: no bootstrapper found
+[2024-04-03 22:58:38] Initialized system audio manager: default
+
+
+[2024-04-12 14:21:01] Client version: 1709846872
+[2024-04-12 14:21:01] Initialized system audio manager: default
+
+
+[2024-04-13 22:23:12] Client version: 1709846872
+[2024-04-13 22:23:12] Initialized system audio manager: default
+
+
+[2024-04-17 22:31:43] Client version: 1709846872
+[2024-04-17 22:31:43] Initialized system audio manager: default
+
+
+[2024-05-19 12:59:43] Client version: 1709846872
+[2024-05-19 12:59:43] Initialized system audio manager: default
+
+
+[2024-05-28 10:13:31] Client version: 1716584667
+[2024-05-28 10:13:31] Initialized system audio manager: default
+
+
+[2024-05-28 14:40:11] Client version: 1716584667
+[2024-05-28 14:40:11] Initialized system audio manager: default
+
+
+[2024-05-28 14:40:39] Client version: 1716584667
+[2024-05-28 14:40:39] Initialized system audio manager: default
+
+
+[2024-05-29 10:38:50] Client version: 1716584667
+[2024-05-29 10:38:50] Initialized system audio manager: default
+
+
+[2024-05-29 11:19:47] Client version: 1716584667
+[2024-05-29 11:19:47] Initialized system audio manager: default
+
+
+[2024-05-29 13:24:23] Client version: 1716584667
+[2024-05-29 13:24:23] Initialized system audio manager: default
+
+
+[2024-05-29 17:04:32] Client version: 1716584667
+[2024-05-29 17:04:32] Initialized system audio manager: default
+
+
+[2024-05-29 17:50:49] Client version: 1716584667
+[2024-05-29 17:50:49] Initialized system audio manager: default
+
+
+[2024-05-29 20:09:22] Client version: 1716584667
+[2024-05-29 20:09:22] Initialized system audio manager: default
+
+
+[2024-06-13 16:50:39] Client version: 1716584667
+[2024-06-13 16:50:39] Initialized system audio manager: default
+
+
+[2024-06-13 17:16:31] Client version: no bootstrapper found
+[2024-06-13 17:16:31] Initialized system audio manager: default
+
+
+[2024-06-13 22:43:09] Client version: 1716584667
+[2024-06-13 22:43:09] Initialized system audio manager: default
+
+
+[2024-06-14 23:57:11] Client version: 1716584667
+[2024-06-14 23:57:11] Initialized system audio manager: default
+
+
+[2024-06-15 23:42:17] Client version: 1718305227
+[2024-06-15 23:42:17] Initialized system audio manager: default
+
+
+[2024-06-15 22:50:19] Client version: 1718305227
+[2024-06-15 22:50:19] Initialized system audio manager: default
+
+
+[2024-06-17 10:24:19] Client version: 1718305227
+[2024-06-17 10:24:19] Initialized system audio manager: default
+
+
+[2024-06-19 13:55:59] Client version: 1718751621
+[2024-06-19 13:55:59] Initialized system audio manager: default
+
+
+[2024-06-23 16:39:55] Client version: 1718904662
+[2024-06-23 16:39:55] Initialized system audio manager: default
+
+
+[2024-06-23 23:58:46] Client version: 1718904662
+[2024-06-23 23:58:46] Initialized system audio manager: default
+
+
+[2024-06-29 21:38:19] Client version: 1718904662
+[2024-06-29 21:38:19] Initialized system audio manager: default
+
+
+[2024-06-30 16:54:26] Client version: 1718904662
+[2024-06-30 16:54:26] Initialized system audio manager: default
+
+
+[2024-06-30 17:01:10] Client version: no bootstrapper found
+[2024-06-30 17:01:10] Initialized system audio manager: default
+
+
+[2024-07-01 21:13:13] Client version: 1718904662
+[2024-07-01 21:13:13] Initialized system audio manager: default
+
+
+[2024-07-01 23:39:48] Client version: 1718904662
+[2024-07-01 23:39:48] Initialized system audio manager: default
+
+
+[2024-07-01 23:49:43] Client version: 1718904662
+[2024-07-01 23:49:43] Initialized system audio manager: default
+
+
+[2024-07-02 00:20:34] Client version: 1718904662
+[2024-07-02 00:20:34] Initialized system audio manager: default
+
+
+[2024-07-04 00:06:13] Client version: 1718904662
+[2024-07-04 00:06:13] Initialized system audio manager: default
+
+
+[2024-07-04 00:37:17] Client version: 1718904662
+[2024-07-04 00:37:17] Initialized system audio manager: default
+
+
+[2024-07-04 00:37:53] Client version: 1718904662
+[2024-07-04 00:37:53] Initialized system audio manager: default
+
+
+[2024-07-04 00:51:43] Client version: 1718904662
+[2024-07-04 00:51:43] Initialized system audio manager: default
+
+
+[2024-07-04 17:31:00] Client version: 1718904662
+[2024-07-04 17:31:00] Initialized system audio manager: default
+
+
+[2024-07-04 20:13:33] Client version: 1718904662
+[2024-07-04 20:13:33] Initialized system audio manager: default
+
+
+[2024-07-04 20:14:26] Client version: 1718904662
+[2024-07-04 20:14:26] Initialized system audio manager: default
+
+
+[2024-07-08 14:10:02] Client version: 1718904662
+[2024-07-08 14:10:02] Initialized system audio manager: default
+
+
+[2024-07-08 22:34:07] Client version: 1718904662
+[2024-07-08 22:34:07] Initialized system audio manager: default
+
+
+[2024-07-09 12:41:29] Client version: 1718904662
+[2024-07-09 12:41:29] Initialized system audio manager: default
+
+
+[2024-07-11 19:55:40] Client version: 1718904662
+[2024-07-11 19:55:40] Initialized system audio manager: default
+
+
+[2024-07-11 23:19:53] Client version: 1718904662
+[2024-07-11 23:19:53] Initialized system audio manager: default
+
+
+[2024-07-12 00:32:01] Client version: 1718904662
+[2024-07-12 00:32:01] Initialized system audio manager: default
+
+
+[2024-07-12 11:37:23] Client version: 1718904662
+[2024-07-12 11:37:23] Initialized system audio manager: default
+
+
+[2024-07-12 17:24:11] Client version: 1718904662
+[2024-07-12 17:24:11] Initialized system audio manager: default
+
+
+[2024-07-13 13:27:12] Client version: 1718904662
+[2024-07-13 13:27:12] Initialized system audio manager: default
+
+
+[2024-07-13 15:16:16] Client version: 1718904662
+[2024-07-13 15:16:16] Initialized system audio manager: default
+
+
+[2024-07-13 23:01:31] Client version: 1718904662
+[2024-07-13 23:01:31] Initialized system audio manager: default
+
+
+[2024-07-13 23:30:51] Client version: 1718904662
+[2024-07-13 23:30:51] Initialized system audio manager: default
+
+
+[2024-07-13 23:49:50] Client version: 1718904662
+[2024-07-13 23:49:50] Initialized system audio manager: default
+
+
+[2024-07-14 01:10:01] Client version: 1718904662
+[2024-07-14 01:10:01] Initialized system audio manager: default
+
+
+[2024-07-14 14:28:33] Client version: 1718904662
+[2024-07-14 14:28:33] Initialized system audio manager: default
+
+
+[2024-07-14 14:29:57] Client version: 1718904662
+[2024-07-14 14:29:57] Initialized system audio manager: default
+
+
+[2024-07-14 23:44:57] Client version: 1718904662
+[2024-07-14 23:44:57] Initialized system audio manager: default
+
+
+[2024-07-15 15:03:30] Client version: 1718904662
+[2024-07-15 15:03:30] Initialized system audio manager: default
+
+
+[2024-07-15 15:04:10] Client version: 1718904662
+[2024-07-15 15:04:10] Initialized system audio manager: default
+
+
+[2024-07-15 17:12:40] Client version: 1718904662
+[2024-07-15 17:12:40] Initialized system audio manager: default
+
+
+[2024-07-16 14:17:15] Client version: 1718904662
+[2024-07-16 14:17:15] Initialized system audio manager: default
+
+
+[2024-07-16 15:54:02] Client version: 1718904662
+[2024-07-16 15:54:02] Initialized system audio manager: default
+
+
+[2024-07-16 17:13:12] Client version: 1718904662
+[2024-07-16 17:13:12] Initialized system audio manager: default
+
+
+[2024-07-16 20:55:33] Client version: 1718904662
+[2024-07-16 20:55:33] Initialized system audio manager: default
+
+
+[2024-07-17 08:28:09] Client version: 1721173382
+[2024-07-17 08:28:09] Initialized system audio manager: default
+
+
+[2024-07-17 15:21:00] Client version: 1721173382
+[2024-07-17 15:21:00] Initialized system audio manager: default
+
+
+[2024-07-17 17:32:10] Client version: 1721173382
+[2024-07-17 17:32:10] Initialized system audio manager: default
+
+
+[2024-07-18 11:38:08] Client version: 1721173382
+[2024-07-18 11:38:08] Initialized system audio manager: default
+
+
+[2024-07-18 12:27:12] Client version: 1721173382
+[2024-07-18 12:27:12] Initialized system audio manager: default
+
+
+[2024-07-19 11:37:29] Client version: 1721173382
+[2024-07-19 11:37:29] Initialized system audio manager: default
+
+
+[2024-07-19 19:45:56] Client version: 1721173382
+[2024-07-19 19:45:56] Initialized system audio manager: default
+
+
+[2024-07-19 21:48:13] Client version: 1721173382
+[2024-07-19 21:48:13] Initialized system audio manager: default
+
+
+[2024-07-20 13:12:17] Client version: 1721173382
+[2024-07-20 13:12:17] Initialized system audio manager: default
+
+
+[2024-07-20 13:29:35] Client version: 1721173382
+[2024-07-20 13:29:35] Initialized system audio manager: default
+
+
+[2024-07-21 13:22:15] Client version: 1721173382
+[2024-07-21 13:22:15] Initialized system audio manager: default
+
+
+[2024-07-21 13:30:18] Client version: no bootstrapper found
+[2024-07-21 13:30:18] Initialized system audio manager: default
+
+
+[2024-07-21 15:06:54] Client version: 1721173382
+[2024-07-21 15:06:54] Initialized system audio manager: default
+
+
+[2024-07-21 19:04:24] Client version: 1721173382
+[2024-07-21 19:04:24] Initialized system audio manager: default
+
+
+[2024-07-21 22:51:13] Client version: 1721173382
+[2024-07-21 22:51:13] Initialized system audio manager: default
+
+
+[2024-07-22 12:13:17] Client version: 1721173382
+[2024-07-22 12:13:17] Initialized system audio manager: default
+
+
+[2024-07-22 15:24:54] Client version: 1721173382
+[2024-07-22 15:24:54] Initialized system audio manager: default
+
+
+[2024-07-22 16:14:08] Client version: 1721173382
+[2024-07-22 16:14:08] Initialized system audio manager: default
+
+
+[2024-07-22 17:37:04] Client version: 1721173382
+[2024-07-22 17:37:04] Initialized system audio manager: default
+
+
+[2024-07-22 18:05:45] Client version: 1721173382
+[2024-07-22 18:05:45] Initialized system audio manager: default
+
+
+[2024-07-22 18:08:28] Client version: 1721173382
+[2024-07-22 18:08:28] Initialized system audio manager: default
+
+
+[2024-07-22 23:35:12] Client version: 1721173382
+[2024-07-22 23:35:12] Initialized system audio manager: default
+
+
+[2024-07-23 13:40:16] Client version: 1721173382
+[2024-07-23 13:40:16] Initialized system audio manager: default
+
+
+[2024-07-26 11:59:42] Client version: 1721173382
+[2024-07-26 11:59:42] Initialized system audio manager: default
+
+
+[2024-07-26 12:35:40] Client version: 1721173382
+[2024-07-26 12:35:40] Initialized system audio manager: default
+
+
+[2024-07-27 08:57:28] Client version: 1721173382
+[2024-07-27 08:57:28] Initialized system audio manager: default
+
+
+[2024-07-27 12:42:37] Client version: 1721173382
+[2024-07-27 12:42:37] Initialized system audio manager: default
+
+
+[2024-07-27 23:03:42] Client version: 1721173382
+[2024-07-27 23:03:42] Initialized system audio manager: default
+
+
+[2024-07-28 09:52:21] Client version: 1721173382
+[2024-07-28 09:52:21] Initialized system audio manager: default
+
+
+[2024-07-28 10:04:22] Client version: 1721173382
+[2024-07-28 10:04:22] Initialized system audio manager: default
+
+
+[2024-07-28 13:01:18] Client version: 1721173382
+[2024-07-28 13:01:18] Initialized system audio manager: default
+
+
+[2024-07-28 15:22:01] Client version: 1721173382
+[2024-07-28 15:22:01] Initialized system audio manager: default
+
+
+[2024-07-28 16:36:37] Client version: 1721173382
+[2024-07-28 16:36:37] Initialized system audio manager: default
+
+
+[2024-07-28 22:23:14] Client version: 1721173382
+[2024-07-28 22:23:14] Initialized system audio manager: default
+
+
+[2024-07-28 23:32:16] Client version: 1721173382
+[2024-07-28 23:32:16] Initialized system audio manager: default
+
+
+[2024-07-29 01:48:20] Client version: 1721173382
+[2024-07-29 01:48:20] Initialized system audio manager: default
+
+
+[2024-07-29 10:53:01] Client version: 1721173382
+[2024-07-29 10:53:01] Initialized system audio manager: default
+
+
+[2024-07-29 10:55:24] Client version: no bootstrapper found
+[2024-07-29 10:55:24] Initialized system audio manager: default
+
+
+[2024-07-30 10:34:13] Client version: 1721173382
+[2024-07-30 10:34:13] Initialized system audio manager: default
+
+
+[2024-07-30 10:47:39] Client version: no bootstrapper found
+[2024-07-30 10:47:39] Initialized system audio manager: default
+
+
+[2024-07-31 17:01:51] Client version: 1721173382
+[2024-07-31 17:01:51] Initialized system audio manager: default
+
+
+[2024-07-31 23:07:09] Client version: 1721173382
+[2024-07-31 23:07:09] Initialized system audio manager: default
+
+
+[2024-08-01 15:38:58] Client version: 1721173382
+[2024-08-01 15:38:58] Initialized system audio manager: default
+
+
+[2024-08-02 09:12:48] Client version: 1721173382
+[2024-08-02 09:12:48] Initialized system audio manager: default
+
+
+[2024-08-03 12:44:22] Client version: 1721173382
+[2024-08-03 12:44:22] Initialized system audio manager: default
+
+
+[2024-08-03 13:02:31] Client version: 1721173382
+[2024-08-03 13:02:31] Initialized system audio manager: default
+
+
+[2024-08-03 16:53:34] Client version: 1721173382
+[2024-08-03 16:53:34] Initialized system audio manager: default
+
+
+[2024-08-03 20:14:57] Client version: 1721173382
+[2024-08-03 20:14:57] Initialized system audio manager: default
+
+
+[2024-08-04 15:35:25] Client version: 1721173382
+[2024-08-04 15:35:25] Initialized system audio manager: default
+
+
+[2024-08-07 10:29:29] Client version: 1721173382
+[2024-08-07 10:29:29] Initialized system audio manager: default
+
+
+[2024-08-11 09:48:00] Client version: 1721173382
+[2024-08-11 09:48:00] Initialized system audio manager: default
+
+
+[2024-08-11 09:51:28] Client version: 1721173382
+[2024-08-11 09:51:28] Initialized system audio manager: default
+
+
+[2024-08-17 23:18:11] Client version: 1721173382
+[2024-08-17 23:18:11] Initialized system audio manager: default
+
+
+[2024-08-18 18:04:42] Client version: 1721173382
+[2024-08-18 18:04:42] Initialized system audio manager: default
+
+
+[2024-08-26 22:27:40] Client version: 1721173382
+[2024-08-26 22:27:40] Initialized system audio manager: default
+
+
+[2024-09-06 17:53:41] Client version: 1721173382
+[2024-09-06 17:53:41] Initialized system audio manager: default
+
+
+[2024-09-13 12:29:56] Client version: 1726088054
+[2024-09-13 12:29:56] Initialized system audio manager: default
+
+
+[2024-10-17 13:36:24] Client version: 1726604483
+[2024-10-17 13:36:24] Initialized system audio manager: default
+
+
+[2024-10-24 21:53:28] Client version: 1726604483
+[2024-10-24 21:53:28] Initialized system audio manager: default
+
+
+[2024-10-24 23:25:59] Client version: 1726604483
+[2024-10-24 23:25:59] Initialized system audio manager: default
+
+
+[2024-10-24 23:26:49] Client version: 1726604483
+[2024-10-24 23:26:49] Initialized system audio manager: default
+
+
+[2024-10-25 10:07:21] Client version: 1726604483
+[2024-10-25 10:07:21] Initialized system audio manager: default
+
+
+[2024-10-25 12:48:39] Client version: 1726604483
+[2024-10-25 12:48:39] Initialized system audio manager: default
+
+
+[2024-10-26 10:43:01] Client version: 1726604483
+[2024-10-26 10:43:01] Initialized system audio manager: default
+
+
+[2024-10-27 10:29:17] Client version: 1726604483
+[2024-10-27 10:29:17] Initialized system audio manager: default
+
+
+[2024-10-29 14:04:26] Client version: 1726604483
+[2024-10-29 14:04:26] Initialized system audio manager: default
+
+
+[2024-10-30 09:20:51] Client version: 1726604483
+[2024-10-30 09:20:51] Initialized system audio manager: default
+
+
+[2024-10-30 20:36:46] Client version: 1726604483
+[2024-10-30 20:36:46] Initialized system audio manager: default
+
+
+[2024-11-01 17:55:19] Client version: 1726604483
+[2024-11-01 17:55:19] Initialized system audio manager: default
+
+
+[2024-11-04 14:20:51] Client version: 1726604483
+[2024-11-04 14:20:51] Initialized system audio manager: default
+
+
+[2024-11-04 14:49:08] Client version: 1726604483
+[2024-11-04 14:49:08] Initialized system audio manager: default
+
+
+[2024-11-04 14:51:30] Client version: 1726604483
+[2024-11-04 14:51:30] Initialized system audio manager: default
+
+
+[2024-11-04 23:25:09] Client version: 1726604483
+[2024-11-04 23:25:09] Initialized system audio manager: default
+
+
+[2024-11-10 15:10:24] Client version: 1730853027
+[2024-11-10 15:10:24] Initialized system audio manager: default
+
+
+[2024-11-10 15:38:29] Client version: 1730853027
+[2024-11-10 15:38:29] Initialized system audio manager: default
+
+
+[2024-11-11 17:43:57] Client version: 1730853027
+[2024-11-11 17:43:57] Initialized system audio manager: default
+
+
+[2024-11-12 10:08:28] Client version: 1730853027
+[2024-11-12 10:08:28] Initialized system audio manager: default
+
+
+[2024-11-13 10:33:08] Client version: 1731433018
+[2024-11-13 10:33:08] Initialized system audio manager: default
+
+
+[2024-11-15 12:32:52] Client version: 1731433018
+[2024-11-15 12:32:52] Initialized system audio manager: default
+
+
+[2024-11-18 13:46:35] Client version: 1731433018
+[2024-11-18 13:46:35] Initialized system audio manager: default
+
+
+[2024-11-18 13:47:06] Client version: 1731433018
+[2024-11-18 13:47:06] Initialized system audio manager: default
+
+
+[2024-11-18 13:48:40] Client version: 1731433018
+[2024-11-18 13:48:40] Initialized system audio manager: default
+
+
+[2024-11-18 13:49:45] Client version: 1731433018
+[2024-11-18 13:49:45] Initialized system audio manager: default
+
+
+[2024-11-18 13:50:14] Client version: 1731433018
+[2024-11-18 13:50:14] Initialized system audio manager: default
+
+
+[2024-11-18 13:50:50] Client version: 1731433018
+[2024-11-18 13:50:50] Initialized system audio manager: default
+
+
+[2024-11-18 14:00:29] Client version: 1731433018
+[2024-11-18 14:00:29] Initialized system audio manager: default
+
+
+[2024-11-18 14:02:53] Client version: 1731433018
+[2024-11-18 14:02:53] Initialized system audio manager: default
+
+
+[2024-11-18 14:05:17] Client version: 1731716808
+[2024-11-18 14:05:17] Initialized system audio manager: default
+
+
+[2024-11-18 14:09:06] Client version: 1731716808
+[2024-11-18 14:09:06] Initialized system audio manager: default
+
+
+[2024-11-18 14:11:16] Client version: 1731716808
+[2024-11-18 14:11:16] Initialized system audio manager: default
+
+
+[2024-11-18 14:11:41] Client version: 1731716808
+[2024-11-18 14:11:41] Initialized system audio manager: default
+
+
+[2024-11-18 14:12:06] Client version: 1731716808
+[2024-11-18 14:12:06] Initialized system audio manager: default
+
+
+[2024-11-18 14:17:43] Client version: 1731433018
+[2024-11-18 14:17:43] Initialized system audio manager: default
+
+
+[2024-11-18 14:23:58] Client version: 1731433018
+[2024-11-18 14:23:58] Initialized system audio manager: default
+
+
+[2024-11-18 14:36:32] Client version: 1731433018
+[2024-11-18 14:36:32] Initialized system audio manager: default
+
+
+[2024-11-22 13:08:44] Client version: 1731433018
+[2024-11-22 13:08:44] Initialized system audio manager: default

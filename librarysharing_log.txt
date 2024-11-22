@@ -1,0 +1,125 @@
+
+
+[2023-12-26 13:50:08] Client version: 1702079146
+[2023-12-26 13:50:08] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2023-12-27 18:11:02] Client version: 1702079146
+[2023-12-27 18:11:02] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2024-01-26 19:49:20] Client version: 1705108172
+[2024-01-26 19:49:20] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2024-03-06 15:43:12] Client version: 1709168962
+[2024-03-06 15:43:12] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2024-07-13 23:33:10] Client version: 1718904662
+[2024-07-13 23:33:10] SharedLibraryLockStatus: library ownerID 174221078, locked by 312015349
+[2024-07-13 23:33:10] SharedLibraryLockStatus: own library locked by 0
+[2024-07-13 23:49:32] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-13 23:51:24] Client version: 1718904662
+[2024-07-13 23:51:24] SharedLibraryLockStatus: own library locked by 0
+[2024-07-14 00:22:14] SharedLibraryLockStatus: library ownerID 174221078, locked by 174221078
+[2024-07-14 00:22:14] SharedLibraryLockStatus: own library locked by 0
+[2024-07-14 00:22:14] Stop playing appID 234710, ownerID 174221078, seconds left 300
+[2024-07-14 00:23:14] Stop playing appID 234710, ownerID 174221078, seconds left 240
+[2024-07-14 00:24:14] Stop playing appID 234710, ownerID 174221078, seconds left 180
+[2024-07-14 00:25:14] Stop playing appID 234710, ownerID 174221078, seconds left 120
+[2024-07-14 00:26:14] Stop playing appID 234710, ownerID 174221078, seconds left 60
+[2024-07-14 00:27:14] Stop playing appID 234710, ownerID 174221078, seconds left 0
+[2024-07-14 00:28:07] Stop playing appID 234710, ownerID 174221078, seconds left 300
+[2024-07-14 00:29:07] Stop playing appID 234710, ownerID 174221078, seconds left 240
+[2024-07-14 00:30:07] Stop playing appID 234710, ownerID 174221078, seconds left 180
+
+
+[2024-07-14 14:31:39] Client version: 1718904662
+[2024-07-14 14:31:39] SharedLibraryLockStatus: own library locked by 0
+[2024-07-14 14:31:56] SharedLibraryLockStatus: own library locked by 0
+[2024-07-14 15:17:50] SharedLibraryLockStatus: library ownerID 174221078, locked by 174221078
+[2024-07-14 15:17:50] SharedLibraryLockStatus: own library locked by 0
+[2024-07-14 15:17:50] Stop playing appID 234710, ownerID 174221078, seconds left 300
+[2024-07-14 15:18:50] Stop playing appID 234710, ownerID 174221078, seconds left 240
+[2024-07-14 15:19:50] Stop playing appID 234710, ownerID 174221078, seconds left 180
+[2024-07-14 15:20:50] Stop playing appID 234710, ownerID 174221078, seconds left 120
+[2024-07-14 15:21:50] Stop playing appID 234710, ownerID 174221078, seconds left 60
+[2024-07-14 15:22:50] Stop playing appID 234710, ownerID 174221078, seconds left 0
+
+
+[2024-07-14 23:47:29] Client version: 1718904662
+[2024-07-14 23:47:29] SharedLibraryLockStatus: own library locked by 0
+[2024-07-14 23:47:36] SharedLibraryLockStatus: own library locked by 0
+[2024-07-15 01:14:54] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-16 16:45:05] Client version: 1718904662
+[2024-07-16 16:45:05] SharedLibraryLockStatus: own library locked by 0
+[2024-07-16 16:46:13] SharedLibraryLockStatus: library ownerID 174221078, locked by 312015349
+[2024-07-16 16:46:13] SharedLibraryLockStatus: own library locked by 0
+[2024-07-16 16:47:21] SharedLibraryLockStatus: own library locked by 0
+[2024-07-16 16:59:58] SharedLibraryLockStatus: own library locked by 0
+[2024-07-16 17:12:57] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-16 17:14:43] Client version: 1718904662
+[2024-07-16 17:14:43] SharedLibraryLockStatus: own library locked by 0
+[2024-07-16 17:14:56] SharedLibraryLockStatus: own library locked by 0
+[2024-07-16 18:53:55] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-17 17:36:10] Client version: 1721173382
+[2024-07-17 17:36:10] SharedLibraryLockStatus: own library locked by 0
+[2024-07-17 17:37:07] SharedLibraryLockStatus: own library locked by 0
+[2024-07-17 17:39:36] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-18 11:39:04] Client version: 1721173382
+[2024-07-18 11:39:04] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-18 12:27:46] Client version: 1721173382
+[2024-07-18 12:27:46] SharedLibraryLockStatus: own library locked by 0
+[2024-07-18 12:27:53] SharedLibraryLockStatus: own library locked by 0
+[2024-07-18 12:32:02] SharedLibraryLockStatus: own library locked by 0
+[2024-07-18 16:45:02] SharedLibraryLockStatus: own library locked by 0
+[2024-07-18 17:29:10] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-22 12:58:52] Client version: 1721173382
+[2024-07-22 12:58:52] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 12:59:15] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 13:19:53] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 13:20:13] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 13:45:48] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 13:45:56] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 13:52:43] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-22 23:36:17] Client version: 1721173382
+[2024-07-22 23:36:17] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 23:36:42] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 23:55:45] SharedLibraryLockStatus: own library locked by 0
+[2024-07-22 23:55:50] SharedLibraryLockStatus: own library locked by 0
+[2024-07-23 00:12:58] SharedLibraryLockStatus: own library locked by 0
+[2024-07-23 00:22:54] SharedLibraryLockStatus: own library locked by 0
+[2024-07-23 00:25:29] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-27 23:11:59] Client version: 1721173382
+[2024-07-27 23:11:59] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-07-28 15:22:24] Client version: 1721173382
+[2024-07-28 15:22:24] SharedLibraryLockStatus: own library locked by 0
+
+
+[2024-11-18 14:01:16] Client version: 1731433018
+[2024-11-18 14:01:16] MsgClientGetOwnAuthorizedDevices: numDevices 1, response OK
+
+
+[2024-11-18 14:25:57] Client version: 1731433018
+[2024-11-18 14:25:57] MsgClientGetOwnAuthorizedDevices: numDevices 1, response OK

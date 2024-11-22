@@ -1,0 +1,103 @@
+steamwebhelper.sh[145193]: === Fri Jun 14 11:57:21 PM CEST 2024 ===
+steamwebhelper.sh[145193]: Starting steamwebhelper under bootstrap sniper steam runtime at /home/mcnuggetsx20/.local/share/Steam/ubuntu12_64/steam-runtime-sniper
+x86_64-linux-gnu-capsule-capture-libs: warning: Dependencies of libnvidia-pkcs11.so.550.78 not found, ignoring: Missing dependencies: Could not find "libcrypto.so.1.1" in LD_LIBRARY_PATH "", ld.so.cache, DT_RUNPATH or fallback /lib:/usr/lib
+exec ./steamwebhelper --no-sandbox -lang=en_US -cachedir=/home/mcnuggetsx20/.local/share/Steam/config/htmlcache -steampid=144807 -buildid=1716584667 -steamid=0 -logdir=/home/mcnuggetsx20/.local/share/Steam/logs -uimode=7 -startcount=1 -userdatadir=/home/mcnuggetsx20/.local/share/Steam/config/cefdata -steamuniverse=Public -realm=Global -clientui=/home/mcnuggetsx20/.local/share/Steam/clientui -steampath=/home/mcnuggetsx20/.local/share/Steam/ubuntu12_32/steam -launcher=0 -use_safe_shutdown_workaround -use_xcomposite_workaround -no-restart-on-ui-mode-change --valve-enable-site-isolation --enable-smooth-scrolling --disable-gpu-compositing --disable-gpu --password-store=basic --log-file=/home/mcnuggetsx20/.local/share/Steam/logs/cef_log.txt --disable-quick-menu --disable-features=SpareRendererForSitePerProcess,DcheckIsFatal
+[0614/235722.112844:ERROR:context.cc(100)] The browser_subprocess_path directory (./steamwebhelper) is not an absolute path. Defaulting to empty.
+[0614/235722.133937:WARNING:crash_reporting.cc(278)] Failed to set crash key: UserID with value: 0
+[0614/235722.133989:WARNING:crash_reporting.cc(278)] Failed to set crash key: BuildID with value: 1716583530
+[0614/235722.133993:WARNING:crash_reporting.cc(278)] Failed to set crash key: SteamUniverse with value: Public
+[0614/235722.133996:WARNING:crash_reporting.cc(278)] Failed to set crash key: Vendor with value: Valve
+[0614/235722.133998:WARNING:crash_reporting.cc(278)] Failed to set crash key: Platform with value: Linux
+[0614/235722.134373:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0614/235722.135316:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0614/235722.136071:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0614/235722.156495:WARNING:crash_reporting.cc(278)] Failed to set crash key: UserID with value: 0
+[0614/235722.156494:WARNING:crash_reporting.cc(278)] Failed to set crash key: UserID with value: 0
+[0614/235722.156570:WARNING:crash_reporting.cc(278)] Failed to set crash key: BuildID with value: 1716584667
+[0614/235722.156572:WARNING:crash_reporting.cc(278)] Failed to set crash key: BuildID with value: 1716584667
+[0614/235722.156574:WARNING:crash_reporting.cc(278)] Failed to set crash key: SteamUniverse with value: Public
+[0614/235722.156575:WARNING:crash_reporting.cc(278)] Failed to set crash key: SteamUniverse with value: Public
+[0614/235722.156577:WARNING:crash_reporting.cc(278)] Failed to set crash key: Vendor with value: Valve
+[0614/235722.156578:WARNING:crash_reporting.cc(278)] Failed to set crash key: Vendor with value: Valve
+[0614/235722.156580:WARNING:crash_reporting.cc(278)] Failed to set crash key: Platform with value: Linux
+[0614/235722.156581:WARNING:crash_reporting.cc(278)] Failed to set crash key: Platform with value: Linux
+Gtk-Message: 23:57:22.278: Failed to load module "canberra-gtk-module"
+
+(steamwebhelper:145297): Gtk-WARNING **: 23:57:22.309: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+[0614/235722.317855:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0614/235722.324698:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+ERR: Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0614/235722.324792:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0614/235722.324866:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0614/235722.324927:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0614/235722.325755:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0614/235722.355696:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0614/235722.362838:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+ERR: Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0614/235722.362893:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0614/235722.362922:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0614/235722.362951:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0614/235722.363724:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0614/235722.367363:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0614/235722.373610:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+ERR: Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0614/235722.373668:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0614/235722.373704:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0614/235722.373766:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0614/235722.374793:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0614/235722.377797:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0614/235722.380127:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0614/235722.385661:WARNING:crash_reporting.cc(278)] Failed to set crash key: UserID with value: 0
+[0614/235722.385728:WARNING:crash_reporting.cc(278)] Failed to set crash key: BuildID with value: 1716584667
+[0614/235722.385731:WARNING:crash_reporting.cc(278)] Failed to set crash key: SteamUniverse with value: Public
+[0614/235722.385734:WARNING:crash_reporting.cc(278)] Failed to set crash key: Vendor with value: Valve
+[0614/235722.385736:WARNING:crash_reporting.cc(278)] Failed to set crash key: Platform with value: Linux
+[0614/235722.386319:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0614/235722.518969:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0614/235722.580153:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235725.673354:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235726.000417:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235726.125998:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235727.302608:WARNING:crash_reporting.cc(278)] Failed to set crash key: UserID with value: 0
+[0614/235727.302672:WARNING:crash_reporting.cc(278)] Failed to set crash key: BuildID with value: 1716584667
+[0614/235727.302676:WARNING:crash_reporting.cc(278)] Failed to set crash key: SteamUniverse with value: Public
+[0614/235727.302679:WARNING:crash_reporting.cc(278)] Failed to set crash key: Vendor with value: Valve
+[0614/235727.302681:WARNING:crash_reporting.cc(278)] Failed to set crash key: Platform with value: Linux
+[0614/235727.303293:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0614/235738.475196:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 1970, .bad_value = 90177564, .minor_opcode = 0, .major_opcode = 25}
+[0614/235738.475463:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 2428, .bad_value = 90177566, .minor_opcode = 3, .major_opcode = 130}
+[0614/235739.858748:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235743.206965:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235745.131274:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0614/235812.723030:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0615/010718.484424:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0615/010722.238570:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0615/010729.231947:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0615/010740.306731:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7194, .bad_value = 90177634, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.306883:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 8123, .bad_value = 90177578, .minor_opcode = 3, .major_opcode = 130}
+[0615/010740.307035:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7196, .bad_value = 90177551, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.307182:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7198, .bad_value = 90177568, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.307349:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7200, .bad_value = 90177572, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.307512:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7202, .bad_value = 90177576, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.307654:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7204, .bad_value = 90177580, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.307795:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7206, .bad_value = 90177584, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.307937:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7208, .bad_value = 90177588, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.308101:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7210, .bad_value = 90177592, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.308250:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7212, .bad_value = 90177596, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.308390:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7214, .bad_value = 90177600, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.308534:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7216, .bad_value = 90177604, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.308677:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7218, .bad_value = 90177608, .minor_opcode = 0, .major_opcode = 25}
+[0615/010740.310545:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010740.310615:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010740.310644:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010740.310675:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010740.310699:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010740.310722:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010740.310744:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0615/010745.299510:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738375 [8,7] will be ignored
+[0615/010745.299582:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 34359738375 [8,7] will be ignored
+Invalid browser dimensions: 0 x 0
+Invalid browser dimensions: 0 x 0
+Invalid browser dimensions: 0 x 0
+Invalid browser dimensions: 0 x 0

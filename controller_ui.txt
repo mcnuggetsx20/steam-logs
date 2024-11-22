@@ -1,0 +1,1291 @@
+
+
+[2024-10-24 23:26:03] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:03] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:09] Loaded Config for Local Selection Path for App ID 443510, Controller 0: /home/mcnuggetsx20/.local/share/Steam/steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin
+[2024-10-24 23:26:10] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:10] Guide button sent to JS
+[2024-10-24 23:26:10] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_ClientUI, AppID 769
+[2024-10-24 23:26:10] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:10] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-24 23:26:10] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:10] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_ClientUI, AppID 769
+[2024-10-24 23:26:10] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-24 23:26:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+
+
+[2024-10-24 23:26:49] Client version: 1726604483
+[2024-10-24 23:26:49] Warming Config Cache 769
+[2024-10-24 23:26:49] Controller 0 connected, configuring it now...
+[2024-10-24 23:26:50] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-10-24 23:26:50] Warming Config Cache 769
+[2024-10-24 23:26:50] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:53] Controller 0 connected, configuring it now...
+[2024-10-24 23:26:53] We thought 0 was already a connected controller?
+[2024-10-24 23:26:53] Controller 0 disconnected
+[2024-10-24 23:26:53] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-24 23:26:53] Warming Config Cache 769
+[2024-10-24 23:26:53] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:53] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:26:53] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:53] Auto-Registering controller: 45e-2a1-3e50d71c, 12345678
+[2024-10-24 23:26:53] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:53] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:54] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:55] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:55] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:26:56] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:33:04] Warming Config Cache 21130
+[2024-10-24 23:33:04] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:33:05] Warming Config Cache 21130
+[2024-10-24 23:33:05] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:33:10] OnFocusWindowChanged to game window type: AppID 21130, 21130
+[2024-10-24 23:33:10] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:33:10] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:56:16] Controller 0 disconnected
+[2024-10-24 23:56:16] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:56:22] Controller 0 connected, configuring it now...
+[2024-10-24 23:56:22] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-24 23:56:22] Warming Config Cache 769
+[2024-10-24 23:56:22] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-24 23:56:22] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-24 23:56:22] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:56:22] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:56:23] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-24 23:56:23] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:12:51] Controller 0 disconnected
+[2024-10-25 00:12:51] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:13:23] Controller 0 connected, configuring it now...
+[2024-10-25 00:13:23] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-25 00:13:23] Warming Config Cache 769
+[2024-10-25 00:13:23] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-25 00:13:23] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-25 00:13:23] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:13:23] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:13:24] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:13:24] Loaded Config for Local Override Path for App ID 21130, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:31:19] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 00:31:19] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:31:29] Warming Config Cache 32440
+[2024-10-25 00:31:29] Loaded Config for Local Override Path for App ID 32440, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:31:29] Warming Config Cache 32440
+[2024-10-25 00:31:29] Loaded Config for Local Override Path for App ID 32440, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:31:34] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-10-25 00:31:34] Loaded Config for Local Override Path for App ID 32440, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:31:34] Loaded Config for Local Override Path for App ID 32440, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:32:49] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 00:32:49] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 00:32:51] Controller 0 disconnected
+
+
+[2024-10-25 10:07:20] Client version: 1726604483
+[2024-10-25 10:07:20] Warming Config Cache 769
+[2024-10-25 10:16:44] Warming Config Cache -1100167174
+[2024-10-25 10:16:44] Warming Config Cache -1100167174
+[2024-10-25 10:17:14] Warming Config Cache -1100167174
+[2024-10-25 10:17:14] Warming Config Cache -1100167174
+[2024-10-25 10:20:18] Warming Config Cache -1100167174
+[2024-10-25 10:20:18] Warming Config Cache -1100167174
+[2024-10-25 10:24:29] Warming Config Cache -1100167174
+[2024-10-25 10:24:29] Warming Config Cache -1100167174
+[2024-10-25 10:38:08] Warming Config Cache -1100167174
+[2024-10-25 10:38:09] Warming Config Cache -1100167174
+[2024-10-25 10:41:17] Warming Config Cache -1100167174
+[2024-10-25 10:41:18] Warming Config Cache -1100167174
+[2024-10-25 10:42:12] Controller 0 connected, configuring it now...
+[2024-10-25 10:42:13] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-25 10:42:13] Warming Config Cache 769
+[2024-10-25 10:42:13] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-25 10:42:13] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-25 10:42:13] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-25 10:42:13] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:14] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:14] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:35] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:42:35] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:38] OnFocusWindowChanged to game window type: AppID 3194800122, legoharrypotterexe
+[2024-10-25 10:42:38] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:38] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:42:38] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:38] OnFocusWindowChanged to game window type: AppID 3194800122, legoharrypotterexe
+[2024-10-25 10:42:38] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:42:52] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:42:52] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:44:09] OnFocusWindowChanged to game window type: AppID 3194800122, legoharrypotterexe
+[2024-10-25 10:44:09] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:44:14] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:44:14] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:45:03] Warming Config Cache -1100167174
+[2024-10-25 10:45:03] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:45:03] Warming Config Cache -1100167174
+[2024-10-25 10:45:03] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:45:15] Warming Config Cache -1100167174
+[2024-10-25 10:45:15] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:45:15] Warming Config Cache -1100167174
+[2024-10-25 10:45:15] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:45:44] Warming Config Cache -1100167174
+[2024-10-25 10:45:44] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:45:44] Warming Config Cache -1100167174
+[2024-10-25 10:45:44] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:46:42] Warming Config Cache -1100167174
+[2024-10-25 10:46:42] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:46:42] Warming Config Cache -1100167174
+[2024-10-25 10:46:42] Loaded Config for Local Override Path for App ID 3194800122, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:47:20] Warming Config Cache -134014875
+[2024-10-25 10:47:20] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:47:20] Warming Config Cache -134014875
+[2024-10-25 10:47:20] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:47:31] Warming Config Cache -134014875
+[2024-10-25 10:47:31] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:47:31] Warming Config Cache -134014875
+[2024-10-25 10:47:31] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:47:58] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 10:47:58] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:47:58] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:48:01] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:48:01] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:51:37] Warming Config Cache -134014875
+[2024-10-25 10:51:37] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:51:37] Warming Config Cache -134014875
+[2024-10-25 10:51:37] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:52:07] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 10:52:07] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:52:12] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:52:12] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:53:14] Warming Config Cache -134014875
+[2024-10-25 10:53:14] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:53:14] Warming Config Cache -134014875
+[2024-10-25 10:53:14] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:53:41] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 10:53:41] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:54:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:54:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:54:21] Warming Config Cache -134014875
+[2024-10-25 10:54:21] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:54:21] Warming Config Cache -134014875
+[2024-10-25 10:54:21] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:54:43] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 10:54:43] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:54:58] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:54:58] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:56:25] Warming Config Cache -134014875
+[2024-10-25 10:56:25] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:56:25] Warming Config Cache -134014875
+[2024-10-25 10:56:25] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:56:47] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 10:56:47] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:57:07] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:57:07] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:59:07] Warming Config Cache -134014875
+[2024-10-25 10:59:07] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:59:07] Warming Config Cache -134014875
+[2024-10-25 10:59:07] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:59:32] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 10:59:32] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 10:59:54] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 10:59:54] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 11:07:03] Warming Config Cache -134014875
+[2024-10-25 11:07:03] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 11:07:03] Warming Config Cache -134014875
+[2024-10-25 11:07:03] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 11:07:28] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 11:07:28] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 11:39:47] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 11:39:47] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 11:40:11] Controller 0 disconnected
+
+
+[2024-10-25 12:48:39] Client version: 1726604483
+[2024-10-25 12:48:39] Warming Config Cache 769
+[2024-10-25 12:50:06] Controller 0 connected, configuring it now...
+[2024-10-25 12:50:07] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-25 12:50:07] Warming Config Cache 769
+[2024-10-25 12:50:07] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-25 12:50:07] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-25 12:50:07] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-25 12:50:07] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 12:50:08] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 12:50:08] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 12:50:08] Warming Config Cache -134014875
+[2024-10-25 12:50:08] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 12:50:08] Warming Config Cache -134014875
+[2024-10-25 12:50:08] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 12:50:33] OnFocusWindowChanged to game window type: AppID 4160952421, legoharrypotterexe
+[2024-10-25 12:50:33] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 13:57:54] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-25 13:57:54] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 14:00:37] Warming Config Cache 228980
+[2024-10-25 14:00:37] Loaded Config for Local Override Path for App ID 228980, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-25 14:09:55] Controller 0 disconnected
+
+
+[2024-10-26 10:43:01] Client version: 1726604483
+[2024-10-26 10:43:01] Warming Config Cache 769
+[2024-10-26 10:43:01] Controller 0 connected, configuring it now...
+[2024-10-26 10:43:04] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-10-26 10:43:04] Warming Config Cache 769
+[2024-10-26 10:43:04] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-26 10:43:04] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-26 10:43:04] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-26 10:43:06] Controller 0 connected, configuring it now...
+[2024-10-26 10:43:06] We thought 0 was already a connected controller?
+[2024-10-26 10:43:06] Controller 0 disconnected
+[2024-10-26 10:43:06] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-26 10:43:06] Warming Config Cache 769
+[2024-10-26 10:43:06] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-26 10:43:06] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-26 10:43:06] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-26 10:43:06] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:43:07] Auto-Registering controller: 45e-2a1-3e50d71c, 12345678
+[2024-10-26 10:43:07] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:43:07] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:43:08] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:43:08] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:44:14] Warming Config Cache -134014875
+[2024-10-26 10:44:14] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:44:14] Warming Config Cache -134014875
+[2024-10-26 10:44:14] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:44:35] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-26 10:44:35] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:44:35] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 10:59:53] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-26 10:59:53] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:01:29] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-26 11:01:29] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:03:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-26 11:03:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:03:50] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-26 11:03:50] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:10:59] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-26 11:10:59] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:11:24] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-26 11:11:24] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:21:51] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-26 11:21:51] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-26 11:21:53] Controller 0 disconnected
+
+
+[2024-10-27 10:29:17] Client version: 1726604483
+[2024-10-27 10:29:17] Warming Config Cache 769
+[2024-10-27 10:29:50] Controller 0 connected, configuring it now...
+[2024-10-27 10:29:50] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-27 10:29:50] Warming Config Cache 769
+[2024-10-27 10:29:50] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-27 10:29:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-27 10:29:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-27 10:29:52] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 10:29:52] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 10:29:53] Warming Config Cache -134014875
+[2024-10-27 10:29:53] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 10:29:53] Warming Config Cache -134014875
+[2024-10-27 10:29:53] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 10:30:14] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-27 10:30:14] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 10:30:14] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 12:05:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-27 12:05:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-27 12:05:22] Controller 0 disconnected
+
+
+[2024-10-29 14:04:25] Client version: 1726604483
+[2024-10-29 14:04:25] Warming Config Cache 769
+[2024-10-29 14:06:39] Warming Config Cache 440
+[2024-10-29 14:06:49] Warming Config Cache 440
+[2024-10-29 14:06:49] Warming Config Cache 440
+[2024-10-29 14:40:40] Controller 0 connected, configuring it now...
+[2024-10-29 14:40:41] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-29 14:40:41] Warming Config Cache 769
+[2024-10-29 14:40:41] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-29 14:40:41] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-29 14:40:41] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-29 14:40:42] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 14:40:42] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 14:40:44] Warming Config Cache -134014875
+[2024-10-29 14:40:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 14:40:44] Warming Config Cache -134014875
+[2024-10-29 14:40:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 14:41:05] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-29 14:41:05] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 14:41:06] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:26:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-29 15:26:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:32:59] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-29 15:32:59] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:44] Controller 0 disconnected
+[2024-10-29 15:48:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:54] Controller 0 connected, configuring it now...
+[2024-10-29 15:48:54] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-29 15:48:54] Warming Config Cache 769
+[2024-10-29 15:48:54] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-29 15:48:54] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-29 15:48:54] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:54] Controller 0 disconnected
+[2024-10-29 15:48:54] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:55] Controller 0 connected, configuring it now...
+[2024-10-29 15:48:55] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-29 15:48:55] Warming Config Cache 769
+[2024-10-29 15:48:55] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-29 15:48:55] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-29 15:48:55] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:56] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:56] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:48:56] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:54:48] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-29 15:54:48] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-29 15:56:08] Controller 0 disconnected
+[2024-10-29 15:56:09] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+
+
+[2024-10-30 09:20:50] Client version: 1726604483
+[2024-10-30 09:20:50] Warming Config Cache 769
+[2024-10-30 09:20:50] Controller 0 connected, configuring it now...
+[2024-10-30 09:21:02] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-10-30 09:21:02] Warming Config Cache 769
+[2024-10-30 09:21:02] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-30 09:21:02] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 09:21:02] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 09:21:05] Controller 0 connected, configuring it now...
+[2024-10-30 09:21:05] We thought 0 was already a connected controller?
+[2024-10-30 09:21:05] Controller 0 disconnected
+[2024-10-30 09:21:06] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-30 09:21:06] Warming Config Cache 769
+[2024-10-30 09:21:06] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-30 09:21:06] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 09:21:06] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 09:21:06] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 09:21:06] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 09:21:07] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 09:21:35] Warming Config Cache -134014875
+[2024-10-30 09:21:35] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 09:21:35] Warming Config Cache -134014875
+[2024-10-30 09:21:35] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 09:21:57] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-30 09:21:57] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 09:21:57] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 10:32:44] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-30 10:32:44] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 10:32:45] Controller 0 disconnected
+
+
+[2024-10-30 20:36:46] Client version: 1726604483
+[2024-10-30 20:36:46] Warming Config Cache 769
+[2024-10-30 20:36:46] Controller 0 connected, configuring it now...
+[2024-10-30 20:36:49] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-10-30 20:36:49] Warming Config Cache 769
+[2024-10-30 20:36:49] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-30 20:36:49] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 20:36:49] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 20:36:51] Controller 0 connected, configuring it now...
+[2024-10-30 20:36:51] We thought 0 was already a connected controller?
+[2024-10-30 20:36:51] Controller 0 disconnected
+[2024-10-30 20:36:51] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-10-30 20:36:51] Warming Config Cache 769
+[2024-10-30 20:36:51] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-10-30 20:36:51] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 20:36:51] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-10-30 20:36:51] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:36:52] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:36:52] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:37:05] Warming Config Cache -134014875
+[2024-10-30 20:37:05] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:37:06] Warming Config Cache -134014875
+[2024-10-30 20:37:06] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:37:27] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-10-30 20:37:27] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:37:28] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 20:59:18] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-10-30 20:59:18] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-10-30 21:04:20] Controller 0 disconnected
+
+
+[2024-11-01 17:55:19] Client version: 1726604483
+[2024-11-01 17:55:19] Warming Config Cache 769
+[2024-11-01 17:56:22] Warming Config Cache -134014875
+[2024-11-01 17:56:22] Warming Config Cache -134014875
+[2024-11-01 17:56:59] Controller 0 connected, configuring it now...
+[2024-11-01 17:56:59] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-01 17:56:59] Warming Config Cache 769
+[2024-11-01 17:56:59] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-01 17:56:59] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-01 17:56:59] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-01 17:57:00] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:57:01] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:57:01] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:57:56] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-01 17:57:56] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:57:57] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-11-01 17:57:57] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:57:58] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-01 17:57:58] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:57:59] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-11-01 17:57:59] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 17:59:39] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-01 17:59:39] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:03:15] Warming Config Cache -134014875
+[2024-11-01 18:03:15] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:03:15] Warming Config Cache -134014875
+[2024-11-01 18:03:15] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:03:40] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-11-01 18:03:40] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:04:11] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-01 18:04:11] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:05:43] Warming Config Cache 1113280
+[2024-11-01 18:05:43] Loaded Config for Local Override Path for App ID 1113280, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:05:44] Warming Config Cache -134014875
+[2024-11-01 18:05:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:05:44] Warming Config Cache -134014875
+[2024-11-01 18:05:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:07:59] Warming Config Cache -134014875
+[2024-11-01 18:07:59] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:07:59] Warming Config Cache -134014875
+[2024-11-01 18:07:59] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:08:36] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-11-01 18:08:36] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:09:50] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-01 18:09:50] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:18:17] Warming Config Cache -134014875
+[2024-11-01 18:18:17] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:18:18] Warming Config Cache -134014875
+[2024-11-01 18:18:18] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 18:18:42] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-11-01 18:18:42] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 19:43:29] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-01 19:43:29] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-01 19:43:30] Controller 0 disconnected
+
+
+[2024-11-04 14:20:50] Client version: 1726604483
+[2024-11-04 14:20:50] Warming Config Cache 769
+[2024-11-04 14:21:41] Controller 0 connected, configuring it now...
+[2024-11-04 14:21:41] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-04 14:21:41] Warming Config Cache 769
+[2024-11-04 14:21:41] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-04 14:21:41] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-04 14:21:41] Loaded Config for Last Resort Path for App ID 769, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-04 14:21:43] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:21:43] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:21:44] Warming Config Cache -134014875
+[2024-11-04 14:21:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:21:44] Warming Config Cache -134014875
+[2024-11-04 14:21:44] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:22:04] OnFocusWindowChanged to game window type: AppID 4160952421, lego harry potter years 1-4
+[2024-11-04 14:22:04] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:22:04] Loaded Config for Local Override Path for App ID 4160952421, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:22:33] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-04 14:22:33] Loaded Config for Local Override Path for App ID 413080, Controller 0: /home/mcnuggetsx20/.local/share/Steam//controller_base/empty.vdf
+[2024-11-04 14:22:34] Controller 0 disconnected
+[2024-11-04 14:25:24] Warming Config Cache -446078388
+[2024-11-04 14:25:24] Warming Config Cache -446078388
+[2024-11-04 14:29:40] Warming Config Cache -446078388
+[2024-11-04 14:29:40] Warming Config Cache -446078388
+[2024-11-04 14:44:12] Warming Config Cache -134014875
+[2024-11-04 14:44:12] Warming Config Cache -134014875
+[2024-11-04 14:44:54] Warming Config Cache -446078388
+[2024-11-04 14:44:54] Warming Config Cache -446078388
+[2024-11-04 14:44:57] Warming Config Cache -446078388
+[2024-11-04 14:44:57] Warming Config Cache -446078388
+[2024-11-04 14:45:05] Warming Config Cache -446078388
+[2024-11-04 14:45:05] Warming Config Cache -446078388
+[2024-11-04 14:46:22] Warming Config Cache -446078388
+[2024-11-04 14:46:23] Warming Config Cache -446078388
+[2024-11-04 14:46:24] Warming Config Cache -446078388
+[2024-11-04 14:46:24] Warming Config Cache -446078388
+
+
+[2024-11-04 14:49:08] Client version: 1726604483
+[2024-11-04 14:49:08] Warming Config Cache 769
+[2024-11-04 14:49:24] Warming Config Cache -446078388
+[2024-11-04 14:49:24] Warming Config Cache -446078388
+
+
+[2024-11-04 14:51:30] Client version: 1726604483
+[2024-11-04 14:51:30] Warming Config Cache 769
+[2024-11-04 14:54:46] Warming Config Cache 1391110
+[2024-11-04 14:56:02] Warming Config Cache 1580130
+[2024-11-04 14:56:04] Warming Config Cache -446078388
+[2024-11-04 14:56:04] Warming Config Cache -446078388
+[2024-11-04 14:56:07] Warming Config Cache -446078388
+[2024-11-04 14:56:07] Warming Config Cache -446078388
+[2024-11-04 14:56:22] Warming Config Cache -446078388
+[2024-11-04 14:56:22] Warming Config Cache -446078388
+[2024-11-04 14:56:42] Warming Config Cache -446078388
+[2024-11-04 14:56:42] Warming Config Cache -446078388
+[2024-11-04 14:56:49] Warming Config Cache -446078388
+[2024-11-04 14:56:49] Warming Config Cache -446078388
+[2024-11-04 15:00:12] Warming Config Cache -248149937
+[2024-11-04 15:00:12] Warming Config Cache -248149937
+[2024-11-04 15:00:22] Warming Config Cache -248149937
+[2024-11-04 15:00:22] Warming Config Cache -248149937
+[2024-11-04 15:15:39] Warming Config Cache -248149937
+[2024-11-04 15:15:39] Warming Config Cache -248149937
+[2024-11-04 15:15:58] Warming Config Cache -248149937
+[2024-11-04 15:15:58] Warming Config Cache -248149937
+[2024-11-04 15:17:34] Warming Config Cache -134014875
+[2024-11-04 15:17:34] Warming Config Cache -134014875
+[2024-11-04 15:20:23] Warming Config Cache -134014875
+[2024-11-04 15:20:23] Warming Config Cache -134014875
+[2024-11-04 15:20:31] Warming Config Cache -248149937
+[2024-11-04 15:20:31] Warming Config Cache -248149937
+[2024-11-04 15:20:48] Warming Config Cache -248149937
+[2024-11-04 15:20:48] Warming Config Cache -248149937
+[2024-11-04 15:21:22] Warming Config Cache -248149937
+[2024-11-04 15:21:22] Warming Config Cache -248149937
+
+
+[2024-11-04 23:25:08] Client version: 1726604483
+[2024-11-04 23:25:08] Warming Config Cache 769
+[2024-11-04 23:27:46] Warming Config Cache 440
+[2024-11-04 23:29:08] Warming Config Cache 620
+[2024-11-04 23:29:09] Warming Config Cache 620
+[2024-11-04 23:30:15] Warming Config Cache 311770
+[2024-11-04 23:30:18] Warming Config Cache 311770
+[2024-11-04 23:31:16] Warming Config Cache 32440
+[2024-11-04 23:31:22] Warming Config Cache 32440
+[2024-11-04 23:31:24] Warming Config Cache 400
+[2024-11-04 23:31:28] Warming Config Cache 400
+[2024-11-04 23:31:47] Warming Config Cache 213330
+[2024-11-04 23:31:54] Warming Config Cache 213330
+[2024-11-04 23:32:22] Warming Config Cache 32330
+[2024-11-04 23:32:31] Warming Config Cache 32330
+[2024-11-04 23:32:54] Warming Config Cache 2348590
+[2024-11-04 23:32:55] Warming Config Cache 2348590
+[2024-11-04 23:33:14] Warming Config Cache 1628350
+[2024-11-04 23:33:20] Warming Config Cache 1628350
+[2024-11-04 23:33:23] Warming Config Cache 274190
+[2024-11-04 23:33:43] Warming Config Cache 234710
+[2024-11-04 23:33:56] Warming Config Cache 31280
+[2024-11-04 23:34:06] Warming Config Cache 21000
+[2024-11-04 23:34:08] Warming Config Cache 21000
+[2024-11-04 23:34:11] Warming Config Cache 1677740
+[2024-11-04 23:34:15] Warming Config Cache 1677740
+[2024-11-04 23:41:12] Warming Config Cache 440
+[2024-11-04 23:41:18] Warming Config Cache 440
+[2024-11-04 23:41:18] Warming Config Cache 440
+
+
+[2024-11-10 15:10:23] Client version: 1730853027
+[2024-11-10 15:10:23] Warming Config Cache 769
+[2024-11-10 15:10:23] Controller 0 connected, configuring it now...
+[2024-11-10 15:10:34] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-11-10 15:10:34] Warming Config Cache 769
+[2024-11-10 15:10:34] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-10 15:10:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:10:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:10:37] Controller 0 connected, configuring it now...
+[2024-11-10 15:10:37] We thought 0 was already a connected controller?
+[2024-11-10 15:10:37] Controller 0 disconnected
+[2024-11-10 15:10:37] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-10 15:10:37] Warming Config Cache 769
+[2024-11-10 15:10:37] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-10 15:10:37] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:10:37] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:10:37] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:19:32] Warming Config Cache 1628350
+[2024-11-10 15:19:32] Loaded Config for Local Override Path for App ID 1628350, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:19:34] Warming Config Cache 1070560
+[2024-11-10 15:19:34] Loaded Config for Local Override Path for App ID 1070560, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:19:34] Warming Config Cache 32440
+[2024-11-10 15:19:34] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:27] Warming Config Cache 1391110
+[2024-11-10 15:20:27] Loaded Config for Local Override Path for App ID 1391110, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:27] Warming Config Cache 32440
+[2024-11-10 15:20:27] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:32] Warming Config Cache 32440
+[2024-11-10 15:20:32] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:33] Warming Config Cache 32440
+[2024-11-10 15:20:33] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:37] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:20:37] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:37] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:40] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:20:40] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:20:40] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:20:40] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:49] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:21:49] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:49] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:21:49] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:50] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:21:50] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:50] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:21:50] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:50] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:21:50] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:51] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:21:51] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:21:59] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:21:59] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:22:01] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:22:01] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:22:05] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:22:05] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:22:10] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:22:10] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:23:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:23:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:23:27] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:23:27] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:23:39] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:23:39] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:24:11] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:24:11] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:24:22] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:24:22] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:25:29] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:25:29] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:25:38] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:25:38] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:27:06] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:27:06] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:27:13] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:27:13] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:30:36] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:30:36] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:30:36] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:30:36] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:30:37] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:30:37] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:31:15] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:31:15] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:31:18] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:31:18] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:31:19] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:31:19] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:31:50] Warming Config Cache 32440
+[2024-11-10 15:31:50] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:31:50] Warming Config Cache 32440
+[2024-11-10 15:31:50] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:13] Warming Config Cache 32440
+[2024-11-10 15:32:13] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:13] Warming Config Cache 32440
+[2024-11-10 15:32:13] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:26] Warming Config Cache 32440
+[2024-11-10 15:32:26] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:26] Warming Config Cache 32440
+[2024-11-10 15:32:26] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:30] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:32:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:30] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:32:30] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:30] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:32:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:32] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:32:32] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:32:33] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:32:33] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:16] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:33:16] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:17] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:33:17] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:17] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:33:17] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:17] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:33:17] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:28] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:33:28] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:29] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:33:29] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:33:52] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:33:52] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:36:55] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:36:55] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:37:11] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:37:11] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+
+
+[2024-11-10 15:38:28] Client version: 1730853027
+[2024-11-10 15:38:28] Warming Config Cache 769
+[2024-11-10 15:38:28] Controller 0 connected, configuring it now...
+[2024-11-10 15:38:31] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-11-10 15:38:31] Warming Config Cache 769
+[2024-11-10 15:38:31] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-10 15:38:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:38:31] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:38:34] Controller 0 connected, configuring it now...
+[2024-11-10 15:38:34] We thought 0 was already a connected controller?
+[2024-11-10 15:38:34] Controller 0 disconnected
+[2024-11-10 15:38:34] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-10 15:38:34] Warming Config Cache 769
+[2024-11-10 15:38:34] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-10 15:38:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:38:34] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 15:38:34] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:38:34] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:38:45] Warming Config Cache 32440
+[2024-11-10 15:38:45] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:38:45] Warming Config Cache 32440
+[2024-11-10 15:38:45] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:38:49] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:38:49] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:38:49] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:26] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:39:26] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:30] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:39:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:30] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:39:30] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:30] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:39:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:39:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:32] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:39:32] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:33] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:39:33] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:39] Warming Config Cache 32440
+[2024-11-10 15:39:39] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:40] Warming Config Cache 32440
+[2024-11-10 15:39:40] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:43] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:39:43] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:46] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 15:39:46] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 15:39:47] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-10 15:39:47] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:13:19] Controller 0 disconnected
+[2024-11-10 16:13:19] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:15:43] Controller 0 connected, configuring it now...
+[2024-11-10 16:15:44] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-10 16:15:44] Warming Config Cache 769
+[2024-11-10 16:15:44] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-10 16:15:44] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 16:15:44] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:15:44] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:15:44] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:33:54] Controller 0 disconnected
+[2024-11-10 16:33:58] Controller 0 connected, configuring it now...
+[2024-11-10 16:33:59] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-10 16:33:59] Warming Config Cache 769
+[2024-11-10 16:33:59] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-10 16:33:59] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-10 16:33:59] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:33:59] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 16:33:59] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 17:17:59] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-10 17:17:59] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-10 17:19:04] Controller 0 disconnected
+[2024-11-10 17:19:04] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+
+
+[2024-11-11 17:43:56] Client version: 1730853027
+[2024-11-11 17:43:56] Warming Config Cache 769
+[2024-11-11 17:43:56] Controller 0 connected, configuring it now...
+[2024-11-11 17:43:59] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-11 17:43:59] Warming Config Cache 769
+[2024-11-11 17:43:59] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-11 17:43:59] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-11 17:43:59] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-11 17:44:02] Controller 0 connected, configuring it now...
+[2024-11-11 17:44:02] We thought 0 was already a connected controller?
+[2024-11-11 17:44:02] Controller 0 disconnected
+[2024-11-11 17:44:02] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-11 17:44:02] Warming Config Cache 769
+[2024-11-11 17:44:02] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-11 17:44:02] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-11 17:44:02] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-11 17:44:02] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:02] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:23] Warming Config Cache 32440
+[2024-11-11 17:44:23] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:24] Warming Config Cache 32440
+[2024-11-11 17:44:24] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:28] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-11 17:44:28] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:28] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-11 17:44:28] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:28] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-11 17:44:28] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:28] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-11 17:44:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:31] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-11 17:44:31] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-11 17:44:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:32] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-11 17:44:32] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:33] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-11 17:44:33] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:44:34] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-11 17:44:34] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:45:38] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-11 17:45:38] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 17:46:18] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-11 17:46:18] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 19:08:35] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-11 19:08:35] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 19:08:35] Loaded Config for Local Selection Path for App ID 443510, Controller 0: /mnt/b/link_targets/Steam/steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin
+[2024-11-11 19:08:35] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-11 19:08:35] Guide button sent to JS
+[2024-11-11 19:08:36] Controller 0 disconnected
+
+
+[2024-11-12 10:08:27] Client version: 1730853027
+[2024-11-12 10:08:27] Warming Config Cache 769
+[2024-11-12 10:10:16] Warming Config Cache 32440
+[2024-11-12 10:10:16] Controller 0 connected, configuring it now...
+[2024-11-12 10:10:16] Warming Config Cache 32440
+[2024-11-12 10:10:17] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-12 10:10:17] Warming Config Cache 769
+[2024-11-12 10:10:17] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-12 10:10:17] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 10:10:17] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 10:10:17] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:17] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:17] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:20] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 10:10:20] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 10:10:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:20] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 10:10:20] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:23] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 10:10:23] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:23] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 10:10:23] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:30] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 10:10:30] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:10:30] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 10:10:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:11:14] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 10:11:14] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 10:11:19] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 10:11:19] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 11:21:14] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 11:21:14] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 11:21:15] Controller 0 disconnected
+[2024-11-12 15:22:34] Warming Config Cache 32440
+[2024-11-12 15:22:34] Warming Config Cache 32440
+[2024-11-12 15:22:48] Controller 0 connected, configuring it now...
+[2024-11-12 15:22:48] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-12 15:22:48] Warming Config Cache 769
+[2024-11-12 15:22:48] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-12 15:22:48] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 15:22:48] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:22:48] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:22:49] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:22:49] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 15:22:49] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:22:49] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 15:22:49] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:40:45] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 15:40:45] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:40:46] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 15:40:46] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:40:46] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 15:40:46] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 15:41:08] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 15:41:08] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:17:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 16:17:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:19:40] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 16:19:40] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:22:54] Controller 1 connected, configuring it now...
+[2024-11-12 16:22:55] !! Controller 1 attributes:
+  Type: 31
+  ProductID: 654
+  Serial: 45e-28e-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-12 16:22:55] Warming Config Cache 769
+[2024-11-12 16:22:55] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-12 16:22:55] Loaded Config for Local Selection Path for App ID 769, Controller 1: controller_base/basicui_gamepad.vdf
+[2024-11-12 16:22:55] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 16:22:55] Loaded Config for Last Resort Path for App ID 769, Controller 1: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 16:22:55] Loaded Config for Last Resort Path for App ID 769, Controller 1: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 16:22:55] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:22:55] Loaded Config for Local Override Path for App ID 32440, Controller 1: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:22:55] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:22:55] Loaded Config for Local Override Path for App ID 32440, Controller 1: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:22:55] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:25:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 16:25:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:25:31] Loaded Config for Local Override Path for App ID 413080, Controller 1: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:26:03] Controller 1 disconnected
+[2024-11-12 16:26:11] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 16:26:11] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:26:11] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 16:52:26] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 16:52:26] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:07:27] Controller 0 disconnected
+[2024-11-12 17:10:40] Controller 0 connected, configuring it now...
+[2024-11-12 17:10:41] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-12 17:10:41] Warming Config Cache 769
+[2024-11-12 17:10:41] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-12 17:10:41] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 17:10:41] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:10:41] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:10:41] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:10:44] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 17:10:44] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:16:16] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 17:16:16] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:16:17] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 17:16:17] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:23:38] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 17:23:38] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:23:41] Controller 0 disconnected
+[2024-11-12 17:23:41] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:56:24] Controller 0 connected, configuring it now...
+[2024-11-12 17:56:25] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-12 17:56:25] Warming Config Cache 769
+[2024-11-12 17:56:25] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-12 17:56:25] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-12 17:56:25] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:56:25] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:56:25] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 17:56:49] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-12 17:56:49] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 18:14:51] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-12 18:14:51] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-12 18:14:53] Controller 0 disconnected
+
+
+[2024-11-13 10:33:07] Client version: 1731433018
+[2024-11-13 10:33:07] Warming Config Cache 769
+[2024-11-13 10:33:14] Warming Config Cache 1580130
+[2024-11-13 10:33:20] Controller 0 connected, configuring it now...
+[2024-11-13 10:33:21] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-13 10:33:21] Warming Config Cache 769
+[2024-11-13 10:33:21] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-13 10:33:21] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-13 10:33:21] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-13 10:33:21] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:33:21] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:35:54] Warming Config Cache 32440
+[2024-11-13 10:35:54] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:35:54] Warming Config Cache 32440
+[2024-11-13 10:35:54] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:35:58] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-13 10:35:58] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:35:58] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-13 10:35:58] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:35:58] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:35:58] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-13 10:35:58] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:36:01] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-13 10:36:01] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 10:36:01] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-13 10:36:01] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 11:03:27] Controller 0 disconnected
+[2024-11-13 11:03:30] Controller 0 connected, configuring it now...
+[2024-11-13 11:03:30] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-13 11:03:30] Warming Config Cache 769
+[2024-11-13 11:03:30] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-13 11:03:30] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-13 11:03:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 11:03:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 11:03:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 11:27:20] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-13 11:27:20] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-13 11:27:21] Controller 0 disconnected
+
+
+[2024-11-15 12:32:52] Client version: 1731433018
+[2024-11-15 12:32:52] Warming Config Cache 769
+[2024-11-15 12:32:52] Controller 0 connected, configuring it now...
+[2024-11-15 12:32:55] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: Awaiting_Logon
+  Capabilities: 001043ff
+  Firmware Version: 0
+[2024-11-15 12:32:55] Warming Config Cache 769
+[2024-11-15 12:32:55] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-15 12:32:55] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-15 12:32:55] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-15 12:32:58] Controller 0 connected, configuring it now...
+[2024-11-15 12:32:58] We thought 0 was already a connected controller?
+[2024-11-15 12:32:58] Controller 0 disconnected
+[2024-11-15 12:32:58] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-15 12:32:58] Warming Config Cache 769
+[2024-11-15 12:32:58] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-15 12:32:58] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-15 12:32:58] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-15 12:32:58] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:13] Warming Config Cache 32440
+[2024-11-15 12:33:13] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:13] Warming Config Cache 32440
+[2024-11-15 12:33:13] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:27] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-15 12:33:27] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:27] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:30] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-15 12:33:30] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:30] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-15 12:33:30] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:31] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-15 12:33:31] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:33:31] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-15 12:33:31] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:34:34] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-15 12:34:34] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 12:35:11] OnFocusWindowChanged to game window type: AppID 32440, 32440
+[2024-11-15 12:35:11] Loaded Config for Local Override Path for App ID 32440, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 13:45:39] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-15 13:45:39] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-15 13:45:39] Controller 0 disconnected
+
+
+[2024-11-18 13:46:35] Client version: 1731433018
+[2024-11-18 13:46:35] Warming Config Cache 769
+[2024-11-18 13:46:47] Warming Config Cache 2348590
+
+
+[2024-11-18 13:47:06] Client version: 1731433018
+[2024-11-18 13:47:06] Warming Config Cache 769
+[2024-11-18 13:47:46] Controller 0 connected, configuring it now...
+[2024-11-18 13:47:46] !! Controller 0 attributes:
+  Type: 31
+  ProductID: 673
+  Serial: 45e-2a1-3e50d71c
+  Capabilities: 001843ff
+  Firmware Version: 0
+[2024-11-18 13:47:46] Warming Config Cache 769
+[2024-11-18 13:47:46] Loaded Config for Local Selection Path for App ID 769, Controller 0: controller_base/basicui_gamepad.vdf
+[2024-11-18 13:47:46] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-18 13:47:46] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-18 13:47:46] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-18 13:47:46] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-18 13:47:50] Loaded Config for Local Selection Path for App ID 443510, Controller 0: /mnt/b/link_targets/Steam/steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin
+[2024-11-18 13:47:50] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-18 13:47:50] Guide button sent to JS
+[2024-11-18 13:47:50] Loaded Config for Local Selection Path for App ID 443510, Controller 0: /mnt/b/link_targets/Steam/steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin
+[2024-11-18 13:47:50] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-18 13:47:50] Guide button sent to JS
+[2024-11-18 13:47:50] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_ClientUI, AppID 769
+[2024-11-18 13:47:50] Loaded Config for Last Resort Path for App ID 769, Controller 0: /mnt/b/link_targets/Steam//controller_base/basicui_gamepad.vdf
+[2024-11-18 13:48:15] OnFocusWindowChanged to window type: k_nGameIDControllerConfigs_Desktop, AppID 413080
+[2024-11-18 13:48:15] Loaded Config for Local Override Path for App ID 413080, Controller 0: /mnt/b/link_targets/Steam//controller_base/empty.vdf
+[2024-11-18 13:48:17] Controller 0 disconnected
+
+
+[2024-11-18 13:48:39] Client version: 1731433018
+[2024-11-18 13:48:39] Warming Config Cache 769
+
+
+[2024-11-18 13:49:45] Client version: 1731433018
+[2024-11-18 13:49:45] Warming Config Cache 769
+
+
+[2024-11-18 13:50:14] Client version: 1731433018
+[2024-11-18 13:50:14] Warming Config Cache 769
+
+
+[2024-11-18 13:50:49] Client version: 1731433018
+[2024-11-18 13:50:49] Warming Config Cache 769
+
+
+[2024-11-18 14:00:29] Client version: 1731433018
+[2024-11-18 14:00:29] Warming Config Cache 769
+[2024-11-18 14:01:18] Loaded Config for Local Selection Path for App ID 443510, Controller 0: /mnt/b/link_targets/Steam/steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin
+[2024-11-18 14:01:18] Loaded Config for Local Selection Path for App ID 443510, Controller 0: /mnt/b/link_targets/Steam/steamapps/workshop/content/241100/936992996/767148481031564973_legacy.bin
+
+
+[2024-11-18 14:02:53] Client version: 1731433018
+[2024-11-18 14:02:53] Warming Config Cache 769
+
+
+[2024-11-18 14:05:17] Client version: 1731716808
+[2024-11-18 14:05:17] Warming Config Cache 769
+
+
+[2024-11-18 14:09:05] Client version: 1731716808
+[2024-11-18 14:09:05] Warming Config Cache 769
+
+
+[2024-11-18 14:11:15] Client version: 1731716808
+[2024-11-18 14:11:15] Warming Config Cache 769
+
+
+[2024-11-18 14:11:41] Client version: 1731716808
+[2024-11-18 14:11:41] Warming Config Cache 769
+
+
+[2024-11-18 14:12:06] Client version: 1731716808
+[2024-11-18 14:12:06] Warming Config Cache 769
+
+
+[2024-11-18 14:17:43] Client version: 1731433018
+[2024-11-18 14:17:43] Warming Config Cache 769
+
+
+[2024-11-18 14:23:58] Client version: 1731433018
+[2024-11-18 14:23:58] Warming Config Cache 769
+
+
+[2024-11-18 14:36:32] Client version: 1731433018
+[2024-11-18 14:36:32] Warming Config Cache 769
+
+
+[2024-11-22 13:08:43] Client version: 1731433018
+[2024-11-22 13:08:43] Warming Config Cache 769

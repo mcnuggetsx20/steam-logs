@@ -1,0 +1,3369 @@
+
+
+[2023-09-26 18:52:39] Client version: 1694466342
+[2023-09-26 18:52:39] Failed to get ParentalSettings\Settings from config file for account ID 1045485340
+[2023-09-26 18:52:40] Got parental settings for account ID 1045485340
+
+
+[2023-09-26 19:42:23] Client version: 1694466342
+[2023-09-26 19:42:23] Validating parental settings
+[2023-09-26 19:42:23] Settings dump:
+[2023-09-26 19:42:23] 	Account ID: 1045485340
+[2023-09-26 19:42:23] 	Enabled: false
+[2023-09-26 19:42:23] 	Base list: 0 ()
+[2023-09-26 19:42:23] 	No custom list
+[2023-09-26 19:42:23] 	No enabled features
+
+
+[2023-09-27 08:49:06] Client version: 1694466342
+[2023-09-27 08:49:06] Validating parental settings
+[2023-09-27 08:49:06] Settings dump:
+[2023-09-27 08:49:06] 	Account ID: 1045485340
+[2023-09-27 08:49:06] 	Enabled: false
+[2023-09-27 08:49:06] 	Base list: 0 ()
+[2023-09-27 08:49:06] 	No custom list
+[2023-09-27 08:49:06] 	No enabled features
+[2023-09-27 08:57:17] Validating parental settings
+[2023-09-27 08:57:17] Settings dump:
+[2023-09-27 08:57:17] 	Account ID: 1045485340
+[2023-09-27 08:57:17] 	Enabled: false
+[2023-09-27 08:57:17] 	Base list: 0 ()
+[2023-09-27 08:57:17] 	No custom list
+[2023-09-27 08:57:17] 	No enabled features
+[2023-09-27 08:59:38] Validating parental settings
+[2023-09-27 08:59:38] Settings dump:
+[2023-09-27 08:59:38] 	Account ID: 1045485340
+[2023-09-27 08:59:38] 	Enabled: false
+[2023-09-27 08:59:38] 	Base list: 0 ()
+[2023-09-27 08:59:38] 	No custom list
+[2023-09-27 08:59:38] 	No enabled features
+
+
+[2023-09-27 10:58:20] Client version: 1694466342
+[2023-09-27 10:58:20] Validating parental settings
+[2023-09-27 10:58:20] Settings dump:
+[2023-09-27 10:58:20] 	Account ID: 1045485340
+[2023-09-27 10:58:20] 	Enabled: false
+[2023-09-27 10:58:20] 	Base list: 0 ()
+[2023-09-27 10:58:20] 	No custom list
+[2023-09-27 10:58:20] 	No enabled features
+[2023-09-27 12:09:46] Validating parental settings
+[2023-09-27 12:09:46] Settings dump:
+[2023-09-27 12:09:46] 	Account ID: 1045485340
+[2023-09-27 12:09:46] 	Enabled: false
+[2023-09-27 12:09:46] 	Base list: 0 ()
+[2023-09-27 12:09:46] 	No custom list
+[2023-09-27 12:09:46] 	No enabled features
+[2023-09-27 12:30:07] Validating parental settings
+[2023-09-27 12:30:07] Settings dump:
+[2023-09-27 12:30:07] 	Account ID: 1045485340
+[2023-09-27 12:30:07] 	Enabled: false
+[2023-09-27 12:30:07] 	Base list: 0 ()
+[2023-09-27 12:30:07] 	No custom list
+[2023-09-27 12:30:07] 	No enabled features
+[2023-09-27 12:38:59] Validating parental settings
+[2023-09-27 12:38:59] Settings dump:
+[2023-09-27 12:38:59] 	Account ID: 1045485340
+[2023-09-27 12:38:59] 	Enabled: false
+[2023-09-27 12:38:59] 	Base list: 0 ()
+[2023-09-27 12:38:59] 	No custom list
+[2023-09-27 12:38:59] 	No enabled features
+
+
+[2023-09-27 19:41:18] Client version: 1694466342
+[2023-09-27 19:41:18] Validating parental settings
+[2023-09-27 19:41:18] Settings dump:
+[2023-09-27 19:41:18] 	Account ID: 1045485340
+[2023-09-27 19:41:18] 	Enabled: false
+[2023-09-27 19:41:18] 	Base list: 0 ()
+[2023-09-27 19:41:18] 	No custom list
+[2023-09-27 19:41:18] 	No enabled features
+[2023-09-27 19:51:21] Validating parental settings
+[2023-09-27 19:51:21] Settings dump:
+[2023-09-27 19:51:21] 	Account ID: 1045485340
+[2023-09-27 19:51:21] 	Enabled: false
+[2023-09-27 19:51:21] 	Base list: 0 ()
+[2023-09-27 19:51:21] 	No custom list
+[2023-09-27 19:51:21] 	No enabled features
+[2023-09-27 19:55:49] Validating parental settings
+[2023-09-27 19:55:49] Settings dump:
+[2023-09-27 19:55:49] 	Account ID: 1045485340
+[2023-09-27 19:55:49] 	Enabled: false
+[2023-09-27 19:55:49] 	Base list: 0 ()
+[2023-09-27 19:55:49] 	No custom list
+[2023-09-27 19:55:49] 	No enabled features
+
+
+[2023-09-27 20:47:16] Client version: 1694466342
+[2023-09-27 20:47:16] Validating parental settings
+[2023-09-27 20:47:16] Settings dump:
+[2023-09-27 20:47:16] 	Account ID: 1045485340
+[2023-09-27 20:47:16] 	Enabled: false
+[2023-09-27 20:47:16] 	Base list: 0 ()
+[2023-09-27 20:47:16] 	No custom list
+[2023-09-27 20:47:16] 	No enabled features
+
+
+[2023-09-27 22:06:03] Client version: 1694466342
+[2023-09-27 22:06:03] Validating parental settings
+[2023-09-27 22:06:03] Settings dump:
+[2023-09-27 22:06:03] 	Account ID: 1045485340
+[2023-09-27 22:06:03] 	Enabled: false
+[2023-09-27 22:06:03] 	Base list: 0 ()
+[2023-09-27 22:06:03] 	No custom list
+[2023-09-27 22:06:03] 	No enabled features
+
+
+[2023-09-27 22:28:58] Client version: 1694466342
+[2023-09-27 22:28:58] Validating parental settings
+[2023-09-27 22:28:58] Settings dump:
+[2023-09-27 22:28:58] 	Account ID: 1045485340
+[2023-09-27 22:28:58] 	Enabled: false
+[2023-09-27 22:28:58] 	Base list: 0 ()
+[2023-09-27 22:28:58] 	No custom list
+[2023-09-27 22:28:58] 	No enabled features
+
+
+[2023-09-27 22:43:02] Client version: 1694466342
+[2023-09-27 22:43:02] Validating parental settings
+[2023-09-27 22:43:02] Settings dump:
+[2023-09-27 22:43:02] 	Account ID: 1045485340
+[2023-09-27 22:43:02] 	Enabled: false
+[2023-09-27 22:43:02] 	Base list: 0 ()
+[2023-09-27 22:43:02] 	No custom list
+[2023-09-27 22:43:02] 	No enabled features
+[2023-09-27 22:44:43] Validating parental settings
+[2023-09-27 22:44:43] Settings dump:
+[2023-09-27 22:44:43] 	Account ID: 1045485340
+[2023-09-27 22:44:43] 	Enabled: false
+[2023-09-27 22:44:43] 	Base list: 0 ()
+[2023-09-27 22:44:43] 	No custom list
+[2023-09-27 22:44:43] 	No enabled features
+[2023-09-27 23:01:34] Validating parental settings
+[2023-09-27 23:01:34] Settings dump:
+[2023-09-27 23:01:34] 	Account ID: 1045485340
+[2023-09-27 23:01:34] 	Enabled: false
+[2023-09-27 23:01:34] 	Base list: 0 ()
+[2023-09-27 23:01:34] 	No custom list
+[2023-09-27 23:01:34] 	No enabled features
+[2023-09-27 23:01:37] Validating parental settings
+[2023-09-27 23:01:37] Settings dump:
+[2023-09-27 23:01:37] 	Account ID: 1045485340
+[2023-09-27 23:01:37] 	Enabled: false
+[2023-09-27 23:01:37] 	Base list: 0 ()
+[2023-09-27 23:01:37] 	No custom list
+[2023-09-27 23:01:37] 	No enabled features
+[2023-09-27 23:02:42] Validating parental settings
+[2023-09-27 23:02:42] Settings dump:
+[2023-09-27 23:02:42] 	Account ID: 1045485340
+[2023-09-27 23:02:42] 	Enabled: false
+[2023-09-27 23:02:42] 	Base list: 0 ()
+[2023-09-27 23:02:42] 	No custom list
+[2023-09-27 23:02:42] 	No enabled features
+[2023-09-27 23:04:46] Validating parental settings
+[2023-09-27 23:04:46] Settings dump:
+[2023-09-27 23:04:46] 	Account ID: 1045485340
+[2023-09-27 23:04:46] 	Enabled: false
+[2023-09-27 23:04:46] 	Base list: 0 ()
+[2023-09-27 23:04:46] 	No custom list
+[2023-09-27 23:04:46] 	No enabled features
+
+
+[2023-09-27 23:05:30] Client version: 1694466342
+[2023-09-27 23:05:30] Validating parental settings
+[2023-09-27 23:05:30] Settings dump:
+[2023-09-27 23:05:30] 	Account ID: 1045485340
+[2023-09-27 23:05:30] 	Enabled: false
+[2023-09-27 23:05:30] 	Base list: 0 ()
+[2023-09-27 23:05:30] 	No custom list
+[2023-09-27 23:05:30] 	No enabled features
+[2023-09-27 23:28:37] Validating parental settings
+[2023-09-27 23:28:37] Settings dump:
+[2023-09-27 23:28:37] 	Account ID: 1045485340
+[2023-09-27 23:28:37] 	Enabled: false
+[2023-09-27 23:28:37] 	Base list: 0 ()
+[2023-09-27 23:28:37] 	No custom list
+[2023-09-27 23:28:37] 	No enabled features
+
+
+[2023-09-28 08:21:50] Client version: 1694466342
+[2023-09-28 08:21:50] Validating parental settings
+[2023-09-28 08:21:50] Settings dump:
+[2023-09-28 08:21:50] 	Account ID: 1045485340
+[2023-09-28 08:21:50] 	Enabled: false
+[2023-09-28 08:21:50] 	Base list: 0 ()
+[2023-09-28 08:21:50] 	No custom list
+[2023-09-28 08:21:50] 	No enabled features
+
+
+[2023-09-30 17:48:49] Client version: 1696019606
+[2023-09-30 17:48:49] Validating parental settings
+[2023-09-30 17:48:49] Settings dump:
+[2023-09-30 17:48:49] 	Account ID: 1045485340
+[2023-09-30 17:48:49] 	Enabled: false
+[2023-09-30 17:48:49] 	Base list: 0 ()
+[2023-09-30 17:48:49] 	No custom list
+[2023-09-30 17:48:49] 	No enabled features
+
+
+[2023-09-30 18:38:52] Client version: 1696019606
+[2023-09-30 18:38:52] Validating parental settings
+[2023-09-30 18:38:52] Settings dump:
+[2023-09-30 18:38:52] 	Account ID: 1045485340
+[2023-09-30 18:38:52] 	Enabled: false
+[2023-09-30 18:38:52] 	Base list: 0 ()
+[2023-09-30 18:38:52] 	No custom list
+[2023-09-30 18:38:52] 	No enabled features
+
+
+[2023-10-02 21:13:08] Client version: 1696019606
+[2023-10-02 21:13:08] Validating parental settings
+[2023-10-02 21:13:08] Settings dump:
+[2023-10-02 21:13:08] 	Account ID: 1045485340
+[2023-10-02 21:13:08] 	Enabled: false
+[2023-10-02 21:13:08] 	Base list: 0 ()
+[2023-10-02 21:13:08] 	No custom list
+[2023-10-02 21:13:08] 	No enabled features
+
+
+[2023-10-03 10:22:48] Client version: 1696019606
+[2023-10-03 10:22:48] Validating parental settings
+[2023-10-03 10:22:48] Settings dump:
+[2023-10-03 10:22:48] 	Account ID: 1045485340
+[2023-10-03 10:22:48] 	Enabled: false
+[2023-10-03 10:22:48] 	Base list: 0 ()
+[2023-10-03 10:22:48] 	No custom list
+[2023-10-03 10:22:48] 	No enabled features
+
+
+[2023-10-03 21:54:37] Client version: 1696019606
+[2023-10-03 21:54:37] Validating parental settings
+[2023-10-03 21:54:37] Settings dump:
+[2023-10-03 21:54:37] 	Account ID: 1045485340
+[2023-10-03 21:54:37] 	Enabled: false
+[2023-10-03 21:54:37] 	Base list: 0 ()
+[2023-10-03 21:54:37] 	No custom list
+[2023-10-03 21:54:37] 	No enabled features
+
+
+[2023-10-05 18:20:01] Client version: 1696019606
+[2023-10-05 18:20:01] Validating parental settings
+[2023-10-05 18:20:01] Settings dump:
+[2023-10-05 18:20:01] 	Account ID: 1045485340
+[2023-10-05 18:20:01] 	Enabled: false
+[2023-10-05 18:20:01] 	Base list: 0 ()
+[2023-10-05 18:20:01] 	No custom list
+[2023-10-05 18:20:01] 	No enabled features
+
+
+[2023-10-05 23:19:53] Client version: 1696019606
+[2023-10-05 23:19:53] Validating parental settings
+[2023-10-05 23:19:53] Settings dump:
+[2023-10-05 23:19:53] 	Account ID: 1045485340
+[2023-10-05 23:19:53] 	Enabled: false
+[2023-10-05 23:19:53] 	Base list: 0 ()
+[2023-10-05 23:19:53] 	No custom list
+[2023-10-05 23:19:53] 	No enabled features
+
+
+[2023-10-08 09:52:20] Client version: 1696019606
+[2023-10-08 09:52:20] Validating parental settings
+[2023-10-08 09:52:20] Settings dump:
+[2023-10-08 09:52:20] 	Account ID: 1045485340
+[2023-10-08 09:52:20] 	Enabled: false
+[2023-10-08 09:52:20] 	Base list: 0 ()
+[2023-10-08 09:52:20] 	No custom list
+[2023-10-08 09:52:20] 	No enabled features
+
+
+[2023-10-08 15:17:45] Client version: 1696019606
+[2023-10-08 15:17:45] Validating parental settings
+[2023-10-08 15:17:45] Settings dump:
+[2023-10-08 15:17:45] 	Account ID: 1045485340
+[2023-10-08 15:17:45] 	Enabled: false
+[2023-10-08 15:17:45] 	Base list: 0 ()
+[2023-10-08 15:17:45] 	No custom list
+[2023-10-08 15:17:45] 	No enabled features
+
+
+[2023-10-08 17:47:03] Client version: 1696019606
+[2023-10-08 17:47:03] Validating parental settings
+[2023-10-08 17:47:03] Settings dump:
+[2023-10-08 17:47:03] 	Account ID: 1045485340
+[2023-10-08 17:47:03] 	Enabled: false
+[2023-10-08 17:47:03] 	Base list: 0 ()
+[2023-10-08 17:47:03] 	No custom list
+[2023-10-08 17:47:03] 	No enabled features
+
+
+[2023-10-09 23:44:11] Client version: 1696019606
+[2023-10-09 23:44:11] Validating parental settings
+[2023-10-09 23:44:11] Settings dump:
+[2023-10-09 23:44:11] 	Account ID: 1045485340
+[2023-10-09 23:44:11] 	Enabled: false
+[2023-10-09 23:44:11] 	Base list: 0 ()
+[2023-10-09 23:44:11] 	No custom list
+[2023-10-09 23:44:11] 	No enabled features
+
+
+[2023-10-10 10:35:12] Client version: 1696019606
+[2023-10-10 10:35:12] Validating parental settings
+[2023-10-10 10:35:12] Settings dump:
+[2023-10-10 10:35:12] 	Account ID: 1045485340
+[2023-10-10 10:35:12] 	Enabled: false
+[2023-10-10 10:35:12] 	Base list: 0 ()
+[2023-10-10 10:35:12] 	No custom list
+[2023-10-10 10:35:12] 	No enabled features
+
+
+[2023-10-10 22:30:37] Client version: 1696019606
+[2023-10-10 22:30:37] Validating parental settings
+[2023-10-10 22:30:37] Settings dump:
+[2023-10-10 22:30:37] 	Account ID: 1045485340
+[2023-10-10 22:30:37] 	Enabled: false
+[2023-10-10 22:30:37] 	Base list: 0 ()
+[2023-10-10 22:30:37] 	No custom list
+[2023-10-10 22:30:37] 	No enabled features
+
+
+[2023-10-11 19:59:11] Client version: 1696019606
+[2023-10-11 19:59:11] Validating parental settings
+[2023-10-11 19:59:11] Settings dump:
+[2023-10-11 19:59:11] 	Account ID: 1045485340
+[2023-10-11 19:59:11] 	Enabled: false
+[2023-10-11 19:59:11] 	Base list: 0 ()
+[2023-10-11 19:59:11] 	No custom list
+[2023-10-11 19:59:11] 	No enabled features
+
+
+[2023-10-14 08:57:29] Client version: 1696019606
+[2023-10-14 08:57:29] Validating parental settings
+[2023-10-14 08:57:29] Settings dump:
+[2023-10-14 08:57:29] 	Account ID: 1045485340
+[2023-10-14 08:57:29] 	Enabled: false
+[2023-10-14 08:57:29] 	Base list: 0 ()
+[2023-10-14 08:57:29] 	No custom list
+[2023-10-14 08:57:29] 	No enabled features
+
+
+[2023-10-14 10:20:11] Client version: 1696019606
+[2023-10-14 10:20:11] Validating parental settings
+[2023-10-14 10:20:11] Settings dump:
+[2023-10-14 10:20:11] 	Account ID: 1045485340
+[2023-10-14 10:20:11] 	Enabled: false
+[2023-10-14 10:20:11] 	Base list: 0 ()
+[2023-10-14 10:20:11] 	No custom list
+[2023-10-14 10:20:11] 	No enabled features
+
+
+[2023-10-15 08:43:09] Client version: 1696019606
+[2023-10-15 08:43:09] Validating parental settings
+[2023-10-15 08:43:09] Settings dump:
+[2023-10-15 08:43:09] 	Account ID: 1045485340
+[2023-10-15 08:43:09] 	Enabled: false
+[2023-10-15 08:43:09] 	Base list: 0 ()
+[2023-10-15 08:43:09] 	No custom list
+[2023-10-15 08:43:09] 	No enabled features
+
+
+[2023-10-16 14:20:04] Client version: 1696019606
+[2023-10-16 14:20:04] Validating parental settings
+[2023-10-16 14:20:04] Settings dump:
+[2023-10-16 14:20:04] 	Account ID: 1045485340
+[2023-10-16 14:20:04] 	Enabled: false
+[2023-10-16 14:20:04] 	Base list: 0 ()
+[2023-10-16 14:20:04] 	No custom list
+[2023-10-16 14:20:04] 	No enabled features
+
+
+[2023-10-16 18:08:51] Client version: 1696019606
+[2023-10-16 18:08:51] Validating parental settings
+[2023-10-16 18:08:51] Settings dump:
+[2023-10-16 18:08:51] 	Account ID: 1045485340
+[2023-10-16 18:08:51] 	Enabled: false
+[2023-10-16 18:08:51] 	Base list: 0 ()
+[2023-10-16 18:08:51] 	No custom list
+[2023-10-16 18:08:51] 	No enabled features
+
+
+[2023-10-16 23:28:24] Client version: 1696019606
+[2023-10-16 23:28:24] Validating parental settings
+[2023-10-16 23:28:24] Settings dump:
+[2023-10-16 23:28:24] 	Account ID: 1045485340
+[2023-10-16 23:28:24] 	Enabled: false
+[2023-10-16 23:28:24] 	Base list: 0 ()
+[2023-10-16 23:28:24] 	No custom list
+[2023-10-16 23:28:24] 	No enabled features
+
+
+[2023-10-22 17:40:18] Client version: 1696019606
+[2023-10-22 17:40:18] Validating parental settings
+[2023-10-22 17:40:18] Settings dump:
+[2023-10-22 17:40:18] 	Account ID: 1045485340
+[2023-10-22 17:40:18] 	Enabled: false
+[2023-10-22 17:40:18] 	Base list: 0 ()
+[2023-10-22 17:40:18] 	No custom list
+[2023-10-22 17:40:18] 	No enabled features
+
+
+[2023-10-23 21:29:27] Client version: 1696019606
+[2023-10-23 21:29:27] Validating parental settings
+[2023-10-23 21:29:27] Settings dump:
+[2023-10-23 21:29:27] 	Account ID: 1045485340
+[2023-10-23 21:29:27] 	Enabled: false
+[2023-10-23 21:29:27] 	Base list: 0 ()
+[2023-10-23 21:29:27] 	No custom list
+[2023-10-23 21:29:27] 	No enabled features
+
+
+[2023-10-29 15:04:10] Client version: 1698260427
+[2023-10-29 15:04:10] Validating parental settings
+[2023-10-29 15:04:10] Settings dump:
+[2023-10-29 15:04:10] 	Account ID: 1045485340
+[2023-10-29 15:04:10] 	Enabled: false
+[2023-10-29 15:04:10] 	Base list: 0 ()
+[2023-10-29 15:04:10] 	No custom list
+[2023-10-29 15:04:10] 	No enabled features
+
+
+[2023-11-06 15:11:56] Client version: 1698777785
+[2023-11-06 15:11:56] Validating parental settings
+[2023-11-06 15:11:56] Settings dump:
+[2023-11-06 15:11:56] 	Account ID: 1045485340
+[2023-11-06 15:11:56] 	Enabled: false
+[2023-11-06 15:11:56] 	Base list: 0 ()
+[2023-11-06 15:11:56] 	No custom list
+[2023-11-06 15:11:56] 	No enabled features
+
+
+[2023-11-09 11:43:00] Client version: 1698777785
+[2023-11-09 11:43:00] Validating parental settings
+[2023-11-09 11:43:00] Settings dump:
+[2023-11-09 11:43:00] 	Account ID: 1045485340
+[2023-11-09 11:43:00] 	Enabled: false
+[2023-11-09 11:43:00] 	Base list: 0 ()
+[2023-11-09 11:43:00] 	No custom list
+[2023-11-09 11:43:00] 	No enabled features
+
+
+[2023-11-13 17:52:46] Client version: 1698777785
+[2023-11-13 17:52:46] Validating parental settings
+[2023-11-13 17:52:46] Settings dump:
+[2023-11-13 17:52:46] 	Account ID: 1045485340
+[2023-11-13 17:52:46] 	Enabled: false
+[2023-11-13 17:52:46] 	Base list: 0 ()
+[2023-11-13 17:52:46] 	No custom list
+[2023-11-13 17:52:46] 	No enabled features
+
+
+[2023-11-13 18:27:57] Client version: 1698777785
+[2023-11-13 18:27:57] Validating parental settings
+[2023-11-13 18:27:57] Settings dump:
+[2023-11-13 18:27:57] 	Account ID: 1045485340
+[2023-11-13 18:27:57] 	Enabled: false
+[2023-11-13 18:27:57] 	Base list: 0 ()
+[2023-11-13 18:27:57] 	No custom list
+[2023-11-13 18:27:57] 	No enabled features
+
+
+[2023-11-21 15:37:55] Client version: 1700160213
+[2023-11-21 15:37:55] Validating parental settings
+[2023-11-21 15:37:55] Settings dump:
+[2023-11-21 15:37:55] 	Account ID: 1045485340
+[2023-11-21 15:37:55] 	Enabled: false
+[2023-11-21 15:37:55] 	Base list: 0 ()
+[2023-11-21 15:37:55] 	No custom list
+[2023-11-21 15:37:55] 	No enabled features
+
+
+[2023-11-21 18:42:30] Client version: 1700160213
+[2023-11-21 18:42:30] Validating parental settings
+[2023-11-21 18:42:30] Settings dump:
+[2023-11-21 18:42:30] 	Account ID: 1045485340
+[2023-11-21 18:42:30] 	Enabled: false
+[2023-11-21 18:42:30] 	Base list: 0 ()
+[2023-11-21 18:42:30] 	No custom list
+[2023-11-21 18:42:30] 	No enabled features
+
+
+[2023-11-22 23:51:08] Client version: 1700160213
+[2023-11-22 23:51:08] Validating parental settings
+[2023-11-22 23:51:08] Settings dump:
+[2023-11-22 23:51:08] 	Account ID: 1045485340
+[2023-11-22 23:51:08] 	Enabled: false
+[2023-11-22 23:51:08] 	Base list: 0 ()
+[2023-11-22 23:51:08] 	No custom list
+[2023-11-22 23:51:08] 	No enabled features
+
+
+[2023-11-28 17:07:51] Client version: 1700160213
+[2023-11-28 17:07:51] Validating parental settings
+[2023-11-28 17:07:51] Settings dump:
+[2023-11-28 17:07:51] 	Account ID: 1045485340
+[2023-11-28 17:07:51] 	Enabled: false
+[2023-11-28 17:07:51] 	Base list: 0 ()
+[2023-11-28 17:07:51] 	No custom list
+[2023-11-28 17:07:51] 	No enabled features
+[2023-11-28 17:26:06] Validating parental settings
+[2023-11-28 17:26:06] Settings dump:
+[2023-11-28 17:26:06] 	Account ID: 1045485340
+[2023-11-28 17:26:06] 	Enabled: false
+[2023-11-28 17:26:06] 	Base list: 0 ()
+[2023-11-28 17:26:06] 	No custom list
+[2023-11-28 17:26:06] 	No enabled features
+[2023-11-28 18:37:13] Validating parental settings
+[2023-11-28 18:37:13] Settings dump:
+[2023-11-28 18:37:13] 	Account ID: 1045485340
+[2023-11-28 18:37:13] 	Enabled: false
+[2023-11-28 18:37:13] 	Base list: 0 ()
+[2023-11-28 18:37:13] 	No custom list
+[2023-11-28 18:37:13] 	No enabled features
+
+
+[2023-12-24 18:07:12] Client version: 1700160213
+[2023-12-24 18:07:12] Validating parental settings
+[2023-12-24 18:07:12] Settings dump:
+[2023-12-24 18:07:12] 	Account ID: 1045485340
+[2023-12-24 18:07:12] 	Enabled: false
+[2023-12-24 18:07:12] 	Base list: 0 ()
+[2023-12-24 18:07:12] 	No custom list
+[2023-12-24 18:07:12] 	No enabled features
+
+
+[2023-12-26 12:43:57] Client version: 1702079146
+[2023-12-26 12:43:57] Validating parental settings
+[2023-12-26 12:43:57] Settings dump:
+[2023-12-26 12:43:57] 	Account ID: 1045485340
+[2023-12-26 12:43:57] 	Enabled: false
+[2023-12-26 12:43:57] 	Base list: 0 ()
+[2023-12-26 12:43:57] 	No custom list
+[2023-12-26 12:43:57] 	No enabled features
+
+
+[2023-12-26 13:24:14] Client version: 1702079146
+[2023-12-26 13:24:14] Validating parental settings
+[2023-12-26 13:24:14] Settings dump:
+[2023-12-26 13:24:14] 	Account ID: 1045485340
+[2023-12-26 13:24:14] 	Enabled: false
+[2023-12-26 13:24:14] 	Base list: 0 ()
+[2023-12-26 13:24:14] 	No custom list
+[2023-12-26 13:24:14] 	No enabled features
+
+
+[2023-12-26 13:46:54] Client version: 1702079146
+[2023-12-26 13:46:54] Validating parental settings
+[2023-12-26 13:46:54] Settings dump:
+[2023-12-26 13:46:54] 	Account ID: 1045485340
+[2023-12-26 13:46:54] 	Enabled: false
+[2023-12-26 13:46:54] 	Base list: 0 ()
+[2023-12-26 13:46:54] 	No custom list
+[2023-12-26 13:46:54] 	No enabled features
+
+
+[2023-12-26 14:37:44] Client version: 1702079146
+[2023-12-26 14:37:44] Validating parental settings
+[2023-12-26 14:37:44] Settings dump:
+[2023-12-26 14:37:44] 	Account ID: 1045485340
+[2023-12-26 14:37:44] 	Enabled: false
+[2023-12-26 14:37:44] 	Base list: 0 ()
+[2023-12-26 14:37:44] 	No custom list
+[2023-12-26 14:37:44] 	No enabled features
+
+
+[2023-12-26 14:39:28] Client version: 1702079146
+[2023-12-26 14:39:28] Validating parental settings
+[2023-12-26 14:39:28] Settings dump:
+[2023-12-26 14:39:28] 	Account ID: 1045485340
+[2023-12-26 14:39:28] 	Enabled: false
+[2023-12-26 14:39:28] 	Base list: 0 ()
+[2023-12-26 14:39:28] 	No custom list
+[2023-12-26 14:39:28] 	No enabled features
+
+
+[2023-12-27 16:09:04] Client version: 1702079146
+[2023-12-27 16:09:04] Validating parental settings
+[2023-12-27 16:09:04] Settings dump:
+[2023-12-27 16:09:04] 	Account ID: 1045485340
+[2023-12-27 16:09:04] 	Enabled: false
+[2023-12-27 16:09:04] 	Base list: 0 ()
+[2023-12-27 16:09:04] 	No custom list
+[2023-12-27 16:09:04] 	No enabled features
+
+
+[2023-12-27 16:18:37] Client version: 1702079146
+[2023-12-27 16:18:37] Validating parental settings
+[2023-12-27 16:18:37] Settings dump:
+[2023-12-27 16:18:37] 	Account ID: 1045485340
+[2023-12-27 16:18:37] 	Enabled: false
+[2023-12-27 16:18:37] 	Base list: 0 ()
+[2023-12-27 16:18:37] 	No custom list
+[2023-12-27 16:18:37] 	No enabled features
+
+
+[2023-12-27 18:13:08] Client version: 1702079146
+[2023-12-27 18:13:08] Validating parental settings
+[2023-12-27 18:13:08] Settings dump:
+[2023-12-27 18:13:08] 	Account ID: 1045485340
+[2023-12-27 18:13:08] 	Enabled: false
+[2023-12-27 18:13:08] 	Base list: 0 ()
+[2023-12-27 18:13:08] 	No custom list
+[2023-12-27 18:13:08] 	No enabled features
+
+
+[2023-12-27 22:45:40] Client version: 1702079146
+[2023-12-27 22:45:40] Validating parental settings
+[2023-12-27 22:45:40] Settings dump:
+[2023-12-27 22:45:40] 	Account ID: 1045485340
+[2023-12-27 22:45:40] 	Enabled: false
+[2023-12-27 22:45:40] 	Base list: 0 ()
+[2023-12-27 22:45:40] 	No custom list
+[2023-12-27 22:45:40] 	No enabled features
+
+
+[2023-12-29 11:54:10] Client version: 1702079146
+[2023-12-29 11:54:10] Validating parental settings
+[2023-12-29 11:54:10] Settings dump:
+[2023-12-29 11:54:10] 	Account ID: 1045485340
+[2023-12-29 11:54:10] 	Enabled: false
+[2023-12-29 11:54:10] 	Base list: 0 ()
+[2023-12-29 11:54:10] 	No custom list
+[2023-12-29 11:54:10] 	No enabled features
+
+
+[2023-12-29 14:24:05] Client version: 1702079146
+[2023-12-29 14:24:05] Validating parental settings
+[2023-12-29 14:24:05] Settings dump:
+[2023-12-29 14:24:05] 	Account ID: 1045485340
+[2023-12-29 14:24:05] 	Enabled: false
+[2023-12-29 14:24:05] 	Base list: 0 ()
+[2023-12-29 14:24:05] 	No custom list
+[2023-12-29 14:24:05] 	No enabled features
+
+
+[2023-12-30 22:36:10] Client version: 1702079146
+[2023-12-30 22:36:10] Validating parental settings
+[2023-12-30 22:36:10] Settings dump:
+[2023-12-30 22:36:10] 	Account ID: 1045485340
+[2023-12-30 22:36:10] 	Enabled: false
+[2023-12-30 22:36:10] 	Base list: 0 ()
+[2023-12-30 22:36:10] 	No custom list
+[2023-12-30 22:36:10] 	No enabled features
+
+
+[2023-12-31 22:24:01] Client version: 1702079146
+[2023-12-31 22:24:01] Validating parental settings
+[2023-12-31 22:24:01] Settings dump:
+[2023-12-31 22:24:01] 	Account ID: 1045485340
+[2023-12-31 22:24:01] 	Enabled: false
+[2023-12-31 22:24:01] 	Base list: 0 ()
+[2023-12-31 22:24:01] 	No custom list
+[2023-12-31 22:24:01] 	No enabled features
+
+
+[2023-12-31 22:57:34] Client version: 1702079146
+[2023-12-31 22:57:34] Validating parental settings
+[2023-12-31 22:57:34] Settings dump:
+[2023-12-31 22:57:34] 	Account ID: 1045485340
+[2023-12-31 22:57:34] 	Enabled: false
+[2023-12-31 22:57:34] 	Base list: 0 ()
+[2023-12-31 22:57:34] 	No custom list
+[2023-12-31 22:57:34] 	No enabled features
+
+
+[2024-01-04 11:58:52] Client version: 1702079146
+[2024-01-04 11:58:52] Validating parental settings
+[2024-01-04 11:58:52] Settings dump:
+[2024-01-04 11:58:52] 	Account ID: 1045485340
+[2024-01-04 11:58:52] 	Enabled: false
+[2024-01-04 11:58:52] 	Base list: 0 ()
+[2024-01-04 11:58:52] 	No custom list
+[2024-01-04 11:58:52] 	No enabled features
+
+
+[2024-01-04 12:37:35] Client version: 1702079146
+[2024-01-04 12:37:35] Validating parental settings
+[2024-01-04 12:37:35] Settings dump:
+[2024-01-04 12:37:35] 	Account ID: 1045485340
+[2024-01-04 12:37:35] 	Enabled: false
+[2024-01-04 12:37:35] 	Base list: 0 ()
+[2024-01-04 12:37:35] 	No custom list
+[2024-01-04 12:37:35] 	No enabled features
+
+
+[2024-01-04 12:47:38] Client version: 1702079146
+[2024-01-04 12:47:38] Validating parental settings
+[2024-01-04 12:47:38] Settings dump:
+[2024-01-04 12:47:38] 	Account ID: 1045485340
+[2024-01-04 12:47:38] 	Enabled: false
+[2024-01-04 12:47:38] 	Base list: 0 ()
+[2024-01-04 12:47:38] 	No custom list
+[2024-01-04 12:47:38] 	No enabled features
+
+
+[2024-01-04 13:15:17] Client version: 1702079146
+[2024-01-04 13:15:17] Validating parental settings
+[2024-01-04 13:15:17] Settings dump:
+[2024-01-04 13:15:17] 	Account ID: 1045485340
+[2024-01-04 13:15:17] 	Enabled: false
+[2024-01-04 13:15:17] 	Base list: 0 ()
+[2024-01-04 13:15:17] 	No custom list
+[2024-01-04 13:15:17] 	No enabled features
+
+
+[2024-01-04 13:20:57] Client version: 1702079146
+[2024-01-04 13:20:57] Validating parental settings
+[2024-01-04 13:20:57] Settings dump:
+[2024-01-04 13:20:57] 	Account ID: 1045485340
+[2024-01-04 13:20:57] 	Enabled: false
+[2024-01-04 13:20:57] 	Base list: 0 ()
+[2024-01-04 13:20:57] 	No custom list
+[2024-01-04 13:20:57] 	No enabled features
+
+
+[2024-01-04 13:26:56] Client version: 1702079146
+[2024-01-04 13:26:56] Validating parental settings
+[2024-01-04 13:26:56] Settings dump:
+[2024-01-04 13:26:56] 	Account ID: 1045485340
+[2024-01-04 13:26:56] 	Enabled: false
+[2024-01-04 13:26:56] 	Base list: 0 ()
+[2024-01-04 13:26:56] 	No custom list
+[2024-01-04 13:26:56] 	No enabled features
+
+
+[2024-01-04 17:24:19] Client version: 1702079146
+[2024-01-04 17:24:19] Validating parental settings
+[2024-01-04 17:24:19] Settings dump:
+[2024-01-04 17:24:19] 	Account ID: 1045485340
+[2024-01-04 17:24:19] 	Enabled: false
+[2024-01-04 17:24:19] 	Base list: 0 ()
+[2024-01-04 17:24:19] 	No custom list
+[2024-01-04 17:24:19] 	No enabled features
+
+
+[2024-01-05 16:41:38] Client version: 1702079146
+[2024-01-05 16:41:38] Validating parental settings
+[2024-01-05 16:41:38] Settings dump:
+[2024-01-05 16:41:38] 	Account ID: 1045485340
+[2024-01-05 16:41:38] 	Enabled: false
+[2024-01-05 16:41:38] 	Base list: 0 ()
+[2024-01-05 16:41:38] 	No custom list
+[2024-01-05 16:41:38] 	No enabled features
+
+
+[2024-01-06 14:53:53] Client version: 1702079146
+[2024-01-06 14:53:53] Validating parental settings
+[2024-01-06 14:53:53] Settings dump:
+[2024-01-06 14:53:53] 	Account ID: 1045485340
+[2024-01-06 14:53:53] 	Enabled: false
+[2024-01-06 14:53:53] 	Base list: 0 ()
+[2024-01-06 14:53:53] 	No custom list
+[2024-01-06 14:53:53] 	No enabled features
+
+
+[2024-01-06 15:00:53] Client version: 1702079146
+[2024-01-06 15:00:53] Validating parental settings
+[2024-01-06 15:00:53] Settings dump:
+[2024-01-06 15:00:53] 	Account ID: 1045485340
+[2024-01-06 15:00:53] 	Enabled: false
+[2024-01-06 15:00:53] 	Base list: 0 ()
+[2024-01-06 15:00:53] 	No custom list
+[2024-01-06 15:00:53] 	No enabled features
+
+
+[2024-01-06 19:28:50] Client version: 1702079146
+[2024-01-06 19:28:50] Validating parental settings
+[2024-01-06 19:28:50] Settings dump:
+[2024-01-06 19:28:50] 	Account ID: 1045485340
+[2024-01-06 19:28:50] 	Enabled: false
+[2024-01-06 19:28:50] 	Base list: 0 ()
+[2024-01-06 19:28:50] 	No custom list
+[2024-01-06 19:28:50] 	No enabled features
+
+
+[2024-01-07 11:31:31] Client version: 1702079146
+[2024-01-07 11:31:31] Validating parental settings
+[2024-01-07 11:31:31] Settings dump:
+[2024-01-07 11:31:31] 	Account ID: 1045485340
+[2024-01-07 11:31:31] 	Enabled: false
+[2024-01-07 11:31:31] 	Base list: 0 ()
+[2024-01-07 11:31:31] 	No custom list
+[2024-01-07 11:31:31] 	No enabled features
+
+
+[2024-01-07 19:37:26] Client version: 1702079146
+[2024-01-07 19:37:26] Validating parental settings
+[2024-01-07 19:37:26] Settings dump:
+[2024-01-07 19:37:26] 	Account ID: 1045485340
+[2024-01-07 19:37:26] 	Enabled: false
+[2024-01-07 19:37:26] 	Base list: 0 ()
+[2024-01-07 19:37:26] 	No custom list
+[2024-01-07 19:37:26] 	No enabled features
+
+
+[2024-01-14 20:48:50] Client version: 1705108172
+[2024-01-14 20:48:50] Validating parental settings
+[2024-01-14 20:48:50] Settings dump:
+[2024-01-14 20:48:50] 	Account ID: 1045485340
+[2024-01-14 20:48:50] 	Enabled: false
+[2024-01-14 20:48:50] 	Base list: 0 ()
+[2024-01-14 20:48:50] 	No custom list
+[2024-01-14 20:48:50] 	No enabled features
+
+
+[2024-01-18 21:26:38] Client version: 1705108172
+[2024-01-18 21:26:38] Validating parental settings
+[2024-01-18 21:26:38] Settings dump:
+[2024-01-18 21:26:38] 	Account ID: 1045485340
+[2024-01-18 21:26:38] 	Enabled: false
+[2024-01-18 21:26:38] 	Base list: 0 ()
+[2024-01-18 21:26:38] 	No custom list
+[2024-01-18 21:26:38] 	No enabled features
+
+
+[2024-01-19 00:47:18] Client version: 1705108172
+[2024-01-19 00:47:18] Validating parental settings
+[2024-01-19 00:47:18] Settings dump:
+[2024-01-19 00:47:18] 	Account ID: 1045485340
+[2024-01-19 00:47:18] 	Enabled: false
+[2024-01-19 00:47:18] 	Base list: 0 ()
+[2024-01-19 00:47:18] 	No custom list
+[2024-01-19 00:47:18] 	No enabled features
+
+
+[2024-01-21 01:38:34] Client version: 1705108172
+[2024-01-21 01:38:34] Validating parental settings
+[2024-01-21 01:38:34] Settings dump:
+[2024-01-21 01:38:34] 	Account ID: 1045485340
+[2024-01-21 01:38:34] 	Enabled: false
+[2024-01-21 01:38:34] 	Base list: 0 ()
+[2024-01-21 01:38:34] 	No custom list
+[2024-01-21 01:38:34] 	No enabled features
+
+
+[2024-01-21 21:55:33] Client version: 1705108172
+[2024-01-21 21:55:33] Validating parental settings
+[2024-01-21 21:55:33] Settings dump:
+[2024-01-21 21:55:33] 	Account ID: 1045485340
+[2024-01-21 21:55:33] 	Enabled: false
+[2024-01-21 21:55:33] 	Base list: 0 ()
+[2024-01-21 21:55:33] 	No custom list
+[2024-01-21 21:55:33] 	No enabled features
+
+
+[2024-01-26 19:32:13] Client version: 1705108172
+[2024-01-26 19:32:13] Validating parental settings
+[2024-01-26 19:32:13] Settings dump:
+[2024-01-26 19:32:13] 	Account ID: 1045485340
+[2024-01-26 19:32:13] 	Enabled: false
+[2024-01-26 19:32:13] 	Base list: 0 ()
+[2024-01-26 19:32:13] 	No custom list
+[2024-01-26 19:32:13] 	No enabled features
+[2024-01-26 19:37:13] Validating parental settings
+[2024-01-26 19:37:13] Settings dump:
+[2024-01-26 19:37:13] 	Account ID: 1045485340
+[2024-01-26 19:37:13] 	Enabled: false
+[2024-01-26 19:37:13] 	Base list: 0 ()
+[2024-01-26 19:37:13] 	No custom list
+[2024-01-26 19:37:13] 	No enabled features
+
+
+[2024-01-26 19:47:55] Client version: 1705108172
+[2024-01-26 19:47:55] Validating parental settings
+[2024-01-26 19:47:55] Settings dump:
+[2024-01-26 19:47:55] 	Account ID: 1045485340
+[2024-01-26 19:47:55] 	Enabled: false
+[2024-01-26 19:47:55] 	Base list: 0 ()
+[2024-01-26 19:47:55] 	No custom list
+[2024-01-26 19:47:55] 	No enabled features
+
+
+[2024-02-01 19:50:29] Client version: 1705108172
+[2024-02-01 19:50:29] Validating parental settings
+[2024-02-01 19:50:29] Settings dump:
+[2024-02-01 19:50:29] 	Account ID: 1045485340
+[2024-02-01 19:50:29] 	Enabled: false
+[2024-02-01 19:50:29] 	Base list: 0 ()
+[2024-02-01 19:50:29] 	No custom list
+[2024-02-01 19:50:29] 	No enabled features
+[2024-02-01 19:54:38] Validating parental settings
+[2024-02-01 19:54:38] Settings dump:
+[2024-02-01 19:54:38] 	Account ID: 1045485340
+[2024-02-01 19:54:38] 	Enabled: false
+[2024-02-01 19:54:38] 	Base list: 0 ()
+[2024-02-01 19:54:38] 	No custom list
+[2024-02-01 19:54:38] 	No enabled features
+[2024-02-01 20:00:54] Validating parental settings
+[2024-02-01 20:00:54] Settings dump:
+[2024-02-01 20:00:54] 	Account ID: 1045485340
+[2024-02-01 20:00:54] 	Enabled: false
+[2024-02-01 20:00:54] 	Base list: 0 ()
+[2024-02-01 20:00:54] 	No custom list
+[2024-02-01 20:00:54] 	No enabled features
+[2024-02-01 20:11:59] Validating parental settings
+[2024-02-01 20:11:59] Settings dump:
+[2024-02-01 20:11:59] 	Account ID: 1045485340
+[2024-02-01 20:11:59] 	Enabled: false
+[2024-02-01 20:11:59] 	Base list: 0 ()
+[2024-02-01 20:11:59] 	No custom list
+[2024-02-01 20:11:59] 	No enabled features
+[2024-02-01 20:23:31] Validating parental settings
+[2024-02-01 20:23:31] Settings dump:
+[2024-02-01 20:23:31] 	Account ID: 1045485340
+[2024-02-01 20:23:31] 	Enabled: false
+[2024-02-01 20:23:31] 	Base list: 0 ()
+[2024-02-01 20:23:31] 	No custom list
+[2024-02-01 20:23:31] 	No enabled features
+[2024-02-01 20:32:04] Validating parental settings
+[2024-02-01 20:32:04] Settings dump:
+[2024-02-01 20:32:04] 	Account ID: 1045485340
+[2024-02-01 20:32:04] 	Enabled: false
+[2024-02-01 20:32:04] 	Base list: 0 ()
+[2024-02-01 20:32:04] 	No custom list
+[2024-02-01 20:32:04] 	No enabled features
+[2024-02-01 20:59:00] Validating parental settings
+[2024-02-01 20:59:00] Settings dump:
+[2024-02-01 20:59:00] 	Account ID: 1045485340
+[2024-02-01 20:59:00] 	Enabled: false
+[2024-02-01 20:59:00] 	Base list: 0 ()
+[2024-02-01 20:59:00] 	No custom list
+[2024-02-01 20:59:00] 	No enabled features
+
+
+[2024-02-04 15:54:48] Client version: 1705108172
+[2024-02-04 15:54:48] Validating parental settings
+[2024-02-04 15:54:48] Settings dump:
+[2024-02-04 15:54:48] 	Account ID: 1045485340
+[2024-02-04 15:54:48] 	Enabled: false
+[2024-02-04 15:54:48] 	Base list: 0 ()
+[2024-02-04 15:54:48] 	No custom list
+[2024-02-04 15:54:48] 	No enabled features
+
+
+[2024-02-04 16:43:31] Client version: 1705108172
+[2024-02-04 16:43:31] Validating parental settings
+[2024-02-04 16:43:31] Settings dump:
+[2024-02-04 16:43:31] 	Account ID: 1045485340
+[2024-02-04 16:43:31] 	Enabled: false
+[2024-02-04 16:43:31] 	Base list: 0 ()
+[2024-02-04 16:43:31] 	No custom list
+[2024-02-04 16:43:31] 	No enabled features
+[2024-02-04 16:59:57] Validating parental settings
+[2024-02-04 16:59:57] Settings dump:
+[2024-02-04 16:59:57] 	Account ID: 1045485340
+[2024-02-04 16:59:57] 	Enabled: false
+[2024-02-04 16:59:57] 	Base list: 0 ()
+[2024-02-04 16:59:57] 	No custom list
+[2024-02-04 16:59:57] 	No enabled features
+[2024-02-04 18:47:31] Validating parental settings
+[2024-02-04 18:47:31] Settings dump:
+[2024-02-04 18:47:31] 	Account ID: 1045485340
+[2024-02-04 18:47:31] 	Enabled: false
+[2024-02-04 18:47:31] 	Base list: 0 ()
+[2024-02-04 18:47:31] 	No custom list
+[2024-02-04 18:47:31] 	No enabled features
+[2024-02-04 18:50:15] Validating parental settings
+[2024-02-04 18:50:15] Settings dump:
+[2024-02-04 18:50:15] 	Account ID: 1045485340
+[2024-02-04 18:50:15] 	Enabled: false
+[2024-02-04 18:50:15] 	Base list: 0 ()
+[2024-02-04 18:50:15] 	No custom list
+[2024-02-04 18:50:15] 	No enabled features
+
+
+[2024-02-05 13:04:44] Client version: 1705108172
+[2024-02-05 13:04:44] Validating parental settings
+[2024-02-05 13:04:44] Settings dump:
+[2024-02-05 13:04:44] 	Account ID: 1045485340
+[2024-02-05 13:04:44] 	Enabled: false
+[2024-02-05 13:04:44] 	Base list: 0 ()
+[2024-02-05 13:04:44] 	No custom list
+[2024-02-05 13:04:44] 	No enabled features
+[2024-02-05 13:23:10] Validating parental settings
+[2024-02-05 13:23:10] Settings dump:
+[2024-02-05 13:23:10] 	Account ID: 1045485340
+[2024-02-05 13:23:10] 	Enabled: false
+[2024-02-05 13:23:10] 	Base list: 0 ()
+[2024-02-05 13:23:10] 	No custom list
+[2024-02-05 13:23:10] 	No enabled features
+[2024-02-05 13:24:04] Validating parental settings
+[2024-02-05 13:24:04] Settings dump:
+[2024-02-05 13:24:04] 	Account ID: 1045485340
+[2024-02-05 13:24:04] 	Enabled: false
+[2024-02-05 13:24:04] 	Base list: 0 ()
+[2024-02-05 13:24:04] 	No custom list
+[2024-02-05 13:24:04] 	No enabled features
+[2024-02-05 13:25:36] Validating parental settings
+[2024-02-05 13:25:36] Settings dump:
+[2024-02-05 13:25:36] 	Account ID: 1045485340
+[2024-02-05 13:25:36] 	Enabled: false
+[2024-02-05 13:25:36] 	Base list: 0 ()
+[2024-02-05 13:25:36] 	No custom list
+[2024-02-05 13:25:36] 	No enabled features
+[2024-02-05 13:45:36] Validating parental settings
+[2024-02-05 13:45:36] Settings dump:
+[2024-02-05 13:45:36] 	Account ID: 1045485340
+[2024-02-05 13:45:36] 	Enabled: false
+[2024-02-05 13:45:36] 	Base list: 0 ()
+[2024-02-05 13:45:36] 	No custom list
+[2024-02-05 13:45:36] 	No enabled features
+[2024-02-05 15:09:49] Validating parental settings
+[2024-02-05 15:09:49] Settings dump:
+[2024-02-05 15:09:49] 	Account ID: 1045485340
+[2024-02-05 15:09:49] 	Enabled: false
+[2024-02-05 15:09:49] 	Base list: 0 ()
+[2024-02-05 15:09:49] 	No custom list
+[2024-02-05 15:09:49] 	No enabled features
+
+
+[2024-02-05 20:27:54] Client version: 1705108172
+[2024-02-05 20:27:54] Validating parental settings
+[2024-02-05 20:27:54] Settings dump:
+[2024-02-05 20:27:54] 	Account ID: 1045485340
+[2024-02-05 20:27:54] 	Enabled: false
+[2024-02-05 20:27:54] 	Base list: 0 ()
+[2024-02-05 20:27:54] 	No custom list
+[2024-02-05 20:27:54] 	No enabled features
+
+
+[2024-02-05 20:36:10] Client version: 1705108172
+[2024-02-05 20:36:10] Validating parental settings
+[2024-02-05 20:36:10] Settings dump:
+[2024-02-05 20:36:10] 	Account ID: 1045485340
+[2024-02-05 20:36:10] 	Enabled: false
+[2024-02-05 20:36:10] 	Base list: 0 ()
+[2024-02-05 20:36:10] 	No custom list
+[2024-02-05 20:36:10] 	No enabled features
+
+
+[2024-02-06 10:20:03] Client version: 1705108172
+[2024-02-06 10:20:03] Validating parental settings
+[2024-02-06 10:20:03] Settings dump:
+[2024-02-06 10:20:03] 	Account ID: 1045485340
+[2024-02-06 10:20:03] 	Enabled: false
+[2024-02-06 10:20:03] 	Base list: 0 ()
+[2024-02-06 10:20:03] 	No custom list
+[2024-02-06 10:20:03] 	No enabled features
+
+
+[2024-02-07 18:14:49] Client version: 1705108172
+[2024-02-07 18:14:49] Validating parental settings
+[2024-02-07 18:14:49] Settings dump:
+[2024-02-07 18:14:49] 	Account ID: 1045485340
+[2024-02-07 18:14:49] 	Enabled: false
+[2024-02-07 18:14:49] 	Base list: 0 ()
+[2024-02-07 18:14:49] 	No custom list
+[2024-02-07 18:14:49] 	No enabled features
+
+
+[2024-02-08 13:03:24] Client version: 1705108172
+[2024-02-08 13:03:24] Validating parental settings
+[2024-02-08 13:03:24] Settings dump:
+[2024-02-08 13:03:24] 	Account ID: 1045485340
+[2024-02-08 13:03:24] 	Enabled: false
+[2024-02-08 13:03:24] 	Base list: 0 ()
+[2024-02-08 13:03:24] 	No custom list
+[2024-02-08 13:03:24] 	No enabled features
+
+
+[2024-02-17 23:13:21] Client version: 1705108172
+[2024-02-17 23:13:21] Validating parental settings
+[2024-02-17 23:13:21] Settings dump:
+[2024-02-17 23:13:21] 	Account ID: 1045485340
+[2024-02-17 23:13:21] 	Enabled: false
+[2024-02-17 23:13:21] 	Base list: 0 ()
+[2024-02-17 23:13:21] 	No custom list
+[2024-02-17 23:13:21] 	No enabled features
+
+
+[2024-02-19 22:35:40] Client version: 1705108172
+[2024-02-19 22:35:40] Validating parental settings
+[2024-02-19 22:35:40] Settings dump:
+[2024-02-19 22:35:40] 	Account ID: 1045485340
+[2024-02-19 22:35:40] 	Enabled: false
+[2024-02-19 22:35:40] 	Base list: 0 ()
+[2024-02-19 22:35:40] 	No custom list
+[2024-02-19 22:35:40] 	No enabled features
+
+
+[2024-02-20 19:31:26] Client version: 1705108172
+[2024-02-20 19:31:26] Validating parental settings
+[2024-02-20 19:31:26] Settings dump:
+[2024-02-20 19:31:26] 	Account ID: 1045485340
+[2024-02-20 19:31:26] 	Enabled: false
+[2024-02-20 19:31:26] 	Base list: 0 ()
+[2024-02-20 19:31:26] 	No custom list
+[2024-02-20 19:31:26] 	No enabled features
+
+
+[2024-02-21 23:00:15] Client version: 1705108172
+[2024-02-21 23:00:15] Validating parental settings
+[2024-02-21 23:00:15] Settings dump:
+[2024-02-21 23:00:15] 	Account ID: 1045485340
+[2024-02-21 23:00:15] 	Enabled: false
+[2024-02-21 23:00:15] 	Base list: 0 ()
+[2024-02-21 23:00:15] 	No custom list
+[2024-02-21 23:00:15] 	No enabled features
+
+
+[2024-02-22 10:49:34] Client version: 1705108172
+[2024-02-22 10:49:34] Validating parental settings
+[2024-02-22 10:49:34] Settings dump:
+[2024-02-22 10:49:34] 	Account ID: 1045485340
+[2024-02-22 10:49:34] 	Enabled: false
+[2024-02-22 10:49:34] 	Base list: 0 ()
+[2024-02-22 10:49:34] 	No custom list
+[2024-02-22 10:49:34] 	No enabled features
+
+
+[2024-02-22 14:57:40] Client version: 1705108172
+[2024-02-22 14:57:40] Validating parental settings
+[2024-02-22 14:57:40] Settings dump:
+[2024-02-22 14:57:40] 	Account ID: 1045485340
+[2024-02-22 14:57:40] 	Enabled: false
+[2024-02-22 14:57:40] 	Base list: 0 ()
+[2024-02-22 14:57:40] 	No custom list
+[2024-02-22 14:57:40] 	No enabled features
+
+
+[2024-02-22 15:00:31] Client version: 1705108172
+[2024-02-22 15:00:31] Validating parental settings
+[2024-02-22 15:00:31] Settings dump:
+[2024-02-22 15:00:31] 	Account ID: 1045485340
+[2024-02-22 15:00:31] 	Enabled: false
+[2024-02-22 15:00:31] 	Base list: 0 ()
+[2024-02-22 15:00:31] 	No custom list
+[2024-02-22 15:00:31] 	No enabled features
+
+
+[2024-02-22 15:03:25] Client version: 1705108172
+[2024-02-22 15:03:25] Validating parental settings
+[2024-02-22 15:03:25] Settings dump:
+[2024-02-22 15:03:25] 	Account ID: 1045485340
+[2024-02-22 15:03:25] 	Enabled: false
+[2024-02-22 15:03:25] 	Base list: 0 ()
+[2024-02-22 15:03:25] 	No custom list
+[2024-02-22 15:03:25] 	No enabled features
+
+
+[2024-02-22 15:20:23] Client version: 1705108172
+[2024-02-22 15:20:23] Validating parental settings
+[2024-02-22 15:20:23] Settings dump:
+[2024-02-22 15:20:23] 	Account ID: 1045485340
+[2024-02-22 15:20:23] 	Enabled: false
+[2024-02-22 15:20:23] 	Base list: 0 ()
+[2024-02-22 15:20:23] 	No custom list
+[2024-02-22 15:20:23] 	No enabled features
+
+
+[2024-02-22 15:23:30] Client version: 1705108172
+[2024-02-22 15:23:30] Validating parental settings
+[2024-02-22 15:23:30] Settings dump:
+[2024-02-22 15:23:30] 	Account ID: 1045485340
+[2024-02-22 15:23:30] 	Enabled: false
+[2024-02-22 15:23:30] 	Base list: 0 ()
+[2024-02-22 15:23:30] 	No custom list
+[2024-02-22 15:23:30] 	No enabled features
+
+
+[2024-02-22 15:33:54] Client version: 1705108172
+[2024-02-22 15:33:54] Validating parental settings
+[2024-02-22 15:33:54] Settings dump:
+[2024-02-22 15:33:54] 	Account ID: 1045485340
+[2024-02-22 15:33:54] 	Enabled: false
+[2024-02-22 15:33:54] 	Base list: 0 ()
+[2024-02-22 15:33:54] 	No custom list
+[2024-02-22 15:33:54] 	No enabled features
+
+
+[2024-02-22 15:50:12] Client version: 1705108172
+[2024-02-22 15:50:12] Validating parental settings
+[2024-02-22 15:50:12] Settings dump:
+[2024-02-22 15:50:12] 	Account ID: 1045485340
+[2024-02-22 15:50:12] 	Enabled: false
+[2024-02-22 15:50:12] 	Base list: 0 ()
+[2024-02-22 15:50:12] 	No custom list
+[2024-02-22 15:50:12] 	No enabled features
+
+
+[2024-02-25 11:26:00] Client version: 1705108172
+[2024-02-25 11:26:00] Validating parental settings
+[2024-02-25 11:26:00] Settings dump:
+[2024-02-25 11:26:00] 	Account ID: 1045485340
+[2024-02-25 11:26:00] 	Enabled: false
+[2024-02-25 11:26:00] 	Base list: 0 ()
+[2024-02-25 11:26:00] 	No custom list
+[2024-02-25 11:26:00] 	No enabled features
+
+
+[2024-02-25 12:36:21] Client version: 1705108172
+[2024-02-25 12:36:21] Validating parental settings
+[2024-02-25 12:36:21] Settings dump:
+[2024-02-25 12:36:21] 	Account ID: 1045485340
+[2024-02-25 12:36:21] 	Enabled: false
+[2024-02-25 12:36:21] 	Base list: 0 ()
+[2024-02-25 12:36:21] 	No custom list
+[2024-02-25 12:36:21] 	No enabled features
+
+
+[2024-02-25 12:37:58] Client version: 1705108172
+[2024-02-25 12:37:58] Validating parental settings
+[2024-02-25 12:37:58] Settings dump:
+[2024-02-25 12:37:58] 	Account ID: 1045485340
+[2024-02-25 12:37:58] 	Enabled: false
+[2024-02-25 12:37:58] 	Base list: 0 ()
+[2024-02-25 12:37:58] 	No custom list
+[2024-02-25 12:37:58] 	No enabled features
+
+
+[2024-02-25 13:23:16] Client version: 1705108172
+[2024-02-25 13:23:16] Validating parental settings
+[2024-02-25 13:23:16] Settings dump:
+[2024-02-25 13:23:16] 	Account ID: 1045485340
+[2024-02-25 13:23:16] 	Enabled: false
+[2024-02-25 13:23:16] 	Base list: 0 ()
+[2024-02-25 13:23:16] 	No custom list
+[2024-02-25 13:23:16] 	No enabled features
+
+
+[2024-02-28 01:22:31] Client version: 1705108172
+[2024-02-28 01:22:31] Validating parental settings
+[2024-02-28 01:22:31] Settings dump:
+[2024-02-28 01:22:31] 	Account ID: 1045485340
+[2024-02-28 01:22:31] 	Enabled: false
+[2024-02-28 01:22:31] 	Base list: 0 ()
+[2024-02-28 01:22:31] 	No custom list
+[2024-02-28 01:22:31] 	No enabled features
+
+
+[2024-03-05 15:23:46] Client version: 1709168962
+[2024-03-05 15:23:46] Validating parental settings
+[2024-03-05 15:23:46] Settings dump:
+[2024-03-05 15:23:46] 	Account ID: 1045485340
+[2024-03-05 15:23:46] 	Enabled: false
+[2024-03-05 15:23:46] 	Base list: 0 ()
+[2024-03-05 15:23:46] 	No custom list
+[2024-03-05 15:23:46] 	No enabled features
+
+
+[2024-03-06 15:34:14] Client version: 1709168962
+[2024-03-06 15:34:14] Validating parental settings
+[2024-03-06 15:34:14] Settings dump:
+[2024-03-06 15:34:14] 	Account ID: 1045485340
+[2024-03-06 15:34:14] 	Enabled: false
+[2024-03-06 15:34:14] 	Base list: 0 ()
+[2024-03-06 15:34:14] 	No custom list
+[2024-03-06 15:34:14] 	No enabled features
+
+
+[2024-03-06 15:37:13] Client version: 1709168962
+[2024-03-06 15:37:13] Validating parental settings
+[2024-03-06 15:37:13] Settings dump:
+[2024-03-06 15:37:13] 	Account ID: 1045485340
+[2024-03-06 15:37:13] 	Enabled: false
+[2024-03-06 15:37:13] 	Base list: 0 ()
+[2024-03-06 15:37:13] 	No custom list
+[2024-03-06 15:37:13] 	No enabled features
+
+
+[2024-03-06 15:42:02] Client version: 1709168962
+[2024-03-06 15:42:02] Validating parental settings
+[2024-03-06 15:42:02] Settings dump:
+[2024-03-06 15:42:02] 	Account ID: 1045485340
+[2024-03-06 15:42:02] 	Enabled: false
+[2024-03-06 15:42:02] 	Base list: 0 ()
+[2024-03-06 15:42:02] 	No custom list
+[2024-03-06 15:42:02] 	No enabled features
+
+
+[2024-03-06 15:43:31] Client version: 1709168962
+[2024-03-06 15:43:31] Validating parental settings
+[2024-03-06 15:43:31] Settings dump:
+[2024-03-06 15:43:31] 	Account ID: 1045485340
+[2024-03-06 15:43:31] 	Enabled: false
+[2024-03-06 15:43:31] 	Base list: 0 ()
+[2024-03-06 15:43:31] 	No custom list
+[2024-03-06 15:43:31] 	No enabled features
+
+
+[2024-03-06 15:44:33] Client version: 1709168962
+[2024-03-06 15:44:33] Validating parental settings
+[2024-03-06 15:44:33] Settings dump:
+[2024-03-06 15:44:33] 	Account ID: 1045485340
+[2024-03-06 15:44:33] 	Enabled: false
+[2024-03-06 15:44:33] 	Base list: 0 ()
+[2024-03-06 15:44:33] 	No custom list
+[2024-03-06 15:44:33] 	No enabled features
+
+
+[2024-03-06 15:44:58] Client version: 1709168962
+[2024-03-06 15:44:58] Validating parental settings
+[2024-03-06 15:44:58] Settings dump:
+[2024-03-06 15:44:58] 	Account ID: 1045485340
+[2024-03-06 15:44:58] 	Enabled: false
+[2024-03-06 15:44:58] 	Base list: 0 ()
+[2024-03-06 15:44:58] 	No custom list
+[2024-03-06 15:44:58] 	No enabled features
+
+
+[2024-03-06 18:00:30] Client version: 1709168962
+[2024-03-06 18:00:30] Validating parental settings
+[2024-03-06 18:00:30] Settings dump:
+[2024-03-06 18:00:30] 	Account ID: 1045485340
+[2024-03-06 18:00:30] 	Enabled: false
+[2024-03-06 18:00:30] 	Base list: 0 ()
+[2024-03-06 18:00:30] 	No custom list
+[2024-03-06 18:00:30] 	No enabled features
+[2024-03-06 18:05:19] Validating parental settings
+[2024-03-06 18:05:19] Settings dump:
+[2024-03-06 18:05:19] 	Account ID: 1045485340
+[2024-03-06 18:05:19] 	Enabled: false
+[2024-03-06 18:05:19] 	Base list: 0 ()
+[2024-03-06 18:05:19] 	No custom list
+[2024-03-06 18:05:19] 	No enabled features
+
+
+[2024-03-09 12:19:25] Client version: 1709168962
+[2024-03-09 12:19:25] Validating parental settings
+[2024-03-09 12:19:25] Settings dump:
+[2024-03-09 12:19:25] 	Account ID: 1045485340
+[2024-03-09 12:19:25] 	Enabled: false
+[2024-03-09 12:19:25] 	Base list: 0 ()
+[2024-03-09 12:19:25] 	No custom list
+[2024-03-09 12:19:25] 	No enabled features
+
+
+[2024-03-12 22:20:54] Client version: 1709846872
+[2024-03-12 22:20:54] Validating parental settings
+[2024-03-12 22:20:54] Settings dump:
+[2024-03-12 22:20:54] 	Account ID: 1045485340
+[2024-03-12 22:20:54] 	Enabled: false
+[2024-03-12 22:20:54] 	Base list: 0 ()
+[2024-03-12 22:20:54] 	No custom list
+[2024-03-12 22:20:54] 	No enabled features
+
+
+[2024-03-12 22:34:11] Client version: 1709846872
+[2024-03-12 22:34:11] Validating parental settings
+[2024-03-12 22:34:11] Settings dump:
+[2024-03-12 22:34:11] 	Account ID: 1045485340
+[2024-03-12 22:34:11] 	Enabled: false
+[2024-03-12 22:34:11] 	Base list: 0 ()
+[2024-03-12 22:34:11] 	No custom list
+[2024-03-12 22:34:11] 	No enabled features
+[2024-03-13 00:00:30] Validating parental settings
+[2024-03-13 00:00:30] Settings dump:
+[2024-03-13 00:00:30] 	Account ID: 1045485340
+[2024-03-13 00:00:30] 	Enabled: false
+[2024-03-13 00:00:30] 	Base list: 0 ()
+[2024-03-13 00:00:30] 	No custom list
+[2024-03-13 00:00:30] 	No enabled features
+[2024-03-13 00:53:44] Validating parental settings
+[2024-03-13 00:53:44] Settings dump:
+[2024-03-13 00:53:44] 	Account ID: 1045485340
+[2024-03-13 00:53:44] 	Enabled: false
+[2024-03-13 00:53:44] 	Base list: 0 ()
+[2024-03-13 00:53:44] 	No custom list
+[2024-03-13 00:53:44] 	No enabled features
+
+
+[2024-03-13 15:23:03] Client version: 1709846872
+[2024-03-13 15:23:03] Validating parental settings
+[2024-03-13 15:23:03] Settings dump:
+[2024-03-13 15:23:03] 	Account ID: 1045485340
+[2024-03-13 15:23:03] 	Enabled: false
+[2024-03-13 15:23:03] 	Base list: 0 ()
+[2024-03-13 15:23:03] 	No custom list
+[2024-03-13 15:23:03] 	No enabled features
+
+
+[2024-03-13 15:23:33] Client version: 1709846872
+[2024-03-13 15:23:33] Validating parental settings
+[2024-03-13 15:23:33] Settings dump:
+[2024-03-13 15:23:33] 	Account ID: 1045485340
+[2024-03-13 15:23:33] 	Enabled: false
+[2024-03-13 15:23:33] 	Base list: 0 ()
+[2024-03-13 15:23:33] 	No custom list
+[2024-03-13 15:23:33] 	No enabled features
+
+
+[2024-03-13 15:23:56] Client version: 1709846872
+[2024-03-13 15:23:56] Validating parental settings
+[2024-03-13 15:23:56] Settings dump:
+[2024-03-13 15:23:56] 	Account ID: 1045485340
+[2024-03-13 15:23:56] 	Enabled: false
+[2024-03-13 15:23:56] 	Base list: 0 ()
+[2024-03-13 15:23:56] 	No custom list
+[2024-03-13 15:23:56] 	No enabled features
+
+
+[2024-03-13 21:43:52] Client version: 1709846872
+[2024-03-13 21:43:52] Validating parental settings
+[2024-03-13 21:43:52] Settings dump:
+[2024-03-13 21:43:52] 	Account ID: 1045485340
+[2024-03-13 21:43:52] 	Enabled: false
+[2024-03-13 21:43:52] 	Base list: 0 ()
+[2024-03-13 21:43:52] 	No custom list
+[2024-03-13 21:43:52] 	No enabled features
+
+
+[2024-03-17 19:04:23] Client version: 1709846872
+[2024-03-17 19:04:23] Validating parental settings
+[2024-03-17 19:04:23] Settings dump:
+[2024-03-17 19:04:23] 	Account ID: 1045485340
+[2024-03-17 19:04:23] 	Enabled: false
+[2024-03-17 19:04:23] 	Base list: 0 ()
+[2024-03-17 19:04:23] 	No custom list
+[2024-03-17 19:04:23] 	No enabled features
+[2024-03-17 19:35:25] Validating parental settings
+[2024-03-17 19:35:25] Settings dump:
+[2024-03-17 19:35:25] 	Account ID: 1045485340
+[2024-03-17 19:35:25] 	Enabled: false
+[2024-03-17 19:35:25] 	Base list: 0 ()
+[2024-03-17 19:35:25] 	No custom list
+[2024-03-17 19:35:25] 	No enabled features
+
+
+[2024-03-18 14:16:57] Client version: 1709846872
+[2024-03-18 14:16:57] Validating parental settings
+[2024-03-18 14:16:57] Settings dump:
+[2024-03-18 14:16:57] 	Account ID: 1045485340
+[2024-03-18 14:16:57] 	Enabled: false
+[2024-03-18 14:16:57] 	Base list: 0 ()
+[2024-03-18 14:16:57] 	No custom list
+[2024-03-18 14:16:57] 	No enabled features
+
+
+[2024-03-20 00:32:12] Client version: 1709846872
+[2024-03-20 00:32:12] Validating parental settings
+[2024-03-20 00:32:12] Settings dump:
+[2024-03-20 00:32:12] 	Account ID: 1045485340
+[2024-03-20 00:32:12] 	Enabled: false
+[2024-03-20 00:32:12] 	Base list: 0 ()
+[2024-03-20 00:32:12] 	No custom list
+[2024-03-20 00:32:12] 	No enabled features
+
+
+[2024-03-20 00:40:45] Client version: 1709846872
+[2024-03-20 00:40:45] Validating parental settings
+[2024-03-20 00:40:45] Settings dump:
+[2024-03-20 00:40:45] 	Account ID: 1045485340
+[2024-03-20 00:40:45] 	Enabled: false
+[2024-03-20 00:40:45] 	Base list: 0 ()
+[2024-03-20 00:40:45] 	No custom list
+[2024-03-20 00:40:45] 	No enabled features
+
+
+[2024-03-20 10:27:54] Client version: 1709846872
+[2024-03-20 10:27:54] Validating parental settings
+[2024-03-20 10:27:54] Settings dump:
+[2024-03-20 10:27:54] 	Account ID: 1045485340
+[2024-03-20 10:27:54] 	Enabled: false
+[2024-03-20 10:27:54] 	Base list: 0 ()
+[2024-03-20 10:27:54] 	No custom list
+[2024-03-20 10:27:54] 	No enabled features
+
+
+[2024-03-20 12:01:16] Client version: 1709846872
+[2024-03-20 12:01:16] Validating parental settings
+[2024-03-20 12:01:16] Settings dump:
+[2024-03-20 12:01:16] 	Account ID: 1045485340
+[2024-03-20 12:01:16] 	Enabled: false
+[2024-03-20 12:01:16] 	Base list: 0 ()
+[2024-03-20 12:01:16] 	No custom list
+[2024-03-20 12:01:16] 	No enabled features
+
+
+[2024-03-20 14:14:46] Client version: 1709846872
+[2024-03-20 14:14:46] Validating parental settings
+[2024-03-20 14:14:46] Settings dump:
+[2024-03-20 14:14:46] 	Account ID: 1045485340
+[2024-03-20 14:14:46] 	Enabled: false
+[2024-03-20 14:14:46] 	Base list: 0 ()
+[2024-03-20 14:14:46] 	No custom list
+[2024-03-20 14:14:46] 	No enabled features
+
+
+[2024-03-20 21:39:19] Client version: 1709846872
+[2024-03-20 21:39:19] Validating parental settings
+[2024-03-20 21:39:19] Settings dump:
+[2024-03-20 21:39:19] 	Account ID: 1045485340
+[2024-03-20 21:39:19] 	Enabled: false
+[2024-03-20 21:39:19] 	Base list: 0 ()
+[2024-03-20 21:39:19] 	No custom list
+[2024-03-20 21:39:19] 	No enabled features
+
+
+[2024-03-21 13:19:29] Client version: 1709846872
+[2024-03-21 13:19:29] Validating parental settings
+[2024-03-21 13:19:29] Settings dump:
+[2024-03-21 13:19:29] 	Account ID: 1045485340
+[2024-03-21 13:19:29] 	Enabled: false
+[2024-03-21 13:19:29] 	Base list: 0 ()
+[2024-03-21 13:19:29] 	No custom list
+[2024-03-21 13:19:29] 	No enabled features
+[2024-03-21 14:34:47] Validating parental settings
+[2024-03-21 14:34:47] Settings dump:
+[2024-03-21 14:34:47] 	Account ID: 1045485340
+[2024-03-21 14:34:47] 	Enabled: false
+[2024-03-21 14:34:47] 	Base list: 0 ()
+[2024-03-21 14:34:47] 	No custom list
+[2024-03-21 14:34:47] 	No enabled features
+[2024-03-21 14:34:50] Validating parental settings
+[2024-03-21 14:34:50] Settings dump:
+[2024-03-21 14:34:50] 	Account ID: 1045485340
+[2024-03-21 14:34:50] 	Enabled: false
+[2024-03-21 14:34:50] 	Base list: 0 ()
+[2024-03-21 14:34:50] 	No custom list
+[2024-03-21 14:34:50] 	No enabled features
+[2024-03-21 15:55:30] Validating parental settings
+[2024-03-21 15:55:30] Settings dump:
+[2024-03-21 15:55:30] 	Account ID: 1045485340
+[2024-03-21 15:55:30] 	Enabled: false
+[2024-03-21 15:55:30] 	Base list: 0 ()
+[2024-03-21 15:55:30] 	No custom list
+[2024-03-21 15:55:30] 	No enabled features
+[2024-03-21 15:56:24] Validating parental settings
+[2024-03-21 15:56:24] Settings dump:
+[2024-03-21 15:56:24] 	Account ID: 1045485340
+[2024-03-21 15:56:24] 	Enabled: false
+[2024-03-21 15:56:24] 	Base list: 0 ()
+[2024-03-21 15:56:24] 	No custom list
+[2024-03-21 15:56:24] 	No enabled features
+[2024-03-21 15:56:28] Validating parental settings
+[2024-03-21 15:56:28] Settings dump:
+[2024-03-21 15:56:28] 	Account ID: 1045485340
+[2024-03-21 15:56:28] 	Enabled: false
+[2024-03-21 15:56:28] 	Base list: 0 ()
+[2024-03-21 15:56:28] 	No custom list
+[2024-03-21 15:56:28] 	No enabled features
+[2024-03-21 15:57:11] Validating parental settings
+[2024-03-21 15:57:11] Settings dump:
+[2024-03-21 15:57:11] 	Account ID: 1045485340
+[2024-03-21 15:57:11] 	Enabled: false
+[2024-03-21 15:57:11] 	Base list: 0 ()
+[2024-03-21 15:57:11] 	No custom list
+[2024-03-21 15:57:11] 	No enabled features
+
+
+[2024-03-22 09:48:58] Client version: 1709846872
+[2024-03-22 09:48:58] Validating parental settings
+[2024-03-22 09:48:58] Settings dump:
+[2024-03-22 09:48:58] 	Account ID: 1045485340
+[2024-03-22 09:48:58] 	Enabled: false
+[2024-03-22 09:48:58] 	Base list: 0 ()
+[2024-03-22 09:48:58] 	No custom list
+[2024-03-22 09:48:58] 	No enabled features
+
+
+[2024-03-23 00:01:23] Client version: 1709846872
+[2024-03-23 00:01:23] Validating parental settings
+[2024-03-23 00:01:23] Settings dump:
+[2024-03-23 00:01:23] 	Account ID: 1045485340
+[2024-03-23 00:01:23] 	Enabled: false
+[2024-03-23 00:01:23] 	Base list: 0 ()
+[2024-03-23 00:01:23] 	No custom list
+[2024-03-23 00:01:23] 	No enabled features
+
+
+[2024-03-25 20:34:17] Client version: 1709846872
+[2024-03-25 20:34:17] Validating parental settings
+[2024-03-25 20:34:17] Settings dump:
+[2024-03-25 20:34:17] 	Account ID: 1045485340
+[2024-03-25 20:34:17] 	Enabled: false
+[2024-03-25 20:34:17] 	Base list: 0 ()
+[2024-03-25 20:34:17] 	No custom list
+[2024-03-25 20:34:17] 	No enabled features
+
+
+[2024-03-25 20:41:16] Client version: 1709846872
+[2024-03-25 20:41:16] Validating parental settings
+[2024-03-25 20:41:16] Settings dump:
+[2024-03-25 20:41:16] 	Account ID: 1045485340
+[2024-03-25 20:41:16] 	Enabled: false
+[2024-03-25 20:41:16] 	Base list: 0 ()
+[2024-03-25 20:41:16] 	No custom list
+[2024-03-25 20:41:16] 	No enabled features
+[2024-03-25 20:57:22] Validating parental settings
+[2024-03-25 20:57:22] Settings dump:
+[2024-03-25 20:57:22] 	Account ID: 1045485340
+[2024-03-25 20:57:22] 	Enabled: false
+[2024-03-25 20:57:22] 	Base list: 0 ()
+[2024-03-25 20:57:22] 	No custom list
+[2024-03-25 20:57:22] 	No enabled features
+[2024-03-25 20:57:25] Validating parental settings
+[2024-03-25 20:57:25] Settings dump:
+[2024-03-25 20:57:25] 	Account ID: 1045485340
+[2024-03-25 20:57:25] 	Enabled: false
+[2024-03-25 20:57:25] 	Base list: 0 ()
+[2024-03-25 20:57:25] 	No custom list
+[2024-03-25 20:57:25] 	No enabled features
+
+
+[2024-03-25 21:11:56] Client version: 1709846872
+[2024-03-25 21:11:56] Validating parental settings
+[2024-03-25 21:11:56] Settings dump:
+[2024-03-25 21:11:56] 	Account ID: 1045485340
+[2024-03-25 21:11:56] 	Enabled: false
+[2024-03-25 21:11:56] 	Base list: 0 ()
+[2024-03-25 21:11:56] 	No custom list
+[2024-03-25 21:11:56] 	No enabled features
+[2024-03-26 04:01:40] Validating parental settings
+[2024-03-26 04:01:40] Settings dump:
+[2024-03-26 04:01:40] 	Account ID: 1045485340
+[2024-03-26 04:01:40] 	Enabled: false
+[2024-03-26 04:01:40] 	Base list: 0 ()
+[2024-03-26 04:01:40] 	No custom list
+[2024-03-26 04:01:40] 	No enabled features
+
+
+[2024-03-27 13:58:44] Client version: 1709846872
+[2024-03-27 13:58:44] Validating parental settings
+[2024-03-27 13:58:44] Settings dump:
+[2024-03-27 13:58:44] 	Account ID: 1045485340
+[2024-03-27 13:58:44] 	Enabled: false
+[2024-03-27 13:58:44] 	Base list: 0 ()
+[2024-03-27 13:58:44] 	No custom list
+[2024-03-27 13:58:44] 	No enabled features
+
+
+[2024-03-30 12:06:55] Client version: 1709846872
+[2024-03-30 12:06:55] Validating parental settings
+[2024-03-30 12:06:55] Settings dump:
+[2024-03-30 12:06:55] 	Account ID: 1045485340
+[2024-03-30 12:06:55] 	Enabled: false
+[2024-03-30 12:06:55] 	Base list: 0 ()
+[2024-03-30 12:06:55] 	No custom list
+[2024-03-30 12:06:55] 	No enabled features
+
+
+[2024-04-02 22:44:30] Client version: 1709846872
+[2024-04-02 22:44:30] Validating parental settings
+[2024-04-02 22:44:30] Settings dump:
+[2024-04-02 22:44:30] 	Account ID: 1045485340
+[2024-04-02 22:44:30] 	Enabled: false
+[2024-04-02 22:44:30] 	Base list: 0 ()
+[2024-04-02 22:44:30] 	No custom list
+[2024-04-02 22:44:30] 	No enabled features
+
+
+[2024-04-03 22:56:43] Client version: 1709846872
+[2024-04-03 22:56:43] Validating parental settings
+[2024-04-03 22:56:43] Settings dump:
+[2024-04-03 22:56:43] 	Account ID: 1045485340
+[2024-04-03 22:56:43] 	Enabled: false
+[2024-04-03 22:56:43] 	Base list: 0 ()
+[2024-04-03 22:56:43] 	No custom list
+[2024-04-03 22:56:43] 	No enabled features
+
+
+[2024-04-12 14:21:14] Client version: 1709846872
+[2024-04-12 14:21:14] Validating parental settings
+[2024-04-12 14:21:14] Settings dump:
+[2024-04-12 14:21:14] 	Account ID: 1045485340
+[2024-04-12 14:21:14] 	Enabled: false
+[2024-04-12 14:21:14] 	Base list: 0 ()
+[2024-04-12 14:21:14] 	No custom list
+[2024-04-12 14:21:14] 	No enabled features
+
+
+[2024-04-13 22:23:17] Client version: 1709846872
+[2024-04-13 22:23:17] Validating parental settings
+[2024-04-13 22:23:17] Settings dump:
+[2024-04-13 22:23:17] 	Account ID: 1045485340
+[2024-04-13 22:23:17] 	Enabled: false
+[2024-04-13 22:23:17] 	Base list: 0 ()
+[2024-04-13 22:23:17] 	No custom list
+[2024-04-13 22:23:17] 	No enabled features
+
+
+[2024-04-17 22:31:56] Client version: 1709846872
+[2024-04-17 22:31:56] Validating parental settings
+[2024-04-17 22:31:56] Settings dump:
+[2024-04-17 22:31:56] 	Account ID: 1045485340
+[2024-04-17 22:31:56] 	Enabled: false
+[2024-04-17 22:31:56] 	Base list: 0 ()
+[2024-04-17 22:31:56] 	No custom list
+[2024-04-17 22:31:56] 	No enabled features
+
+
+[2024-05-19 12:59:56] Client version: 1709846872
+[2024-05-19 12:59:56] Validating parental settings
+[2024-05-19 12:59:56] Settings dump:
+[2024-05-19 12:59:56] 	Account ID: 1045485340
+[2024-05-19 12:59:56] 	Enabled: false
+[2024-05-19 12:59:56] 	Base list: 0 ()
+[2024-05-19 12:59:56] 	No custom list
+[2024-05-19 12:59:56] 	No enabled features
+
+
+[2024-05-28 10:13:43] Client version: 1716584667
+[2024-05-28 10:13:43] Validating parental settings
+[2024-05-28 10:13:43] Settings dump:
+[2024-05-28 10:13:43] 	Account ID: 1045485340
+[2024-05-28 10:13:43] 	Enabled: false
+[2024-05-28 10:13:43] 	Base list: 0 ()
+[2024-05-28 10:13:43] 	No custom list
+[2024-05-28 10:13:43] 	No enabled features
+
+
+[2024-05-28 14:40:14] Client version: 1716584667
+[2024-05-28 14:40:14] Validating parental settings
+[2024-05-28 14:40:14] Settings dump:
+[2024-05-28 14:40:14] 	Account ID: 1045485340
+[2024-05-28 14:40:14] 	Enabled: false
+[2024-05-28 14:40:14] 	Base list: 0 ()
+[2024-05-28 14:40:14] 	No custom list
+[2024-05-28 14:40:14] 	No enabled features
+
+
+[2024-05-28 14:40:42] Client version: 1716584667
+[2024-05-28 14:40:42] Validating parental settings
+[2024-05-28 14:40:42] Settings dump:
+[2024-05-28 14:40:42] 	Account ID: 1045485340
+[2024-05-28 14:40:42] 	Enabled: false
+[2024-05-28 14:40:42] 	Base list: 0 ()
+[2024-05-28 14:40:42] 	No custom list
+[2024-05-28 14:40:42] 	No enabled features
+
+
+[2024-05-29 10:38:53] Client version: 1716584667
+[2024-05-29 10:38:53] Validating parental settings
+[2024-05-29 10:38:53] Settings dump:
+[2024-05-29 10:38:53] 	Account ID: 1045485340
+[2024-05-29 10:38:53] 	Enabled: false
+[2024-05-29 10:38:53] 	Base list: 0 ()
+[2024-05-29 10:38:53] 	No custom list
+[2024-05-29 10:38:53] 	No enabled features
+
+
+[2024-05-29 11:19:50] Client version: 1716584667
+[2024-05-29 11:19:50] Validating parental settings
+[2024-05-29 11:19:50] Settings dump:
+[2024-05-29 11:19:50] 	Account ID: 1045485340
+[2024-05-29 11:19:50] 	Enabled: false
+[2024-05-29 11:19:50] 	Base list: 0 ()
+[2024-05-29 11:19:50] 	No custom list
+[2024-05-29 11:19:50] 	No enabled features
+
+
+[2024-05-29 13:24:35] Client version: 1716584667
+[2024-05-29 13:24:35] Validating parental settings
+[2024-05-29 13:24:35] Settings dump:
+[2024-05-29 13:24:35] 	Account ID: 1045485340
+[2024-05-29 13:24:35] 	Enabled: false
+[2024-05-29 13:24:35] 	Base list: 0 ()
+[2024-05-29 13:24:35] 	No custom list
+[2024-05-29 13:24:35] 	No enabled features
+
+
+[2024-05-29 17:04:44] Client version: 1716584667
+[2024-05-29 17:04:44] Validating parental settings
+[2024-05-29 17:04:44] Settings dump:
+[2024-05-29 17:04:44] 	Account ID: 1045485340
+[2024-05-29 17:04:44] 	Enabled: false
+[2024-05-29 17:04:44] 	Base list: 0 ()
+[2024-05-29 17:04:44] 	No custom list
+[2024-05-29 17:04:44] 	No enabled features
+
+
+[2024-05-29 17:51:02] Client version: 1716584667
+[2024-05-29 17:51:02] Validating parental settings
+[2024-05-29 17:51:02] Settings dump:
+[2024-05-29 17:51:02] 	Account ID: 1045485340
+[2024-05-29 17:51:02] 	Enabled: false
+[2024-05-29 17:51:02] 	Base list: 0 ()
+[2024-05-29 17:51:02] 	No custom list
+[2024-05-29 17:51:02] 	No enabled features
+
+
+[2024-05-29 20:09:28] Client version: 1716584667
+[2024-05-29 20:09:28] Validating parental settings
+[2024-05-29 20:09:28] Settings dump:
+[2024-05-29 20:09:28] 	Account ID: 1045485340
+[2024-05-29 20:09:28] 	Enabled: false
+[2024-05-29 20:09:28] 	Base list: 0 ()
+[2024-05-29 20:09:28] 	No custom list
+[2024-05-29 20:09:28] 	No enabled features
+
+
+[2024-06-13 16:50:42] Client version: 1716584667
+[2024-06-13 16:50:42] Validating parental settings
+[2024-06-13 16:50:42] Settings dump:
+[2024-06-13 16:50:42] 	Account ID: 1045485340
+[2024-06-13 16:50:42] 	Enabled: false
+[2024-06-13 16:50:42] 	Base list: 0 ()
+[2024-06-13 16:50:42] 	No custom list
+[2024-06-13 16:50:42] 	No enabled features
+
+
+[2024-06-13 22:43:21] Client version: 1716584667
+[2024-06-13 22:43:21] Validating parental settings
+[2024-06-13 22:43:21] Settings dump:
+[2024-06-13 22:43:21] 	Account ID: 1045485340
+[2024-06-13 22:43:21] 	Enabled: false
+[2024-06-13 22:43:21] 	Base list: 0 ()
+[2024-06-13 22:43:21] 	No custom list
+[2024-06-13 22:43:21] 	No enabled features
+
+
+[2024-06-14 23:57:23] Client version: 1716584667
+[2024-06-14 23:57:23] Validating parental settings
+[2024-06-14 23:57:23] Settings dump:
+[2024-06-14 23:57:23] 	Account ID: 1045485340
+[2024-06-14 23:57:23] 	Enabled: false
+[2024-06-14 23:57:23] 	Base list: 0 ()
+[2024-06-14 23:57:23] 	No custom list
+[2024-06-14 23:57:23] 	No enabled features
+
+
+[2024-06-15 22:46:05] Client version: 1718305227
+[2024-06-15 22:46:05] Validating parental settings
+[2024-06-15 22:46:05] Settings dump:
+[2024-06-15 22:46:05] 	Account ID: 1045485340
+[2024-06-15 22:46:05] 	Enabled: false
+[2024-06-15 22:46:05] 	Base list: 0 ()
+[2024-06-15 22:46:05] 	No custom list
+[2024-06-15 22:46:05] 	No enabled features
+
+
+[2024-06-15 22:50:31] Client version: 1718305227
+[2024-06-15 22:50:31] Validating parental settings
+[2024-06-15 22:50:31] Settings dump:
+[2024-06-15 22:50:31] 	Account ID: 1045485340
+[2024-06-15 22:50:31] 	Enabled: false
+[2024-06-15 22:50:31] 	Base list: 0 ()
+[2024-06-15 22:50:31] 	No custom list
+[2024-06-15 22:50:31] 	No enabled features
+
+
+[2024-06-17 10:24:22] Client version: 1718305227
+[2024-06-17 10:24:22] Validating parental settings
+[2024-06-17 10:24:22] Settings dump:
+[2024-06-17 10:24:22] 	Account ID: 1045485340
+[2024-06-17 10:24:22] 	Enabled: false
+[2024-06-17 10:24:22] 	Base list: 0 ()
+[2024-06-17 10:24:22] 	No custom list
+[2024-06-17 10:24:22] 	No enabled features
+
+
+[2024-06-19 13:56:11] Client version: 1718751621
+[2024-06-19 13:56:11] Validating parental settings
+[2024-06-19 13:56:11] Settings dump:
+[2024-06-19 13:56:11] 	Account ID: 1045485340
+[2024-06-19 13:56:11] 	Enabled: false
+[2024-06-19 13:56:11] 	Base list: 0 ()
+[2024-06-19 13:56:11] 	No custom list
+[2024-06-19 13:56:11] 	No enabled features
+
+
+[2024-06-23 16:39:59] Client version: 1718904662
+[2024-06-23 16:39:59] Validating parental settings
+[2024-06-23 16:39:59] Settings dump:
+[2024-06-23 16:39:59] 	Account ID: 1045485340
+[2024-06-23 16:39:59] 	Enabled: false
+[2024-06-23 16:39:59] 	Base list: 0 ()
+[2024-06-23 16:39:59] 	No custom list
+[2024-06-23 16:39:59] 	No enabled features
+
+
+[2024-06-23 23:58:59] Client version: 1718904662
+[2024-06-23 23:58:59] Validating parental settings
+[2024-06-23 23:58:59] Settings dump:
+[2024-06-23 23:58:59] 	Account ID: 1045485340
+[2024-06-23 23:58:59] 	Enabled: false
+[2024-06-23 23:58:59] 	Base list: 0 ()
+[2024-06-23 23:58:59] 	No custom list
+[2024-06-23 23:58:59] 	No enabled features
+
+
+[2024-06-29 21:38:23] Client version: 1718904662
+[2024-06-29 21:38:23] Validating parental settings
+[2024-06-29 21:38:23] Settings dump:
+[2024-06-29 21:38:23] 	Account ID: 1045485340
+[2024-06-29 21:38:23] 	Enabled: false
+[2024-06-29 21:38:23] 	Base list: 0 ()
+[2024-06-29 21:38:23] 	No custom list
+[2024-06-29 21:38:23] 	No enabled features
+
+
+[2024-06-30 16:54:40] Client version: 1718904662
+[2024-06-30 16:54:40] Validating parental settings
+[2024-06-30 16:54:40] Settings dump:
+[2024-06-30 16:54:40] 	Account ID: 1045485340
+[2024-06-30 16:54:40] 	Enabled: false
+[2024-06-30 16:54:40] 	Base list: 0 ()
+[2024-06-30 16:54:40] 	No custom list
+[2024-06-30 16:54:40] 	No enabled features
+
+
+[2024-07-01 21:13:27] Client version: 1718904662
+[2024-07-01 21:13:27] Validating parental settings
+[2024-07-01 21:13:27] Settings dump:
+[2024-07-01 21:13:27] 	Account ID: 1045485340
+[2024-07-01 21:13:27] 	Enabled: false
+[2024-07-01 21:13:27] 	Base list: 0 ()
+[2024-07-01 21:13:27] 	No custom list
+[2024-07-01 21:13:27] 	No enabled features
+
+
+[2024-07-01 23:40:06] Client version: 1718904662
+[2024-07-01 23:40:06] Validating parental settings
+[2024-07-01 23:40:06] Settings dump:
+[2024-07-01 23:40:06] 	Account ID: 1045485340
+[2024-07-01 23:40:06] 	Enabled: false
+[2024-07-01 23:40:06] 	Base list: 0 ()
+[2024-07-01 23:40:06] 	No custom list
+[2024-07-01 23:40:06] 	No enabled features
+
+
+[2024-07-01 23:49:46] Client version: 1718904662
+[2024-07-01 23:49:46] Validating parental settings
+[2024-07-01 23:49:46] Settings dump:
+[2024-07-01 23:49:46] 	Account ID: 1045485340
+[2024-07-01 23:49:46] 	Enabled: false
+[2024-07-01 23:49:46] 	Base list: 0 ()
+[2024-07-01 23:49:46] 	No custom list
+[2024-07-01 23:49:46] 	No enabled features
+
+
+[2024-07-02 00:20:37] Client version: 1718904662
+[2024-07-02 00:20:37] Validating parental settings
+[2024-07-02 00:20:37] Settings dump:
+[2024-07-02 00:20:37] 	Account ID: 1045485340
+[2024-07-02 00:20:37] 	Enabled: false
+[2024-07-02 00:20:37] 	Base list: 0 ()
+[2024-07-02 00:20:37] 	No custom list
+[2024-07-02 00:20:37] 	No enabled features
+
+
+[2024-07-04 00:06:19] Client version: 1718904662
+[2024-07-04 00:06:19] Validating parental settings
+[2024-07-04 00:06:19] Settings dump:
+[2024-07-04 00:06:19] 	Account ID: 1045485340
+[2024-07-04 00:06:19] 	Enabled: false
+[2024-07-04 00:06:19] 	Base list: 0 ()
+[2024-07-04 00:06:19] 	No custom list
+[2024-07-04 00:06:19] 	No enabled features
+
+
+[2024-07-04 00:37:20] Client version: 1718904662
+[2024-07-04 00:37:20] Validating parental settings
+[2024-07-04 00:37:20] Settings dump:
+[2024-07-04 00:37:20] 	Account ID: 1045485340
+[2024-07-04 00:37:20] 	Enabled: false
+[2024-07-04 00:37:20] 	Base list: 0 ()
+[2024-07-04 00:37:20] 	No custom list
+[2024-07-04 00:37:20] 	No enabled features
+
+
+[2024-07-04 00:37:57] Client version: 1718904662
+[2024-07-04 00:37:57] Validating parental settings
+[2024-07-04 00:37:57] Settings dump:
+[2024-07-04 00:37:57] 	Account ID: 1045485340
+[2024-07-04 00:37:57] 	Enabled: false
+[2024-07-04 00:37:57] 	Base list: 0 ()
+[2024-07-04 00:37:57] 	No custom list
+[2024-07-04 00:37:57] 	No enabled features
+
+
+[2024-07-04 00:51:47] Client version: 1718904662
+[2024-07-04 00:51:47] Validating parental settings
+[2024-07-04 00:51:47] Settings dump:
+[2024-07-04 00:51:47] 	Account ID: 1045485340
+[2024-07-04 00:51:47] 	Enabled: false
+[2024-07-04 00:51:47] 	Base list: 0 ()
+[2024-07-04 00:51:47] 	No custom list
+[2024-07-04 00:51:47] 	No enabled features
+
+
+[2024-07-04 17:31:03] Client version: 1718904662
+[2024-07-04 17:31:03] Validating parental settings
+[2024-07-04 17:31:03] Settings dump:
+[2024-07-04 17:31:03] 	Account ID: 1045485340
+[2024-07-04 17:31:03] 	Enabled: false
+[2024-07-04 17:31:03] 	Base list: 0 ()
+[2024-07-04 17:31:03] 	No custom list
+[2024-07-04 17:31:03] 	No enabled features
+[2024-07-04 18:17:15] Validating parental settings
+[2024-07-04 18:17:15] Settings dump:
+[2024-07-04 18:17:15] 	Account ID: 1045485340
+[2024-07-04 18:17:15] 	Enabled: false
+[2024-07-04 18:17:15] 	Base list: 0 ()
+[2024-07-04 18:17:15] 	No custom list
+[2024-07-04 18:17:15] 	No enabled features
+[2024-07-04 18:59:59] Validating parental settings
+[2024-07-04 18:59:59] Settings dump:
+[2024-07-04 18:59:59] 	Account ID: 1045485340
+[2024-07-04 18:59:59] 	Enabled: false
+[2024-07-04 18:59:59] 	Base list: 0 ()
+[2024-07-04 18:59:59] 	No custom list
+[2024-07-04 18:59:59] 	No enabled features
+
+
+[2024-07-04 20:13:36] Client version: 1718904662
+[2024-07-04 20:13:36] Validating parental settings
+[2024-07-04 20:13:36] Settings dump:
+[2024-07-04 20:13:36] 	Account ID: 1045485340
+[2024-07-04 20:13:36] 	Enabled: false
+[2024-07-04 20:13:36] 	Base list: 0 ()
+[2024-07-04 20:13:36] 	No custom list
+[2024-07-04 20:13:36] 	No enabled features
+
+
+[2024-07-04 20:14:30] Client version: 1718904662
+[2024-07-04 20:14:30] Validating parental settings
+[2024-07-04 20:14:30] Settings dump:
+[2024-07-04 20:14:30] 	Account ID: 1045485340
+[2024-07-04 20:14:30] 	Enabled: false
+[2024-07-04 20:14:30] 	Base list: 0 ()
+[2024-07-04 20:14:30] 	No custom list
+[2024-07-04 20:14:30] 	No enabled features
+[2024-07-04 21:37:15] Validating parental settings
+[2024-07-04 21:37:15] Settings dump:
+[2024-07-04 21:37:15] 	Account ID: 1045485340
+[2024-07-04 21:37:15] 	Enabled: false
+[2024-07-04 21:37:15] 	Base list: 0 ()
+[2024-07-04 21:37:15] 	No custom list
+[2024-07-04 21:37:15] 	No enabled features
+[2024-07-05 00:18:32] Validating parental settings
+[2024-07-05 00:18:32] Settings dump:
+[2024-07-05 00:18:32] 	Account ID: 1045485340
+[2024-07-05 00:18:32] 	Enabled: false
+[2024-07-05 00:18:32] 	Base list: 0 ()
+[2024-07-05 00:18:32] 	No custom list
+[2024-07-05 00:18:32] 	No enabled features
+[2024-07-05 00:18:34] Validating parental settings
+[2024-07-05 00:18:34] Settings dump:
+[2024-07-05 00:18:34] 	Account ID: 1045485340
+[2024-07-05 00:18:34] 	Enabled: false
+[2024-07-05 00:18:34] 	Base list: 0 ()
+[2024-07-05 00:18:34] 	No custom list
+[2024-07-05 00:18:34] 	No enabled features
+
+
+[2024-07-08 14:10:06] Client version: 1718904662
+[2024-07-08 14:10:06] Validating parental settings
+[2024-07-08 14:10:06] Settings dump:
+[2024-07-08 14:10:06] 	Account ID: 1045485340
+[2024-07-08 14:10:06] 	Enabled: false
+[2024-07-08 14:10:06] 	Base list: 0 ()
+[2024-07-08 14:10:06] 	No custom list
+[2024-07-08 14:10:06] 	No enabled features
+
+
+[2024-07-08 22:34:20] Client version: 1718904662
+[2024-07-08 22:34:20] Validating parental settings
+[2024-07-08 22:34:20] Settings dump:
+[2024-07-08 22:34:20] 	Account ID: 1045485340
+[2024-07-08 22:34:20] 	Enabled: false
+[2024-07-08 22:34:20] 	Base list: 0 ()
+[2024-07-08 22:34:20] 	No custom list
+[2024-07-08 22:34:20] 	No enabled features
+[2024-07-08 22:43:07] Validating parental settings
+[2024-07-08 22:43:07] Settings dump:
+[2024-07-08 22:43:07] 	Account ID: 1045485340
+[2024-07-08 22:43:07] 	Enabled: false
+[2024-07-08 22:43:07] 	Base list: 0 ()
+[2024-07-08 22:43:07] 	No custom list
+[2024-07-08 22:43:07] 	No enabled features
+
+
+[2024-07-09 12:41:42] Client version: 1718904662
+[2024-07-09 12:41:42] Validating parental settings
+[2024-07-09 12:41:42] Settings dump:
+[2024-07-09 12:41:42] 	Account ID: 1045485340
+[2024-07-09 12:41:42] 	Enabled: false
+[2024-07-09 12:41:42] 	Base list: 0 ()
+[2024-07-09 12:41:42] 	No custom list
+[2024-07-09 12:41:42] 	No enabled features
+[2024-07-09 12:57:59] Validating parental settings
+[2024-07-09 12:57:59] Settings dump:
+[2024-07-09 12:57:59] 	Account ID: 1045485340
+[2024-07-09 12:57:59] 	Enabled: false
+[2024-07-09 12:57:59] 	Base list: 0 ()
+[2024-07-09 12:57:59] 	No custom list
+[2024-07-09 12:57:59] 	No enabled features
+
+
+[2024-07-11 19:55:53] Client version: 1718904662
+[2024-07-11 19:55:53] Validating parental settings
+[2024-07-11 19:55:53] Settings dump:
+[2024-07-11 19:55:53] 	Account ID: 1045485340
+[2024-07-11 19:55:53] 	Enabled: false
+[2024-07-11 19:55:53] 	Base list: 0 ()
+[2024-07-11 19:55:53] 	No custom list
+[2024-07-11 19:55:53] 	No enabled features
+
+
+[2024-07-11 23:19:57] Client version: 1718904662
+[2024-07-11 23:19:57] Validating parental settings
+[2024-07-11 23:19:57] Settings dump:
+[2024-07-11 23:19:57] 	Account ID: 1045485340
+[2024-07-11 23:19:57] 	Enabled: false
+[2024-07-11 23:19:57] 	Base list: 0 ()
+[2024-07-11 23:19:57] 	No custom list
+[2024-07-11 23:19:57] 	No enabled features
+[2024-07-12 00:15:18] Validating parental settings
+[2024-07-12 00:15:18] Settings dump:
+[2024-07-12 00:15:18] 	Account ID: 1045485340
+[2024-07-12 00:15:18] 	Enabled: false
+[2024-07-12 00:15:18] 	Base list: 0 ()
+[2024-07-12 00:15:18] 	No custom list
+[2024-07-12 00:15:18] 	No enabled features
+
+
+[2024-07-12 00:32:04] Client version: 1718904662
+[2024-07-12 00:32:04] Validating parental settings
+[2024-07-12 00:32:04] Settings dump:
+[2024-07-12 00:32:04] 	Account ID: 1045485340
+[2024-07-12 00:32:04] 	Enabled: false
+[2024-07-12 00:32:04] 	Base list: 0 ()
+[2024-07-12 00:32:04] 	No custom list
+[2024-07-12 00:32:04] 	No enabled features
+
+
+[2024-07-12 11:37:28] Client version: 1718904662
+[2024-07-12 11:37:28] Validating parental settings
+[2024-07-12 11:37:28] Settings dump:
+[2024-07-12 11:37:28] 	Account ID: 1045485340
+[2024-07-12 11:37:28] 	Enabled: false
+[2024-07-12 11:37:28] 	Base list: 0 ()
+[2024-07-12 11:37:28] 	No custom list
+[2024-07-12 11:37:28] 	No enabled features
+[2024-07-12 12:26:57] Validating parental settings
+[2024-07-12 12:26:57] Settings dump:
+[2024-07-12 12:26:57] 	Account ID: 1045485340
+[2024-07-12 12:26:57] 	Enabled: false
+[2024-07-12 12:26:57] 	Base list: 0 ()
+[2024-07-12 12:26:57] 	No custom list
+[2024-07-12 12:26:57] 	No enabled features
+
+
+[2024-07-12 17:24:25] Client version: 1718904662
+[2024-07-12 17:24:25] Validating parental settings
+[2024-07-12 17:24:25] Settings dump:
+[2024-07-12 17:24:25] 	Account ID: 1045485340
+[2024-07-12 17:24:25] 	Enabled: false
+[2024-07-12 17:24:25] 	Base list: 0 ()
+[2024-07-12 17:24:25] 	No custom list
+[2024-07-12 17:24:25] 	No enabled features
+[2024-07-12 18:07:16] Validating parental settings
+[2024-07-12 18:07:16] Settings dump:
+[2024-07-12 18:07:16] 	Account ID: 1045485340
+[2024-07-12 18:07:16] 	Enabled: false
+[2024-07-12 18:07:16] 	Base list: 0 ()
+[2024-07-12 18:07:16] 	No custom list
+[2024-07-12 18:07:16] 	No enabled features
+
+
+[2024-07-13 13:27:17] Client version: 1718904662
+[2024-07-13 13:27:17] Validating parental settings
+[2024-07-13 13:27:17] Settings dump:
+[2024-07-13 13:27:17] 	Account ID: 1045485340
+[2024-07-13 13:27:17] 	Enabled: false
+[2024-07-13 13:27:17] 	Base list: 0 ()
+[2024-07-13 13:27:17] 	No custom list
+[2024-07-13 13:27:17] 	No enabled features
+[2024-07-13 13:49:29] Validating parental settings
+[2024-07-13 13:49:29] Settings dump:
+[2024-07-13 13:49:29] 	Account ID: 1045485340
+[2024-07-13 13:49:29] 	Enabled: false
+[2024-07-13 13:49:29] 	Base list: 0 ()
+[2024-07-13 13:49:29] 	No custom list
+[2024-07-13 13:49:29] 	No enabled features
+
+
+[2024-07-13 15:16:19] Client version: 1718904662
+[2024-07-13 15:16:19] Validating parental settings
+[2024-07-13 15:16:19] Settings dump:
+[2024-07-13 15:16:19] 	Account ID: 1045485340
+[2024-07-13 15:16:19] 	Enabled: false
+[2024-07-13 15:16:19] 	Base list: 0 ()
+[2024-07-13 15:16:19] 	No custom list
+[2024-07-13 15:16:19] 	No enabled features
+
+
+[2024-07-13 23:01:34] Client version: 1718904662
+[2024-07-13 23:01:34] Validating parental settings
+[2024-07-13 23:01:34] Settings dump:
+[2024-07-13 23:01:34] 	Account ID: 1045485340
+[2024-07-13 23:01:34] 	Enabled: false
+[2024-07-13 23:01:34] 	Base list: 0 ()
+[2024-07-13 23:01:34] 	No custom list
+[2024-07-13 23:01:34] 	No enabled features
+
+
+[2024-07-13 23:30:54] Client version: 1718904662
+[2024-07-13 23:30:54] Validating parental settings
+[2024-07-13 23:30:54] Settings dump:
+[2024-07-13 23:30:54] 	Account ID: 1045485340
+[2024-07-13 23:30:54] 	Enabled: false
+[2024-07-13 23:30:54] 	Base list: 0 ()
+[2024-07-13 23:30:54] 	No custom list
+[2024-07-13 23:30:54] 	No enabled features
+
+
+[2024-07-13 23:50:44] Client version: 1718904662
+[2024-07-13 23:50:44] Failed to get ParentalSettings\Settings from config file for account ID 312015349
+[2024-07-13 23:50:44] Got parental settings for account ID 312015349
+
+
+[2024-07-14 01:10:07] Client version: 1718904662
+[2024-07-14 01:10:07] Validating parental settings
+[2024-07-14 01:10:07] Settings dump:
+[2024-07-14 01:10:07] 	Account ID: 1045485340
+[2024-07-14 01:10:07] 	Enabled: false
+[2024-07-14 01:10:07] 	Base list: 0 ()
+[2024-07-14 01:10:07] 	No custom list
+[2024-07-14 01:10:07] 	No enabled features
+
+
+[2024-07-14 14:28:38] Client version: 1718904662
+[2024-07-14 14:28:38] Validating parental settings
+[2024-07-14 14:28:38] Settings dump:
+[2024-07-14 14:28:38] 	Account ID: 1045485340
+[2024-07-14 14:28:38] 	Enabled: false
+[2024-07-14 14:28:38] 	Base list: 0 ()
+[2024-07-14 14:28:38] 	No custom list
+[2024-07-14 14:28:38] 	No enabled features
+
+
+[2024-07-14 14:30:16] Client version: 1718904662
+[2024-07-14 14:30:16] Validating parental settings
+[2024-07-14 14:30:16] Settings dump:
+[2024-07-14 14:30:16] 	Account ID: 312015349
+[2024-07-14 14:30:16] 	Enabled: false
+[2024-07-14 14:30:16] 	Base list: 0 ()
+[2024-07-14 14:30:16] 	No custom list
+[2024-07-14 14:30:16] 	No enabled features
+
+
+[2024-07-14 23:45:10] Client version: 1718904662
+[2024-07-14 23:45:10] Validating parental settings
+[2024-07-14 23:45:10] Settings dump:
+[2024-07-14 23:45:10] 	Account ID: 312015349
+[2024-07-14 23:45:10] 	Enabled: false
+[2024-07-14 23:45:10] 	Base list: 0 ()
+[2024-07-14 23:45:10] 	No custom list
+[2024-07-14 23:45:10] 	No enabled features
+
+
+[2024-07-15 15:03:34] Client version: 1718904662
+[2024-07-15 15:03:34] Validating parental settings
+[2024-07-15 15:03:34] Settings dump:
+[2024-07-15 15:03:34] 	Account ID: 312015349
+[2024-07-15 15:03:34] 	Enabled: false
+[2024-07-15 15:03:34] 	Base list: 0 ()
+[2024-07-15 15:03:34] 	No custom list
+[2024-07-15 15:03:34] 	No enabled features
+
+
+[2024-07-15 15:04:27] Client version: 1718904662
+[2024-07-15 15:04:27] Validating parental settings
+[2024-07-15 15:04:27] Settings dump:
+[2024-07-15 15:04:27] 	Account ID: 1045485340
+[2024-07-15 15:04:27] 	Enabled: false
+[2024-07-15 15:04:27] 	Base list: 0 ()
+[2024-07-15 15:04:27] 	No custom list
+[2024-07-15 15:04:27] 	No enabled features
+
+
+[2024-07-15 17:12:44] Client version: 1718904662
+[2024-07-15 17:12:44] Validating parental settings
+[2024-07-15 17:12:44] Settings dump:
+[2024-07-15 17:12:44] 	Account ID: 1045485340
+[2024-07-15 17:12:44] 	Enabled: false
+[2024-07-15 17:12:44] 	Base list: 0 ()
+[2024-07-15 17:12:44] 	No custom list
+[2024-07-15 17:12:44] 	No enabled features
+[2024-07-15 17:33:22] Validating parental settings
+[2024-07-15 17:33:22] Settings dump:
+[2024-07-15 17:33:22] 	Account ID: 1045485340
+[2024-07-15 17:33:22] 	Enabled: false
+[2024-07-15 17:33:22] 	Base list: 0 ()
+[2024-07-15 17:33:22] 	No custom list
+[2024-07-15 17:33:22] 	No enabled features
+
+
+[2024-07-16 14:17:18] Client version: 1718904662
+[2024-07-16 14:17:18] Validating parental settings
+[2024-07-16 14:17:18] Settings dump:
+[2024-07-16 14:17:18] 	Account ID: 1045485340
+[2024-07-16 14:17:18] 	Enabled: false
+[2024-07-16 14:17:18] 	Base list: 0 ()
+[2024-07-16 14:17:18] 	No custom list
+[2024-07-16 14:17:18] 	No enabled features
+
+
+[2024-07-16 15:54:05] Client version: 1718904662
+[2024-07-16 15:54:05] Validating parental settings
+[2024-07-16 15:54:05] Settings dump:
+[2024-07-16 15:54:05] 	Account ID: 1045485340
+[2024-07-16 15:54:05] 	Enabled: false
+[2024-07-16 15:54:05] 	Base list: 0 ()
+[2024-07-16 15:54:05] 	No custom list
+[2024-07-16 15:54:05] 	No enabled features
+
+
+[2024-07-16 17:13:49] Client version: 1718904662
+[2024-07-16 17:13:49] Validating parental settings
+[2024-07-16 17:13:49] Settings dump:
+[2024-07-16 17:13:49] 	Account ID: 312015349
+[2024-07-16 17:13:49] 	Enabled: false
+[2024-07-16 17:13:49] 	Base list: 0 ()
+[2024-07-16 17:13:49] 	No custom list
+[2024-07-16 17:13:49] 	No enabled features
+
+
+[2024-07-16 20:55:44] Client version: 1718904662
+[2024-07-16 20:55:44] Validating parental settings
+[2024-07-16 20:55:44] Settings dump:
+[2024-07-16 20:55:44] 	Account ID: 1045485340
+[2024-07-16 20:55:44] 	Enabled: false
+[2024-07-16 20:55:44] 	Base list: 0 ()
+[2024-07-16 20:55:44] 	No custom list
+[2024-07-16 20:55:44] 	No enabled features
+[2024-07-16 21:27:06] Validating parental settings
+[2024-07-16 21:27:06] Settings dump:
+[2024-07-16 21:27:06] 	Account ID: 1045485340
+[2024-07-16 21:27:06] 	Enabled: false
+[2024-07-16 21:27:06] 	Base list: 0 ()
+[2024-07-16 21:27:06] 	No custom list
+[2024-07-16 21:27:06] 	No enabled features
+[2024-07-16 21:27:08] Validating parental settings
+[2024-07-16 21:27:08] Settings dump:
+[2024-07-16 21:27:08] 	Account ID: 1045485340
+[2024-07-16 21:27:08] 	Enabled: false
+[2024-07-16 21:27:08] 	Base list: 0 ()
+[2024-07-16 21:27:08] 	No custom list
+[2024-07-16 21:27:08] 	No enabled features
+
+
+[2024-07-17 08:28:23] Client version: 1721173382
+[2024-07-17 08:28:23] Validating parental settings
+[2024-07-17 08:28:23] Settings dump:
+[2024-07-17 08:28:23] 	Account ID: 1045485340
+[2024-07-17 08:28:23] 	Enabled: false
+[2024-07-17 08:28:23] 	Base list: 0 ()
+[2024-07-17 08:28:23] 	No custom list
+[2024-07-17 08:28:23] 	No enabled features
+
+
+[2024-07-17 15:21:06] Client version: 1721173382
+[2024-07-17 15:21:06] Validating parental settings
+[2024-07-17 15:21:06] Settings dump:
+[2024-07-17 15:21:06] 	Account ID: 1045485340
+[2024-07-17 15:21:06] 	Enabled: false
+[2024-07-17 15:21:06] 	Base list: 0 ()
+[2024-07-17 15:21:06] 	No custom list
+[2024-07-17 15:21:06] 	No enabled features
+
+
+[2024-07-17 17:32:13] Client version: 1721173382
+[2024-07-17 17:32:13] Validating parental settings
+[2024-07-17 17:32:13] Settings dump:
+[2024-07-17 17:32:13] 	Account ID: 1045485340
+[2024-07-17 17:32:13] 	Enabled: false
+[2024-07-17 17:32:13] 	Base list: 0 ()
+[2024-07-17 17:32:13] 	No custom list
+[2024-07-17 17:32:13] 	No enabled features
+[2024-07-17 18:26:37] Validating parental settings
+[2024-07-17 18:26:37] Settings dump:
+[2024-07-17 18:26:37] 	Account ID: 1045485340
+[2024-07-17 18:26:37] 	Enabled: false
+[2024-07-17 18:26:37] 	Base list: 0 ()
+[2024-07-17 18:26:37] 	No custom list
+[2024-07-17 18:26:37] 	No enabled features
+
+
+[2024-07-18 11:38:12] Client version: 1721173382
+[2024-07-18 11:38:12] Validating parental settings
+[2024-07-18 11:38:12] Settings dump:
+[2024-07-18 11:38:12] 	Account ID: 1045485340
+[2024-07-18 11:38:12] 	Enabled: false
+[2024-07-18 11:38:12] 	Base list: 0 ()
+[2024-07-18 11:38:12] 	No custom list
+[2024-07-18 11:38:12] 	No enabled features
+
+
+[2024-07-18 12:27:15] Client version: 1721173382
+[2024-07-18 12:27:15] Validating parental settings
+[2024-07-18 12:27:15] Settings dump:
+[2024-07-18 12:27:15] 	Account ID: 1045485340
+[2024-07-18 12:27:15] 	Enabled: false
+[2024-07-18 12:27:15] 	Base list: 0 ()
+[2024-07-18 12:27:15] 	No custom list
+[2024-07-18 12:27:15] 	No enabled features
+
+
+[2024-07-19 11:37:32] Client version: 1721173382
+[2024-07-19 11:37:32] Validating parental settings
+[2024-07-19 11:37:32] Settings dump:
+[2024-07-19 11:37:32] 	Account ID: 1045485340
+[2024-07-19 11:37:32] 	Enabled: false
+[2024-07-19 11:37:32] 	Base list: 0 ()
+[2024-07-19 11:37:32] 	No custom list
+[2024-07-19 11:37:32] 	No enabled features
+
+
+[2024-07-19 19:46:09] Client version: 1721173382
+[2024-07-19 19:46:09] Validating parental settings
+[2024-07-19 19:46:09] Settings dump:
+[2024-07-19 19:46:09] 	Account ID: 1045485340
+[2024-07-19 19:46:09] 	Enabled: false
+[2024-07-19 19:46:09] 	Base list: 0 ()
+[2024-07-19 19:46:09] 	No custom list
+[2024-07-19 19:46:09] 	No enabled features
+
+
+[2024-07-19 21:48:19] Client version: 1721173382
+[2024-07-19 21:48:19] Validating parental settings
+[2024-07-19 21:48:19] Settings dump:
+[2024-07-19 21:48:19] 	Account ID: 1045485340
+[2024-07-19 21:48:19] 	Enabled: false
+[2024-07-19 21:48:19] 	Base list: 0 ()
+[2024-07-19 21:48:19] 	No custom list
+[2024-07-19 21:48:19] 	No enabled features
+[2024-07-19 22:01:11] Validating parental settings
+[2024-07-19 22:01:11] Settings dump:
+[2024-07-19 22:01:11] 	Account ID: 1045485340
+[2024-07-19 22:01:11] 	Enabled: false
+[2024-07-19 22:01:11] 	Base list: 0 ()
+[2024-07-19 22:01:11] 	No custom list
+[2024-07-19 22:01:11] 	No enabled features
+
+
+[2024-07-20 13:12:21] Client version: 1721173382
+[2024-07-20 13:12:21] Validating parental settings
+[2024-07-20 13:12:21] Settings dump:
+[2024-07-20 13:12:21] 	Account ID: 1045485340
+[2024-07-20 13:12:21] 	Enabled: false
+[2024-07-20 13:12:21] 	Base list: 0 ()
+[2024-07-20 13:12:21] 	No custom list
+[2024-07-20 13:12:21] 	No enabled features
+
+
+[2024-07-20 13:29:38] Client version: 1721173382
+[2024-07-20 13:29:38] Validating parental settings
+[2024-07-20 13:29:38] Settings dump:
+[2024-07-20 13:29:38] 	Account ID: 1045485340
+[2024-07-20 13:29:38] 	Enabled: false
+[2024-07-20 13:29:38] 	Base list: 0 ()
+[2024-07-20 13:29:38] 	No custom list
+[2024-07-20 13:29:38] 	No enabled features
+
+
+[2024-07-21 13:22:27] Client version: 1721173382
+[2024-07-21 13:22:27] Validating parental settings
+[2024-07-21 13:22:27] Settings dump:
+[2024-07-21 13:22:27] 	Account ID: 1045485340
+[2024-07-21 13:22:27] 	Enabled: false
+[2024-07-21 13:22:27] 	Base list: 0 ()
+[2024-07-21 13:22:27] 	No custom list
+[2024-07-21 13:22:27] 	No enabled features
+
+
+[2024-07-21 15:07:10] Client version: 1721173382
+[2024-07-21 15:07:10] Validating parental settings
+[2024-07-21 15:07:10] Settings dump:
+[2024-07-21 15:07:10] 	Account ID: 1045485340
+[2024-07-21 15:07:10] 	Enabled: false
+[2024-07-21 15:07:10] 	Base list: 0 ()
+[2024-07-21 15:07:10] 	No custom list
+[2024-07-21 15:07:10] 	No enabled features
+
+
+[2024-07-21 19:04:28] Client version: 1721173382
+[2024-07-21 19:04:28] Validating parental settings
+[2024-07-21 19:04:28] Settings dump:
+[2024-07-21 19:04:28] 	Account ID: 1045485340
+[2024-07-21 19:04:28] 	Enabled: false
+[2024-07-21 19:04:28] 	Base list: 0 ()
+[2024-07-21 19:04:28] 	No custom list
+[2024-07-21 19:04:28] 	No enabled features
+[2024-07-21 19:29:07] Validating parental settings
+[2024-07-21 19:29:07] Settings dump:
+[2024-07-21 19:29:07] 	Account ID: 1045485340
+[2024-07-21 19:29:07] 	Enabled: false
+[2024-07-21 19:29:07] 	Base list: 0 ()
+[2024-07-21 19:29:07] 	No custom list
+[2024-07-21 19:29:07] 	No enabled features
+
+
+[2024-07-21 22:51:30] Client version: 1721173382
+[2024-07-21 22:51:30] Validating parental settings
+[2024-07-21 22:51:30] Settings dump:
+[2024-07-21 22:51:30] 	Account ID: 1045485340
+[2024-07-21 22:51:30] 	Enabled: false
+[2024-07-21 22:51:30] 	Base list: 0 ()
+[2024-07-21 22:51:30] 	No custom list
+[2024-07-21 22:51:30] 	No enabled features
+[2024-07-21 23:04:21] Validating parental settings
+[2024-07-21 23:04:21] Settings dump:
+[2024-07-21 23:04:21] 	Account ID: 1045485340
+[2024-07-21 23:04:21] 	Enabled: false
+[2024-07-21 23:04:21] 	Base list: 0 ()
+[2024-07-21 23:04:21] 	No custom list
+[2024-07-21 23:04:21] 	No enabled features
+
+
+[2024-07-22 12:13:21] Client version: 1721173382
+[2024-07-22 12:13:21] Validating parental settings
+[2024-07-22 12:13:21] Settings dump:
+[2024-07-22 12:13:21] 	Account ID: 1045485340
+[2024-07-22 12:13:21] 	Enabled: false
+[2024-07-22 12:13:21] 	Base list: 0 ()
+[2024-07-22 12:13:21] 	No custom list
+[2024-07-22 12:13:21] 	No enabled features
+
+
+[2024-07-22 15:25:07] Client version: 1721173382
+[2024-07-22 15:25:07] Validating parental settings
+[2024-07-22 15:25:07] Settings dump:
+[2024-07-22 15:25:07] 	Account ID: 1045485340
+[2024-07-22 15:25:07] 	Enabled: false
+[2024-07-22 15:25:07] 	Base list: 0 ()
+[2024-07-22 15:25:07] 	No custom list
+[2024-07-22 15:25:07] 	No enabled features
+
+
+[2024-07-22 16:14:12] Client version: 1721173382
+[2024-07-22 16:14:12] Validating parental settings
+[2024-07-22 16:14:12] Settings dump:
+[2024-07-22 16:14:12] 	Account ID: 1045485340
+[2024-07-22 16:14:12] 	Enabled: false
+[2024-07-22 16:14:12] 	Base list: 0 ()
+[2024-07-22 16:14:12] 	No custom list
+[2024-07-22 16:14:12] 	No enabled features
+
+
+[2024-07-22 17:37:07] Client version: 1721173382
+[2024-07-22 17:37:07] Validating parental settings
+[2024-07-22 17:37:07] Settings dump:
+[2024-07-22 17:37:07] 	Account ID: 1045485340
+[2024-07-22 17:37:07] 	Enabled: false
+[2024-07-22 17:37:07] 	Base list: 0 ()
+[2024-07-22 17:37:07] 	No custom list
+[2024-07-22 17:37:07] 	No enabled features
+
+
+[2024-07-22 18:05:49] Client version: 1721173382
+[2024-07-22 18:05:49] Validating parental settings
+[2024-07-22 18:05:49] Settings dump:
+[2024-07-22 18:05:49] 	Account ID: 1045485340
+[2024-07-22 18:05:49] 	Enabled: false
+[2024-07-22 18:05:49] 	Base list: 0 ()
+[2024-07-22 18:05:49] 	No custom list
+[2024-07-22 18:05:49] 	No enabled features
+
+
+[2024-07-22 18:08:32] Client version: 1721173382
+[2024-07-22 18:08:32] Validating parental settings
+[2024-07-22 18:08:32] Settings dump:
+[2024-07-22 18:08:32] 	Account ID: 1045485340
+[2024-07-22 18:08:32] 	Enabled: false
+[2024-07-22 18:08:32] 	Base list: 0 ()
+[2024-07-22 18:08:32] 	No custom list
+[2024-07-22 18:08:32] 	No enabled features
+
+
+[2024-07-22 23:35:25] Client version: 1721173382
+[2024-07-22 23:35:25] Validating parental settings
+[2024-07-22 23:35:25] Settings dump:
+[2024-07-22 23:35:25] 	Account ID: 1045485340
+[2024-07-22 23:35:25] 	Enabled: false
+[2024-07-22 23:35:25] 	Base list: 0 ()
+[2024-07-22 23:35:25] 	No custom list
+[2024-07-22 23:35:25] 	No enabled features
+
+
+[2024-07-23 13:40:29] Client version: 1721173382
+[2024-07-23 13:40:29] Validating parental settings
+[2024-07-23 13:40:29] Settings dump:
+[2024-07-23 13:40:29] 	Account ID: 1045485340
+[2024-07-23 13:40:29] 	Enabled: false
+[2024-07-23 13:40:29] 	Base list: 0 ()
+[2024-07-23 13:40:29] 	No custom list
+[2024-07-23 13:40:29] 	No enabled features
+
+
+[2024-07-26 11:59:45] Client version: 1721173382
+[2024-07-26 11:59:45] Validating parental settings
+[2024-07-26 11:59:45] Settings dump:
+[2024-07-26 11:59:45] 	Account ID: 1045485340
+[2024-07-26 11:59:45] 	Enabled: false
+[2024-07-26 11:59:45] 	Base list: 0 ()
+[2024-07-26 11:59:45] 	No custom list
+[2024-07-26 11:59:45] 	No enabled features
+
+
+[2024-07-26 12:35:44] Client version: 1721173382
+[2024-07-26 12:35:44] Validating parental settings
+[2024-07-26 12:35:44] Settings dump:
+[2024-07-26 12:35:44] 	Account ID: 1045485340
+[2024-07-26 12:35:44] 	Enabled: false
+[2024-07-26 12:35:44] 	Base list: 0 ()
+[2024-07-26 12:35:44] 	No custom list
+[2024-07-26 12:35:44] 	No enabled features
+
+
+[2024-07-27 08:57:33] Client version: 1721173382
+[2024-07-27 08:57:33] Validating parental settings
+[2024-07-27 08:57:33] Settings dump:
+[2024-07-27 08:57:33] 	Account ID: 1045485340
+[2024-07-27 08:57:33] 	Enabled: false
+[2024-07-27 08:57:33] 	Base list: 0 ()
+[2024-07-27 08:57:33] 	No custom list
+[2024-07-27 08:57:33] 	No enabled features
+
+
+[2024-07-27 12:42:50] Client version: 1721173382
+[2024-07-27 12:42:50] Validating parental settings
+[2024-07-27 12:42:50] Settings dump:
+[2024-07-27 12:42:50] 	Account ID: 1045485340
+[2024-07-27 12:42:50] 	Enabled: false
+[2024-07-27 12:42:50] 	Base list: 0 ()
+[2024-07-27 12:42:50] 	No custom list
+[2024-07-27 12:42:50] 	No enabled features
+
+
+[2024-07-27 23:03:47] Client version: 1721173382
+[2024-07-27 23:03:47] Validating parental settings
+[2024-07-27 23:03:47] Settings dump:
+[2024-07-27 23:03:47] 	Account ID: 1045485340
+[2024-07-27 23:03:47] 	Enabled: false
+[2024-07-27 23:03:47] 	Base list: 0 ()
+[2024-07-27 23:03:47] 	No custom list
+[2024-07-27 23:03:47] 	No enabled features
+
+
+[2024-07-28 09:52:33] Client version: 1721173382
+[2024-07-28 09:52:33] Validating parental settings
+[2024-07-28 09:52:33] Settings dump:
+[2024-07-28 09:52:33] 	Account ID: 1045485340
+[2024-07-28 09:52:33] 	Enabled: false
+[2024-07-28 09:52:33] 	Base list: 0 ()
+[2024-07-28 09:52:33] 	No custom list
+[2024-07-28 09:52:33] 	No enabled features
+[2024-07-28 09:52:33] Loading cached parental settings for 1045485340, account flags are 1
+[2024-07-28 09:52:33] Setting parental settings for 1045485340, account flags are 1
+[2024-07-28 09:52:33] Settings dump:
+[2024-07-28 09:52:33] 	Account ID: 1045485340
+[2024-07-28 09:52:33] 	Enabled: false
+[2024-07-28 09:52:33] 	Base list: 0 ()
+[2024-07-28 09:52:33] 	No custom list
+[2024-07-28 09:52:33] 	No enabled features
+[2024-07-28 09:52:33] Disabling parental settings for 1045485340, account flags are 1
+
+
+[2024-07-28 10:04:26] Client version: 1721173382
+[2024-07-28 10:04:26] Validating parental settings
+[2024-07-28 10:04:26] Settings dump:
+[2024-07-28 10:04:26] 	Account ID: 1045485340
+[2024-07-28 10:04:26] 	Enabled: false
+[2024-07-28 10:04:26] 	Base list: 0 ()
+[2024-07-28 10:04:26] 	No custom list
+[2024-07-28 10:04:26] 	No enabled features
+
+
+[2024-07-28 13:01:22] Client version: 1721173382
+[2024-07-28 13:01:22] Validating parental settings
+[2024-07-28 13:01:22] Settings dump:
+[2024-07-28 13:01:22] 	Account ID: 1045485340
+[2024-07-28 13:01:22] 	Enabled: false
+[2024-07-28 13:01:22] 	Base list: 0 ()
+[2024-07-28 13:01:22] 	No custom list
+[2024-07-28 13:01:22] 	No enabled features
+
+
+[2024-07-28 15:22:05] Client version: 1721173382
+[2024-07-28 15:22:05] Validating parental settings
+[2024-07-28 15:22:05] Settings dump:
+[2024-07-28 15:22:05] 	Account ID: 1045485340
+[2024-07-28 15:22:05] 	Enabled: false
+[2024-07-28 15:22:05] 	Base list: 0 ()
+[2024-07-28 15:22:05] 	No custom list
+[2024-07-28 15:22:05] 	No enabled features
+
+
+[2024-07-28 16:36:41] Client version: 1721173382
+[2024-07-28 16:36:41] Validating parental settings
+[2024-07-28 16:36:41] Settings dump:
+[2024-07-28 16:36:41] 	Account ID: 1045485340
+[2024-07-28 16:36:41] 	Enabled: false
+[2024-07-28 16:36:41] 	Base list: 0 ()
+[2024-07-28 16:36:41] 	No custom list
+[2024-07-28 16:36:41] 	No enabled features
+
+
+[2024-07-28 22:23:27] Client version: 1721173382
+[2024-07-28 22:23:27] Validating parental settings
+[2024-07-28 22:23:27] Settings dump:
+[2024-07-28 22:23:27] 	Account ID: 1045485340
+[2024-07-28 22:23:27] 	Enabled: false
+[2024-07-28 22:23:27] 	Base list: 0 ()
+[2024-07-28 22:23:27] 	No custom list
+[2024-07-28 22:23:27] 	No enabled features
+[2024-07-28 22:27:10] Validating parental settings
+[2024-07-28 22:27:10] Settings dump:
+[2024-07-28 22:27:10] 	Account ID: 1045485340
+[2024-07-28 22:27:10] 	Enabled: false
+[2024-07-28 22:27:10] 	Base list: 0 ()
+[2024-07-28 22:27:10] 	No custom list
+[2024-07-28 22:27:10] 	No enabled features
+
+
+[2024-07-28 23:32:19] Client version: 1721173382
+[2024-07-28 23:32:19] Validating parental settings
+[2024-07-28 23:32:19] Settings dump:
+[2024-07-28 23:32:19] 	Account ID: 1045485340
+[2024-07-28 23:32:19] 	Enabled: false
+[2024-07-28 23:32:19] 	Base list: 0 ()
+[2024-07-28 23:32:19] 	No custom list
+[2024-07-28 23:32:19] 	No enabled features
+[2024-07-29 00:29:05] Validating parental settings
+[2024-07-29 00:29:05] Settings dump:
+[2024-07-29 00:29:05] 	Account ID: 1045485340
+[2024-07-29 00:29:05] 	Enabled: false
+[2024-07-29 00:29:05] 	Base list: 0 ()
+[2024-07-29 00:29:05] 	No custom list
+[2024-07-29 00:29:05] 	No enabled features
+
+
+[2024-07-29 01:48:23] Client version: 1721173382
+[2024-07-29 01:48:23] Validating parental settings
+[2024-07-29 01:48:23] Settings dump:
+[2024-07-29 01:48:23] 	Account ID: 1045485340
+[2024-07-29 01:48:23] 	Enabled: false
+[2024-07-29 01:48:23] 	Base list: 0 ()
+[2024-07-29 01:48:23] 	No custom list
+[2024-07-29 01:48:23] 	No enabled features
+
+
+[2024-07-29 10:53:05] Client version: 1721173382
+[2024-07-29 10:53:05] Validating parental settings
+[2024-07-29 10:53:05] Settings dump:
+[2024-07-29 10:53:05] 	Account ID: 1045485340
+[2024-07-29 10:53:05] 	Enabled: false
+[2024-07-29 10:53:05] 	Base list: 0 ()
+[2024-07-29 10:53:05] 	No custom list
+[2024-07-29 10:53:05] 	No enabled features
+
+
+[2024-07-30 10:34:17] Client version: 1721173382
+[2024-07-30 10:34:17] Validating parental settings
+[2024-07-30 10:34:17] Settings dump:
+[2024-07-30 10:34:17] 	Account ID: 1045485340
+[2024-07-30 10:34:17] 	Enabled: false
+[2024-07-30 10:34:17] 	Base list: 0 ()
+[2024-07-30 10:34:17] 	No custom list
+[2024-07-30 10:34:17] 	No enabled features
+
+
+[2024-07-31 17:01:55] Client version: 1721173382
+[2024-07-31 17:01:55] Validating parental settings
+[2024-07-31 17:01:55] Settings dump:
+[2024-07-31 17:01:55] 	Account ID: 1045485340
+[2024-07-31 17:01:55] 	Enabled: false
+[2024-07-31 17:01:55] 	Base list: 0 ()
+[2024-07-31 17:01:55] 	No custom list
+[2024-07-31 17:01:55] 	No enabled features
+
+
+[2024-07-31 23:07:12] Client version: 1721173382
+[2024-07-31 23:07:12] Validating parental settings
+[2024-07-31 23:07:12] Settings dump:
+[2024-07-31 23:07:12] 	Account ID: 1045485340
+[2024-07-31 23:07:12] 	Enabled: false
+[2024-07-31 23:07:12] 	Base list: 0 ()
+[2024-07-31 23:07:12] 	No custom list
+[2024-07-31 23:07:12] 	No enabled features
+
+
+[2024-08-01 15:39:03] Client version: 1721173382
+[2024-08-01 15:39:03] Validating parental settings
+[2024-08-01 15:39:03] Settings dump:
+[2024-08-01 15:39:03] 	Account ID: 1045485340
+[2024-08-01 15:39:03] 	Enabled: false
+[2024-08-01 15:39:03] 	Base list: 0 ()
+[2024-08-01 15:39:03] 	No custom list
+[2024-08-01 15:39:03] 	No enabled features
+
+
+[2024-08-02 09:12:54] Client version: 1721173382
+[2024-08-02 09:12:54] Validating parental settings
+[2024-08-02 09:12:54] Settings dump:
+[2024-08-02 09:12:54] 	Account ID: 1045485340
+[2024-08-02 09:12:54] 	Enabled: false
+[2024-08-02 09:12:54] 	Base list: 0 ()
+[2024-08-02 09:12:54] 	No custom list
+[2024-08-02 09:12:54] 	No enabled features
+[2024-08-02 21:19:57] Validating parental settings
+[2024-08-02 21:19:57] Settings dump:
+[2024-08-02 21:19:57] 	Account ID: 1045485340
+[2024-08-02 21:19:57] 	Enabled: false
+[2024-08-02 21:19:57] 	Base list: 0 ()
+[2024-08-02 21:19:57] 	No custom list
+[2024-08-02 21:19:57] 	No enabled features
+[2024-08-02 23:30:23] Validating parental settings
+[2024-08-02 23:30:23] Settings dump:
+[2024-08-02 23:30:23] 	Account ID: 1045485340
+[2024-08-02 23:30:23] 	Enabled: false
+[2024-08-02 23:30:23] 	Base list: 0 ()
+[2024-08-02 23:30:23] 	No custom list
+[2024-08-02 23:30:23] 	No enabled features
+[2024-08-02 23:30:26] Validating parental settings
+[2024-08-02 23:30:26] Settings dump:
+[2024-08-02 23:30:26] 	Account ID: 1045485340
+[2024-08-02 23:30:26] 	Enabled: false
+[2024-08-02 23:30:26] 	Base list: 0 ()
+[2024-08-02 23:30:26] 	No custom list
+[2024-08-02 23:30:26] 	No enabled features
+
+
+[2024-08-03 12:44:35] Client version: 1721173382
+[2024-08-03 12:44:35] Validating parental settings
+[2024-08-03 12:44:35] Settings dump:
+[2024-08-03 12:44:35] 	Account ID: 1045485340
+[2024-08-03 12:44:35] 	Enabled: false
+[2024-08-03 12:44:35] 	Base list: 0 ()
+[2024-08-03 12:44:35] 	No custom list
+[2024-08-03 12:44:35] 	No enabled features
+
+
+[2024-08-03 13:02:34] Client version: 1721173382
+[2024-08-03 13:02:34] Validating parental settings
+[2024-08-03 13:02:34] Settings dump:
+[2024-08-03 13:02:34] 	Account ID: 1045485340
+[2024-08-03 13:02:34] 	Enabled: false
+[2024-08-03 13:02:34] 	Base list: 0 ()
+[2024-08-03 13:02:34] 	No custom list
+[2024-08-03 13:02:34] 	No enabled features
+
+
+[2024-08-03 16:53:37] Client version: 1721173382
+[2024-08-03 16:53:37] Validating parental settings
+[2024-08-03 16:53:37] Settings dump:
+[2024-08-03 16:53:37] 	Account ID: 1045485340
+[2024-08-03 16:53:37] 	Enabled: false
+[2024-08-03 16:53:37] 	Base list: 0 ()
+[2024-08-03 16:53:37] 	No custom list
+[2024-08-03 16:53:37] 	No enabled features
+
+
+[2024-08-03 20:15:00] Client version: 1721173382
+[2024-08-03 20:15:00] Validating parental settings
+[2024-08-03 20:15:00] Settings dump:
+[2024-08-03 20:15:00] 	Account ID: 1045485340
+[2024-08-03 20:15:00] 	Enabled: false
+[2024-08-03 20:15:00] 	Base list: 0 ()
+[2024-08-03 20:15:00] 	No custom list
+[2024-08-03 20:15:00] 	No enabled features
+
+
+[2024-08-04 15:35:38] Client version: 1721173382
+[2024-08-04 15:35:38] Validating parental settings
+[2024-08-04 15:35:38] Settings dump:
+[2024-08-04 15:35:38] 	Account ID: 1045485340
+[2024-08-04 15:35:38] 	Enabled: false
+[2024-08-04 15:35:38] 	Base list: 0 ()
+[2024-08-04 15:35:38] 	No custom list
+[2024-08-04 15:35:38] 	No enabled features
+
+
+[2024-08-07 10:29:33] Client version: 1721173382
+[2024-08-07 10:29:33] Validating parental settings
+[2024-08-07 10:29:33] Settings dump:
+[2024-08-07 10:29:33] 	Account ID: 1045485340
+[2024-08-07 10:29:33] 	Enabled: false
+[2024-08-07 10:29:33] 	Base list: 0 ()
+[2024-08-07 10:29:33] 	No custom list
+[2024-08-07 10:29:33] 	No enabled features
+
+
+[2024-08-11 09:48:04] Client version: 1721173382
+[2024-08-11 09:48:04] Validating parental settings
+[2024-08-11 09:48:04] Settings dump:
+[2024-08-11 09:48:04] 	Account ID: 1045485340
+[2024-08-11 09:48:04] 	Enabled: false
+[2024-08-11 09:48:04] 	Base list: 0 ()
+[2024-08-11 09:48:04] 	No custom list
+[2024-08-11 09:48:04] 	No enabled features
+
+
+[2024-08-11 09:51:32] Client version: 1721173382
+[2024-08-11 09:51:32] Validating parental settings
+[2024-08-11 09:51:32] Settings dump:
+[2024-08-11 09:51:32] 	Account ID: 1045485340
+[2024-08-11 09:51:32] 	Enabled: false
+[2024-08-11 09:51:32] 	Base list: 0 ()
+[2024-08-11 09:51:32] 	No custom list
+[2024-08-11 09:51:32] 	No enabled features
+
+
+[2024-08-17 23:18:14] Client version: 1721173382
+[2024-08-17 23:18:14] Validating parental settings
+[2024-08-17 23:18:14] Settings dump:
+[2024-08-17 23:18:14] 	Account ID: 1045485340
+[2024-08-17 23:18:14] 	Enabled: false
+[2024-08-17 23:18:14] 	Base list: 0 ()
+[2024-08-17 23:18:14] 	No custom list
+[2024-08-17 23:18:14] 	No enabled features
+
+
+[2024-08-18 18:04:45] Client version: 1721173382
+[2024-08-18 18:04:45] Validating parental settings
+[2024-08-18 18:04:45] Settings dump:
+[2024-08-18 18:04:45] 	Account ID: 1045485340
+[2024-08-18 18:04:45] 	Enabled: false
+[2024-08-18 18:04:45] 	Base list: 0 ()
+[2024-08-18 18:04:45] 	No custom list
+[2024-08-18 18:04:45] 	No enabled features
+
+
+[2024-08-26 22:27:44] Client version: 1721173382
+[2024-08-26 22:27:44] Validating parental settings
+[2024-08-26 22:27:44] Settings dump:
+[2024-08-26 22:27:44] 	Account ID: 1045485340
+[2024-08-26 22:27:44] 	Enabled: false
+[2024-08-26 22:27:44] 	Base list: 0 ()
+[2024-08-26 22:27:44] 	No custom list
+[2024-08-26 22:27:44] 	No enabled features
+
+
+[2024-09-06 17:53:54] Client version: 1721173382
+[2024-09-06 17:53:54] Validating parental settings
+[2024-09-06 17:53:54] Settings dump:
+[2024-09-06 17:53:54] 	Account ID: 1045485340
+[2024-09-06 17:53:54] 	Enabled: false
+[2024-09-06 17:53:54] 	Base list: 0 ()
+[2024-09-06 17:53:54] 	No custom list
+[2024-09-06 17:53:54] 	No enabled features
+[2024-09-06 17:58:43] Validating parental settings
+[2024-09-06 17:58:43] Settings dump:
+[2024-09-06 17:58:43] 	Account ID: 1045485340
+[2024-09-06 17:58:43] 	Enabled: false
+[2024-09-06 17:58:43] 	Base list: 0 ()
+[2024-09-06 17:58:43] 	No custom list
+[2024-09-06 17:58:43] 	No enabled features
+[2024-09-06 17:59:13] Validating parental settings
+[2024-09-06 17:59:13] Settings dump:
+[2024-09-06 17:59:13] 	Account ID: 1045485340
+[2024-09-06 17:59:13] 	Enabled: false
+[2024-09-06 17:59:13] 	Base list: 0 ()
+[2024-09-06 17:59:13] 	No custom list
+[2024-09-06 17:59:13] 	No enabled features
+
+
+[2024-09-13 12:30:09] Client version: 1726088054
+[2024-09-13 12:30:09] Validating parental settings
+[2024-09-13 12:30:09] Settings dump:
+[2024-09-13 12:30:09] 	Account ID: 1045485340
+[2024-09-13 12:30:09] 	Enabled: false
+[2024-09-13 12:30:09] 	Base list: 0 ()
+[2024-09-13 12:30:09] 	No custom list
+[2024-09-13 12:30:09] 	No enabled features
+
+
+[2024-10-17 13:36:38] Client version: 1726604483
+[2024-10-17 13:36:38] Validating parental settings
+[2024-10-17 13:36:38] Settings dump:
+[2024-10-17 13:36:38] 	Account ID: 1045485340
+[2024-10-17 13:36:38] 	Enabled: false
+[2024-10-17 13:36:38] 	Base list: 0 ()
+[2024-10-17 13:36:38] 	No custom list
+[2024-10-17 13:36:38] 	No enabled features
+
+
+[2024-10-24 21:53:33] Client version: 1726604483
+[2024-10-24 21:53:33] Validating parental settings
+[2024-10-24 21:53:33] Settings dump:
+[2024-10-24 21:53:33] 	Account ID: 1045485340
+[2024-10-24 21:53:33] 	Enabled: false
+[2024-10-24 21:53:33] 	Base list: 0 ()
+[2024-10-24 21:53:33] 	No custom list
+[2024-10-24 21:53:33] 	No enabled features
+
+
+[2024-10-24 23:26:02] Client version: 1726604483
+[2024-10-24 23:26:02] Validating parental settings
+[2024-10-24 23:26:02] Settings dump:
+[2024-10-24 23:26:02] 	Account ID: 1045485340
+[2024-10-24 23:26:02] 	Enabled: false
+[2024-10-24 23:26:02] 	Base list: 0 ()
+[2024-10-24 23:26:02] 	No custom list
+[2024-10-24 23:26:02] 	No enabled features
+
+
+[2024-10-24 23:26:52] Client version: 1726604483
+[2024-10-24 23:26:52] Validating parental settings
+[2024-10-24 23:26:52] Settings dump:
+[2024-10-24 23:26:52] 	Account ID: 1045485340
+[2024-10-24 23:26:52] 	Enabled: false
+[2024-10-24 23:26:52] 	Base list: 0 ()
+[2024-10-24 23:26:52] 	No custom list
+[2024-10-24 23:26:52] 	No enabled features
+
+
+[2024-10-25 10:07:26] Client version: 1726604483
+[2024-10-25 10:07:26] Validating parental settings
+[2024-10-25 10:07:26] Settings dump:
+[2024-10-25 10:07:26] 	Account ID: 1045485340
+[2024-10-25 10:07:26] 	Enabled: false
+[2024-10-25 10:07:26] 	Base list: 0 ()
+[2024-10-25 10:07:26] 	No custom list
+[2024-10-25 10:07:26] 	No enabled features
+
+
+[2024-10-25 12:48:43] Client version: 1726604483
+[2024-10-25 12:48:43] Validating parental settings
+[2024-10-25 12:48:43] Settings dump:
+[2024-10-25 12:48:43] 	Account ID: 1045485340
+[2024-10-25 12:48:43] 	Enabled: false
+[2024-10-25 12:48:43] 	Base list: 0 ()
+[2024-10-25 12:48:43] 	No custom list
+[2024-10-25 12:48:43] 	No enabled features
+
+
+[2024-10-26 10:43:05] Client version: 1726604483
+[2024-10-26 10:43:05] Validating parental settings
+[2024-10-26 10:43:05] Settings dump:
+[2024-10-26 10:43:05] 	Account ID: 1045485340
+[2024-10-26 10:43:05] 	Enabled: false
+[2024-10-26 10:43:05] 	Base list: 0 ()
+[2024-10-26 10:43:05] 	No custom list
+[2024-10-26 10:43:05] 	No enabled features
+
+
+[2024-10-27 10:29:21] Client version: 1726604483
+[2024-10-27 10:29:21] Validating parental settings
+[2024-10-27 10:29:21] Settings dump:
+[2024-10-27 10:29:21] 	Account ID: 1045485340
+[2024-10-27 10:29:21] 	Enabled: false
+[2024-10-27 10:29:21] 	Base list: 0 ()
+[2024-10-27 10:29:21] 	No custom list
+[2024-10-27 10:29:21] 	No enabled features
+
+
+[2024-10-29 14:04:38] Client version: 1726604483
+[2024-10-29 14:04:38] Validating parental settings
+[2024-10-29 14:04:38] Settings dump:
+[2024-10-29 14:04:38] 	Account ID: 1045485340
+[2024-10-29 14:04:38] 	Enabled: false
+[2024-10-29 14:04:38] 	Base list: 0 ()
+[2024-10-29 14:04:38] 	No custom list
+[2024-10-29 14:04:38] 	No enabled features
+
+
+[2024-10-30 09:21:04] Client version: 1726604483
+[2024-10-30 09:21:04] Validating parental settings
+[2024-10-30 09:21:04] Settings dump:
+[2024-10-30 09:21:04] 	Account ID: 1045485340
+[2024-10-30 09:21:04] 	Enabled: false
+[2024-10-30 09:21:04] 	Base list: 0 ()
+[2024-10-30 09:21:04] 	No custom list
+[2024-10-30 09:21:04] 	No enabled features
+
+
+[2024-10-30 20:36:50] Client version: 1726604483
+[2024-10-30 20:36:50] Validating parental settings
+[2024-10-30 20:36:50] Settings dump:
+[2024-10-30 20:36:50] 	Account ID: 1045485340
+[2024-10-30 20:36:50] 	Enabled: false
+[2024-10-30 20:36:50] 	Base list: 0 ()
+[2024-10-30 20:36:50] 	No custom list
+[2024-10-30 20:36:50] 	No enabled features
+
+
+[2024-11-01 17:55:32] Client version: 1726604483
+[2024-11-01 17:55:32] Validating parental settings
+[2024-11-01 17:55:32] Settings dump:
+[2024-11-01 17:55:32] 	Account ID: 1045485340
+[2024-11-01 17:55:32] 	Enabled: false
+[2024-11-01 17:55:32] 	Base list: 0 ()
+[2024-11-01 17:55:32] 	No custom list
+[2024-11-01 17:55:32] 	No enabled features
+[2024-11-01 18:39:06] Validating parental settings
+[2024-11-01 18:39:06] Settings dump:
+[2024-11-01 18:39:06] 	Account ID: 1045485340
+[2024-11-01 18:39:06] 	Enabled: false
+[2024-11-01 18:39:06] 	Base list: 0 ()
+[2024-11-01 18:39:06] 	No custom list
+[2024-11-01 18:39:06] 	No enabled features
+
+
+[2024-11-04 14:20:55] Client version: 1726604483
+[2024-11-04 14:20:55] Validating parental settings
+[2024-11-04 14:20:55] Settings dump:
+[2024-11-04 14:20:55] 	Account ID: 1045485340
+[2024-11-04 14:20:55] 	Enabled: false
+[2024-11-04 14:20:55] 	Base list: 0 ()
+[2024-11-04 14:20:55] 	No custom list
+[2024-11-04 14:20:55] 	No enabled features
+
+
+[2024-11-04 14:49:11] Client version: 1726604483
+[2024-11-04 14:49:11] Validating parental settings
+[2024-11-04 14:49:11] Settings dump:
+[2024-11-04 14:49:11] 	Account ID: 1045485340
+[2024-11-04 14:49:11] 	Enabled: false
+[2024-11-04 14:49:11] 	Base list: 0 ()
+[2024-11-04 14:49:11] 	No custom list
+[2024-11-04 14:49:11] 	No enabled features
+
+
+[2024-11-04 14:51:43] Client version: 1726604483
+[2024-11-04 14:51:43] Validating parental settings
+[2024-11-04 14:51:43] Settings dump:
+[2024-11-04 14:51:43] 	Account ID: 1045485340
+[2024-11-04 14:51:43] 	Enabled: false
+[2024-11-04 14:51:43] 	Base list: 0 ()
+[2024-11-04 14:51:43] 	No custom list
+[2024-11-04 14:51:43] 	No enabled features
+
+
+[2024-11-04 23:25:12] Client version: 1726604483
+[2024-11-04 23:25:12] Validating parental settings
+[2024-11-04 23:25:12] Settings dump:
+[2024-11-04 23:25:12] 	Account ID: 1045485340
+[2024-11-04 23:25:12] 	Enabled: false
+[2024-11-04 23:25:12] 	Base list: 0 ()
+[2024-11-04 23:25:12] 	No custom list
+[2024-11-04 23:25:12] 	No enabled features
+
+
+[2024-11-10 15:10:35] Client version: 1730853027
+[2024-11-10 15:10:35] Validating parental settings
+[2024-11-10 15:10:35] Settings dump:
+[2024-11-10 15:10:35] 	Account ID: 1045485340
+[2024-11-10 15:10:35] 	Enabled: false
+[2024-11-10 15:10:35] 	Base list: 0 ()
+[2024-11-10 15:10:35] 	No custom list
+[2024-11-10 15:10:35] 	No enabled features
+
+
+[2024-11-10 15:38:33] Client version: 1730853027
+[2024-11-10 15:38:33] Validating parental settings
+[2024-11-10 15:38:33] Settings dump:
+[2024-11-10 15:38:33] 	Account ID: 1045485340
+[2024-11-10 15:38:33] 	Enabled: false
+[2024-11-10 15:38:33] 	Base list: 0 ()
+[2024-11-10 15:38:33] 	No custom list
+[2024-11-10 15:38:33] 	No enabled features
+[2024-11-10 16:33:22] Validating parental settings
+[2024-11-10 16:33:22] Settings dump:
+[2024-11-10 16:33:22] 	Account ID: 1045485340
+[2024-11-10 16:33:22] 	Enabled: false
+[2024-11-10 16:33:22] 	Base list: 0 ()
+[2024-11-10 16:33:22] 	No custom list
+[2024-11-10 16:33:22] 	No enabled features
+
+
+[2024-11-11 17:44:01] Client version: 1730853027
+[2024-11-11 17:44:01] Validating parental settings
+[2024-11-11 17:44:01] Settings dump:
+[2024-11-11 17:44:01] 	Account ID: 1045485340
+[2024-11-11 17:44:01] 	Enabled: false
+[2024-11-11 17:44:01] 	Base list: 0 ()
+[2024-11-11 17:44:01] 	No custom list
+[2024-11-11 17:44:01] 	No enabled features
+
+
+[2024-11-12 10:08:32] Client version: 1730853027
+[2024-11-12 10:08:32] Validating parental settings
+[2024-11-12 10:08:32] Settings dump:
+[2024-11-12 10:08:32] 	Account ID: 1045485340
+[2024-11-12 10:08:32] 	Enabled: false
+[2024-11-12 10:08:32] 	Base list: 0 ()
+[2024-11-12 10:08:32] 	No custom list
+[2024-11-12 10:08:32] 	No enabled features
+
+
+[2024-11-13 10:33:12] Client version: 1731433018
+[2024-11-13 10:33:12] Validating parental settings
+[2024-11-13 10:33:12] Settings dump:
+[2024-11-13 10:33:12] 	Account ID: 1045485340
+[2024-11-13 10:33:12] 	Enabled: false
+[2024-11-13 10:33:12] 	Base list: 0 ()
+[2024-11-13 10:33:12] 	No custom list
+[2024-11-13 10:33:12] 	No enabled features
+
+
+[2024-11-15 12:32:58] Client version: 1731433018
+[2024-11-15 12:32:58] Validating parental settings
+[2024-11-15 12:32:58] Settings dump:
+[2024-11-15 12:32:58] 	Account ID: 1045485340
+[2024-11-15 12:32:58] 	Enabled: false
+[2024-11-15 12:32:58] 	Base list: 0 ()
+[2024-11-15 12:32:58] 	No custom list
+[2024-11-15 12:32:58] 	No enabled features
+
+
+[2024-11-18 13:46:40] Client version: 1731433018
+[2024-11-18 13:46:40] Validating parental settings
+[2024-11-18 13:46:40] Settings dump:
+[2024-11-18 13:46:40] 	Account ID: 1045485340
+[2024-11-18 13:46:40] 	Enabled: false
+[2024-11-18 13:46:40] 	Base list: 0 ()
+[2024-11-18 13:46:40] 	No custom list
+[2024-11-18 13:46:40] 	No enabled features
+
+
+[2024-11-18 13:47:20] Client version: 1731433018
+[2024-11-18 13:47:20] Validating parental settings
+[2024-11-18 13:47:20] Settings dump:
+[2024-11-18 13:47:20] 	Account ID: 1045485340
+[2024-11-18 13:47:20] 	Enabled: false
+[2024-11-18 13:47:20] 	Base list: 0 ()
+[2024-11-18 13:47:20] 	No custom list
+[2024-11-18 13:47:20] 	No enabled features
+
+
+[2024-11-18 13:48:43] Client version: 1731433018
+[2024-11-18 13:48:43] Validating parental settings
+[2024-11-18 13:48:43] Settings dump:
+[2024-11-18 13:48:43] 	Account ID: 1045485340
+[2024-11-18 13:48:43] 	Enabled: false
+[2024-11-18 13:48:43] 	Base list: 0 ()
+[2024-11-18 13:48:43] 	No custom list
+[2024-11-18 13:48:43] 	No enabled features
+
+
+[2024-11-18 13:49:47] Client version: 1731433018
+[2024-11-18 13:49:47] Validating parental settings
+[2024-11-18 13:49:47] Settings dump:
+[2024-11-18 13:49:47] 	Account ID: 1045485340
+[2024-11-18 13:49:47] 	Enabled: false
+[2024-11-18 13:49:47] 	Base list: 0 ()
+[2024-11-18 13:49:47] 	No custom list
+[2024-11-18 13:49:47] 	No enabled features
+
+
+[2024-11-18 13:50:27] Client version: 1731433018
+[2024-11-18 13:50:27] Validating parental settings
+[2024-11-18 13:50:27] Settings dump:
+[2024-11-18 13:50:27] 	Account ID: 1045485340
+[2024-11-18 13:50:27] 	Enabled: false
+[2024-11-18 13:50:27] 	Base list: 0 ()
+[2024-11-18 13:50:27] 	No custom list
+[2024-11-18 13:50:27] 	No enabled features
+
+
+[2024-11-18 13:50:52] Client version: 1731433018
+[2024-11-18 13:50:52] Validating parental settings
+[2024-11-18 13:50:52] Settings dump:
+[2024-11-18 13:50:52] 	Account ID: 1045485340
+[2024-11-18 13:50:52] 	Enabled: false
+[2024-11-18 13:50:52] 	Base list: 0 ()
+[2024-11-18 13:50:52] 	No custom list
+[2024-11-18 13:50:52] 	No enabled features
+
+
+[2024-11-18 14:00:32] Client version: 1731433018
+[2024-11-18 14:00:32] Validating parental settings
+[2024-11-18 14:00:32] Settings dump:
+[2024-11-18 14:00:32] 	Account ID: 1045485340
+[2024-11-18 14:00:32] 	Enabled: false
+[2024-11-18 14:00:32] 	Base list: 0 ()
+[2024-11-18 14:00:32] 	No custom list
+[2024-11-18 14:00:32] 	No enabled features
+
+
+[2024-11-18 14:03:06] Client version: 1731433018
+[2024-11-18 14:03:06] Validating parental settings
+[2024-11-18 14:03:06] Settings dump:
+[2024-11-18 14:03:06] 	Account ID: 1045485340
+[2024-11-18 14:03:06] 	Enabled: false
+[2024-11-18 14:03:06] 	Base list: 0 ()
+[2024-11-18 14:03:06] 	No custom list
+[2024-11-18 14:03:06] 	No enabled features
+
+
+[2024-11-18 14:05:20] Client version: 1731716808
+[2024-11-18 14:05:20] Validating parental settings
+[2024-11-18 14:05:20] Settings dump:
+[2024-11-18 14:05:20] 	Account ID: 1045485340
+[2024-11-18 14:05:20] 	Enabled: false
+[2024-11-18 14:05:20] 	Base list: 0 ()
+[2024-11-18 14:05:20] 	No custom list
+[2024-11-18 14:05:20] 	No enabled features
+
+
+[2024-11-18 14:09:19] Client version: 1731716808
+[2024-11-18 14:09:19] Validating parental settings
+[2024-11-18 14:09:19] Settings dump:
+[2024-11-18 14:09:19] 	Account ID: 1045485340
+[2024-11-18 14:09:19] 	Enabled: false
+[2024-11-18 14:09:19] 	Base list: 0 ()
+[2024-11-18 14:09:19] 	No custom list
+[2024-11-18 14:09:19] 	No enabled features
+
+
+[2024-11-18 14:11:18] Client version: 1731716808
+[2024-11-18 14:11:18] Validating parental settings
+[2024-11-18 14:11:18] Settings dump:
+[2024-11-18 14:11:18] 	Account ID: 1045485340
+[2024-11-18 14:11:18] 	Enabled: false
+[2024-11-18 14:11:18] 	Base list: 0 ()
+[2024-11-18 14:11:18] 	No custom list
+[2024-11-18 14:11:18] 	No enabled features
+
+
+[2024-11-18 14:11:44] Client version: 1731716808
+[2024-11-18 14:11:44] Validating parental settings
+[2024-11-18 14:11:44] Settings dump:
+[2024-11-18 14:11:44] 	Account ID: 1045485340
+[2024-11-18 14:11:44] 	Enabled: false
+[2024-11-18 14:11:44] 	Base list: 0 ()
+[2024-11-18 14:11:44] 	No custom list
+[2024-11-18 14:11:44] 	No enabled features
+
+
+[2024-11-18 14:12:09] Client version: 1731716808
+[2024-11-18 14:12:09] Validating parental settings
+[2024-11-18 14:12:09] Settings dump:
+[2024-11-18 14:12:09] 	Account ID: 1045485340
+[2024-11-18 14:12:09] 	Enabled: false
+[2024-11-18 14:12:09] 	Base list: 0 ()
+[2024-11-18 14:12:09] 	No custom list
+[2024-11-18 14:12:09] 	No enabled features
+
+
+[2024-11-18 14:17:46] Client version: 1731433018
+[2024-11-18 14:17:46] Validating parental settings
+[2024-11-18 14:17:46] Settings dump:
+[2024-11-18 14:17:46] 	Account ID: 1045485340
+[2024-11-18 14:17:46] 	Enabled: false
+[2024-11-18 14:17:46] 	Base list: 0 ()
+[2024-11-18 14:17:46] 	No custom list
+[2024-11-18 14:17:46] 	No enabled features
+
+
+[2024-11-18 14:24:11] Client version: 1731433018
+[2024-11-18 14:24:11] Validating parental settings
+[2024-11-18 14:24:11] Settings dump:
+[2024-11-18 14:24:11] 	Account ID: 1045485340
+[2024-11-18 14:24:11] 	Enabled: false
+[2024-11-18 14:24:11] 	Base list: 0 ()
+[2024-11-18 14:24:11] 	No custom list
+[2024-11-18 14:24:11] 	No enabled features
+
+
+[2024-11-18 14:36:45] Client version: 1731433018
+[2024-11-18 14:36:45] Validating parental settings
+[2024-11-18 14:36:45] Settings dump:
+[2024-11-18 14:36:45] 	Account ID: 1045485340
+[2024-11-18 14:36:45] 	Enabled: false
+[2024-11-18 14:36:45] 	Base list: 0 ()
+[2024-11-18 14:36:45] 	No custom list
+[2024-11-18 14:36:45] 	No enabled features
+
+
+[2024-11-22 13:08:49] Client version: 1731433018
+[2024-11-22 13:08:49] Validating parental settings
+[2024-11-22 13:08:49] Settings dump:
+[2024-11-22 13:08:49] 	Account ID: 1045485340
+[2024-11-22 13:08:49] 	Enabled: false
+[2024-11-22 13:08:49] 	Base list: 0 ()
+[2024-11-22 13:08:49] 	No custom list
+[2024-11-22 13:08:49] 	No enabled features

@@ -1,0 +1,624 @@
+
+
+[2024-09-13 12:29:56] Client version: 1726088054
+[2024-09-13 12:29:56] [ None ] Starting login
+[2024-09-13 12:29:56] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-09-13 12:30:07] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-09-13 12:30:07] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-09-13 12:30:09] [ WaitingForServerResponse ] Received logon success response
+[2024-09-13 12:30:09] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-09-13 12:30:11] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-17 13:36:24] Client version: 1726604483
+[2024-10-17 13:36:24] [ None ] Starting login
+[2024-10-17 13:36:24] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-17 13:36:36] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-17 13:36:36] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-17 13:36:38] [ WaitingForServerResponse ] Received logon success response
+[2024-10-17 13:36:38] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-17 13:36:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-17 13:36:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-17 13:36:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-17 13:36:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-17 13:36:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-17 13:36:39] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-17 13:36:39] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-24 21:53:27] Client version: 1726604483
+[2024-10-24 21:53:27] [ None ] Starting login
+[2024-10-24 21:53:27] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-24 21:53:31] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-24 21:53:31] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-24 21:53:33] [ WaitingForServerResponse ] Received logon success response
+[2024-10-24 21:53:33] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-24 21:53:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 21:53:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 21:53:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 21:53:34] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 21:53:35] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-24 23:25:58] Client version: 1726604483
+[2024-10-24 23:25:58] [ None ] Starting login
+[2024-10-24 23:25:58] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-24 23:26:00] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-24 23:26:00] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-24 23:26:02] [ WaitingForServerResponse ] Received logon success response
+[2024-10-24 23:26:02] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-24 23:26:02] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:02] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:02] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:02] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:02] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:02] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-24 23:26:49] Client version: 1726604483
+[2024-10-24 23:26:49] [ None ] Starting login
+[2024-10-24 23:26:49] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-24 23:26:50] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-24 23:26:50] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-24 23:26:52] [ WaitingForServerResponse ] Received logon success response
+[2024-10-24 23:26:52] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-24 23:26:52] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:52] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:53] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:53] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:53] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-24 23:26:53] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-25 10:07:20] Client version: 1726604483
+[2024-10-25 10:07:20] [ None ] Starting login
+[2024-10-25 10:07:20] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-25 10:07:25] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-25 10:07:25] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-25 10:07:26] [ WaitingForServerResponse ] Received logon success response
+[2024-10-25 10:07:26] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-25 10:07:26] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 10:07:26] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 10:07:26] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 10:07:26] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 10:07:27] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 10:07:27] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-25 12:48:39] Client version: 1726604483
+[2024-10-25 12:48:39] [ None ] Starting login
+[2024-10-25 12:48:39] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-25 12:48:41] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-25 12:48:41] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-25 12:48:43] [ WaitingForServerResponse ] Received logon success response
+[2024-10-25 12:48:43] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-25 12:48:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 12:48:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 12:48:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 12:48:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 12:48:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-25 12:48:44] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-26 10:43:01] Client version: 1726604483
+[2024-10-26 10:43:01] [ None ] Starting login
+[2024-10-26 10:43:01] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-26 10:43:04] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-26 10:43:04] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-26 10:43:05] [ WaitingForServerResponse ] Received logon success response
+[2024-10-26 10:43:05] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-26 10:43:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-26 10:43:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-26 10:43:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-26 10:43:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-26 10:43:06] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-26 10:43:06] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-27 10:29:17] Client version: 1726604483
+[2024-10-27 10:29:17] [ None ] Starting login
+[2024-10-27 10:29:17] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-27 10:29:19] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-27 10:29:19] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-27 10:29:21] [ WaitingForServerResponse ] Received logon success response
+[2024-10-27 10:29:21] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-27 10:29:21] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-27 10:29:21] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-27 10:29:21] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-27 10:29:21] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-27 10:29:22] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-27 10:29:22] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-29 14:04:25] Client version: 1726604483
+[2024-10-29 14:04:25] [ None ] Starting login
+[2024-10-29 14:04:25] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-29 14:04:37] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-29 14:04:37] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-29 14:04:38] [ WaitingForServerResponse ] Received logon success response
+[2024-10-29 14:04:38] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-29 14:04:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-29 14:04:38] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-29 14:04:39] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-29 14:04:39] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-29 14:04:39] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-29 14:04:39] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-30 09:20:50] Client version: 1726604483
+[2024-10-30 09:20:50] [ None ] Starting login
+[2024-10-30 09:20:50] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-30 09:21:03] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-30 09:21:03] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-30 09:21:05] [ WaitingForServerResponse ] Received logon success response
+[2024-10-30 09:21:05] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-30 09:21:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 09:21:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 09:21:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 09:21:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 09:21:05] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 09:21:05] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-10-30 20:36:46] Client version: 1726604483
+[2024-10-30 20:36:46] [ None ] Starting login
+[2024-10-30 20:36:46] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-30 20:36:49] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-30 20:36:49] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-30 20:36:50] [ WaitingForServerResponse ] Received logon success response
+[2024-10-30 20:36:50] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-30 20:36:50] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 20:36:50] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 20:36:51] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 20:36:51] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 20:36:51] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-30 20:36:51] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-01 17:55:19] Client version: 1726604483
+[2024-11-01 17:55:19] [ None ] Starting login
+[2024-11-01 17:55:19] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-01 17:55:30] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-01 17:55:30] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-01 17:55:32] [ WaitingForServerResponse ] Received logon success response
+[2024-11-01 17:55:32] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-01 17:55:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-01 17:55:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-01 17:55:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-01 17:55:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-01 17:55:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-01 17:55:33] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+[2024-11-01 18:38:43] [ Success ] Received logon failure response
+[2024-11-01 18:39:06] [ Success ] Received logon success response
+[2024-11-01 18:39:06] [ Success ] Ignoring success response due to current state
+[2024-11-01 18:39:06] [ Success ] Received post-logon callback
+[2024-11-01 18:39:06] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-01 18:39:06] [ Success ] Received post-logon callback
+[2024-11-01 18:39:06] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-01 18:39:06] [ Success ] Received post-logon callback
+[2024-11-01 18:39:06] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-01 18:39:06] [ Success ] Received post-logon callback
+[2024-11-01 18:39:06] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-01 18:39:07] [ Success ] Received post-logon callback
+[2024-11-01 18:39:07] [ Success ] Ignoring post-logon callback due to current state
+
+
+[2024-11-04 14:20:50] Client version: 1726604483
+[2024-11-04 14:20:50] [ None ] Starting login
+[2024-11-04 14:20:50] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-04 14:20:53] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-04 14:20:53] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-04 14:20:55] [ WaitingForServerResponse ] Received logon success response
+[2024-11-04 14:20:55] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-04 14:20:55] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:20:55] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:20:55] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:20:55] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:20:55] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:20:56] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:20:56] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-04 14:49:08] Client version: 1726604483
+[2024-11-04 14:49:08] [ None ] Starting login
+[2024-11-04 14:49:08] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-04 14:49:10] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-04 14:49:10] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-04 14:49:11] [ WaitingForServerResponse ] Received logon success response
+[2024-11-04 14:49:11] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-04 14:49:11] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:49:11] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:49:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:49:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:49:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:49:12] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-04 14:51:30] Client version: 1726604483
+[2024-11-04 14:51:30] [ None ] Starting login
+[2024-11-04 14:51:30] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-04 14:51:42] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-04 14:51:42] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-04 14:51:43] [ WaitingForServerResponse ] Received logon success response
+[2024-11-04 14:51:43] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-04 14:51:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:51:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:51:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:51:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:51:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 14:51:44] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-04 23:25:08] Client version: 1726604483
+[2024-11-04 23:25:08] [ None ] Starting login
+[2024-11-04 23:25:08] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-04 23:25:11] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-04 23:25:11] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-04 23:25:12] [ WaitingForServerResponse ] Received logon success response
+[2024-11-04 23:25:12] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-04 23:25:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 23:25:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 23:25:13] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 23:25:13] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 23:25:13] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-04 23:25:13] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-10 15:10:23] Client version: 1730853027
+[2024-11-10 15:10:23] [ None ] Starting login
+[2024-11-10 15:10:23] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-10 15:10:34] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-10 15:10:34] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-10 15:10:35] [ WaitingForServerResponse ] Received logon success response
+[2024-11-10 15:10:35] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-10 15:10:35] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:10:35] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:10:36] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:10:36] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:10:37] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:10:37] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-10 15:38:28] Client version: 1730853027
+[2024-11-10 15:38:28] [ None ] Starting login
+[2024-11-10 15:38:28] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-10 15:38:31] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-10 15:38:31] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-10 15:38:33] [ WaitingForServerResponse ] Received logon success response
+[2024-11-10 15:38:33] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-10 15:38:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:38:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:38:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:38:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:38:34] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-10 15:38:34] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+[2024-11-10 16:30:27] [ Success ] Received logon failure response
+[2024-11-10 16:31:06] [ Success ] Received logon failure response
+[2024-11-10 16:32:05] [ Success ] Received logon failure response
+[2024-11-10 16:33:22] [ Success ] Received logon success response
+[2024-11-10 16:33:22] [ Success ] Ignoring success response due to current state
+[2024-11-10 16:33:22] [ Success ] Received post-logon callback
+[2024-11-10 16:33:22] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-10 16:33:23] [ Success ] Received post-logon callback
+[2024-11-10 16:33:23] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-10 16:33:27] [ Success ] Received post-logon callback
+[2024-11-10 16:33:27] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-10 16:33:27] [ Success ] Received post-logon callback
+[2024-11-10 16:33:27] [ Success ] Ignoring post-logon callback due to current state
+[2024-11-10 16:33:31] [ Success ] Received post-logon callback
+[2024-11-10 16:33:31] [ Success ] Ignoring post-logon callback due to current state
+
+
+[2024-11-11 17:43:56] Client version: 1730853027
+[2024-11-11 17:43:56] [ None ] Starting login
+[2024-11-11 17:43:56] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-11 17:43:59] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-11 17:43:59] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-11 17:44:01] [ WaitingForServerResponse ] Received logon success response
+[2024-11-11 17:44:01] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-11 17:44:01] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-11 17:44:01] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-11 17:44:01] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-11 17:44:01] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-11 17:44:01] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-11 17:44:02] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-11 17:44:02] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-12 10:08:27] Client version: 1730853027
+[2024-11-12 10:08:27] [ None ] Starting login
+[2024-11-12 10:08:27] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-12 10:08:30] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-12 10:08:30] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-12 10:08:32] [ WaitingForServerResponse ] Received logon success response
+[2024-11-12 10:08:32] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-12 10:08:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-12 10:08:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-12 10:08:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-12 10:08:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-12 10:08:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-12 10:08:33] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-13 10:33:07] Client version: 1731433018
+[2024-11-13 10:33:07] [ None ] Starting login
+[2024-11-13 10:33:07] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-13 10:33:10] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-13 10:33:10] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-13 10:33:12] [ WaitingForServerResponse ] Received logon success response
+[2024-11-13 10:33:12] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-13 10:33:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-13 10:33:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-13 10:33:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-13 10:33:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-13 10:33:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-13 10:33:13] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-15 12:32:52] Client version: 1731433018
+[2024-11-15 12:32:52] [ None ] Starting login
+[2024-11-15 12:32:52] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-15 12:32:56] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-15 12:32:56] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-15 12:32:58] [ WaitingForServerResponse ] Received logon success response
+[2024-11-15 12:32:58] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-15 12:32:58] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-15 12:32:58] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-15 12:32:58] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-15 12:32:58] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-15 12:32:59] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 13:46:35] Client version: 1731433018
+[2024-11-18 13:46:35] [ None ] Starting login
+[2024-11-18 13:46:35] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 13:46:38] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 13:46:38] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 13:46:40] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 13:46:40] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 13:46:40] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:46:40] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:46:40] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:46:40] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:46:41] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:46:41] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 13:47:06] Client version: 1731433018
+[2024-11-18 13:47:06] [ None ] Starting login
+[2024-11-18 13:47:06] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 13:47:18] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 13:47:18] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 13:47:20] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 13:47:20] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 13:47:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:47:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:47:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:47:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:47:21] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:47:21] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 13:48:39] Client version: 1731433018
+[2024-11-18 13:48:39] [ None ] Starting login
+[2024-11-18 13:48:39] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 13:48:41] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 13:48:41] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 13:48:43] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 13:48:43] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 13:48:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:48:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:48:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:48:43] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:48:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:48:44] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 13:49:45] Client version: 1731433018
+[2024-11-18 13:49:45] [ None ] Starting login
+[2024-11-18 13:49:45] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 13:49:46] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 13:49:46] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 13:49:48] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 13:49:48] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 13:49:48] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:49:48] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:49:48] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:49:48] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:49:49] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:49:49] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 13:50:14] Client version: 1731433018
+[2024-11-18 13:50:14] [ None ] Starting login
+[2024-11-18 13:50:14] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 13:50:26] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 13:50:26] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 13:50:27] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 13:50:27] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 13:50:27] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:27] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:27] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:27] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:28] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:28] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 13:50:49] Client version: 1731433018
+[2024-11-18 13:50:49] [ None ] Starting login
+[2024-11-18 13:50:49] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 13:50:51] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 13:50:51] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 13:50:52] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 13:50:52] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 13:50:52] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:52] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:52] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:52] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:53] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 13:50:53] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:00:29] Client version: 1731433018
+[2024-11-18 14:00:29] [ None ] Starting login
+[2024-11-18 14:00:29] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:00:31] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:00:31] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:00:32] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:00:32] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:00:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:00:32] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:00:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:00:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:00:33] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:00:33] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:02:53] Client version: 1731433018
+[2024-11-18 14:02:53] [ None ] Starting login
+[2024-11-18 14:02:53] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:03:05] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:03:05] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:03:06] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:03:06] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:03:06] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:03:06] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:03:07] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:03:07] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:03:07] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:03:07] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:05:17] Client version: 1731716808
+[2024-11-18 14:05:17] [ None ] Starting login
+[2024-11-18 14:05:17] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:05:19] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:05:19] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:05:20] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:05:20] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:05:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:05:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:05:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:05:20] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:05:21] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:05:21] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:09:05] Client version: 1731716808
+[2024-11-18 14:09:05] [ None ] Starting login
+[2024-11-18 14:09:05] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:09:17] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:09:17] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:09:19] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:09:19] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:09:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:09:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:09:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:09:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:09:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:09:20] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:11:15] Client version: 1731716808
+[2024-11-18 14:11:15] [ None ] Starting login
+[2024-11-18 14:11:15] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:11:17] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:11:17] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:11:18] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:11:18] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:11:18] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:18] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:19] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:19] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:11:41] Client version: 1731716808
+[2024-11-18 14:11:41] [ None ] Starting login
+[2024-11-18 14:11:41] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:11:42] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:11:42] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:11:44] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:11:44] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:11:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:44] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:45] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:11:45] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:12:06] Client version: 1731716808
+[2024-11-18 14:12:06] [ None ] Starting login
+[2024-11-18 14:12:06] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:12:08] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:12:08] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:12:09] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:12:09] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:12:09] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:12:09] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:12:09] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:12:09] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:12:10] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:12:10] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:17:43] Client version: 1731433018
+[2024-11-18 14:17:43] [ None ] Starting login
+[2024-11-18 14:17:43] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:17:44] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:17:44] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:17:46] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:17:46] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:17:46] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:17:46] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:17:47] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:17:47] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:17:47] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:17:47] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:23:58] Client version: 1731433018
+[2024-11-18 14:23:58] [ None ] Starting login
+[2024-11-18 14:23:58] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:24:09] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:24:09] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:24:11] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:24:11] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:24:11] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:24:11] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:24:11] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:24:11] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:24:12] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:24:12] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-18 14:36:32] Client version: 1731433018
+[2024-11-18 14:36:32] [ None ] Starting login
+[2024-11-18 14:36:32] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-18 14:36:44] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-18 14:36:44] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-18 14:36:45] [ WaitingForServerResponse ] Received logon success response
+[2024-11-18 14:36:45] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-18 14:36:45] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:36:45] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:36:46] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:36:46] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:36:46] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-18 14:36:46] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+
+
+[2024-11-22 13:08:43] Client version: 1731433018
+[2024-11-22 13:08:43] [ None ] Starting login
+[2024-11-22 13:08:43] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-11-22 13:08:47] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-11-22 13:08:47] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-11-22 13:08:49] [ WaitingForServerResponse ] Received logon success response
+[2024-11-22 13:08:49] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-11-22 13:08:49] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-22 13:08:49] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-22 13:08:49] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-22 13:08:49] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-22 13:08:50] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-11-22 13:08:50] [ WaitingForLibraryReady ] SetLoginState: Success - OK

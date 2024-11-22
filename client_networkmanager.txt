@@ -1,0 +1,1855 @@
+
+
+[2023-09-26 18:52:13] Client version: 1694466342
+[2023-09-26 18:52:13] Init: create NetworkManager client: success
+
+
+[2023-09-26 19:42:21] Client version: 1694466342
+[2023-09-26 19:42:21] Init: create NetworkManager client: success
+
+
+[2023-09-27 08:49:03] Client version: 1694466342
+[2023-09-27 08:49:03] Init: create NetworkManager client: success
+[2023-09-27 08:57:10] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 08:57:11] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 08:57:15] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 08:57:15] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2023-09-27 08:58:28] Device[0x77cf7668] state: Activated/Connected -> Failed/Failed - reason: unknown
+[2023-09-27 08:58:28] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2023-09-27 08:59:27] Device[0x2d16874a] device added
+[2023-09-27 08:59:31] Device[0x9f57d091] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 08:59:31] Device[0x9f57d091] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 08:59:31] Device[0x9f57d091] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 10:30:40] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: sleeping
+[2023-09-27 10:30:41] Device[0x77cf7668] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: sleeping
+[2023-09-27 10:30:41] Device[0x9f57d091] state: Activated/Connected -> Deactivating/Disconnecting - reason: sleeping
+
+
+[2023-09-27 10:58:18] Client version: 1694466342
+[2023-09-27 10:58:18] Init: create NetworkManager client: success
+[2023-09-27 12:37:44] Device[0x9f57d091] state: Unknown/Connected -> Unmanaged/NotPresent - reason: removed
+[2023-09-27 12:37:44] Device[0x9f57d091] device removed
+[2023-09-27 12:38:55] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 12:38:56] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 12:38:56] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 12:38:56] Device[0xcf6fc2f3] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 12:38:56] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 12:38:56] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 12:38:56] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2023-09-27 12:38:57] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2023-09-27 12:38:57] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 12:38:57] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 12:38:57] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+
+
+[2023-09-27 19:41:16] Client version: 1694466342
+[2023-09-27 19:41:16] Init: create NetworkManager client: success
+[2023-09-27 19:51:08] Device[0x9f57d091] device added
+[2023-09-27 19:51:14] Device[0x9f57d091] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 19:51:14] Device[0x9f57d091] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 19:51:14] Device[0x9f57d091] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 19:51:19] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 19:51:19] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2023-09-27 19:55:26] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 19:55:27] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 19:55:27] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 19:55:28] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 19:55:28] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 19:55:28] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 19:55:28] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2023-09-27 19:55:28] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2023-09-27 19:55:28] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 19:55:28] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 19:55:28] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 19:55:48] Device[0x9f57d091] state: Activated/Connected -> Unmanaged/NotPresent - reason: removed
+[2023-09-27 19:55:48] Device[0x9f57d091] device removed
+
+
+[2023-09-27 20:47:02] Client version: 1694466342
+[2023-09-27 20:47:02] Init: create NetworkManager client: success
+
+
+[2023-09-27 22:06:01] Client version: 1694466342
+[2023-09-27 22:06:01] Init: create NetworkManager client: success
+
+
+[2023-09-27 22:28:56] Client version: 1694466342
+[2023-09-27 22:28:56] Init: create NetworkManager client: success
+
+
+[2023-09-27 22:43:00] Client version: 1694466342
+[2023-09-27 22:43:00] Init: create NetworkManager client: success
+[2023-09-27 22:44:24] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 22:44:25] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 22:44:40] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 22:44:40] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2023-09-27 23:01:30] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 23:01:30] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 23:01:30] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 23:01:30] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 23:01:30] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 23:01:30] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 23:01:32] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 23:01:33] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2023-09-27 23:01:34] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 23:01:34] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 23:01:34] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 23:01:34] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2023-09-27 23:01:35] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2023-09-27 23:02:23] Device[0xcde203ee] device added
+[2023-09-27 23:02:29] Device[0x9f57d091] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 23:02:29] Device[0x9f57d091] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 23:02:29] Device[0x9f57d091] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 23:02:39] Device[0xcf6fc2f3] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 23:02:39] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2023-09-27 23:04:35] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 23:04:36] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2023-09-27 23:04:36] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2023-09-27 23:04:36] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 23:04:36] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-09-27 23:04:44] Device[0x9f57d091] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 23:04:44] Device[0x9f57d091] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2023-09-27 23:05:28] Client version: 1694466342
+[2023-09-27 23:05:28] Init: create NetworkManager client: success
+[2023-09-27 23:28:18] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-09-27 23:28:18] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2023-09-27 23:28:34] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-09-27 23:28:35] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2023-09-27 23:28:35] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2023-09-27 23:28:35] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-09-27 23:28:35] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+
+
+[2023-09-28 08:21:47] Client version: 1694466342
+[2023-09-28 08:21:47] Init: create NetworkManager client: success
+
+
+[2023-09-30 17:48:47] Client version: 1696019606
+[2023-09-30 17:48:47] Init: create NetworkManager client: success
+
+
+[2023-09-30 18:36:40] Client version: 1696019606
+[2023-09-30 18:36:40] Init: create NetworkManager client: success
+
+
+[2023-10-02 21:13:06] Client version: 1696019606
+[2023-10-02 21:13:06] Init: create NetworkManager client: success
+
+
+[2023-10-03 10:22:46] Client version: 1696019606
+[2023-10-03 10:22:46] Init: create NetworkManager client: success
+[2023-10-03 11:49:23] Device[0x94753efc] device added
+[2023-10-03 11:53:54] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: removed
+[2023-10-03 11:53:54] Device[0x94753efc] device removed
+[2023-10-03 11:54:00] Device[0x94753efc] device added
+
+
+[2023-10-03 21:54:35] Client version: 1696019606
+[2023-10-03 21:54:35] Init: create NetworkManager client: success
+
+
+[2023-10-05 18:19:58] Client version: 1696019606
+[2023-10-05 18:19:58] Init: create NetworkManager client: success
+
+
+[2023-10-05 23:19:51] Client version: 1696019606
+[2023-10-05 23:19:51] Init: create NetworkManager client: success
+
+
+[2023-10-08 09:52:17] Client version: 1696019606
+[2023-10-08 09:52:17] Init: create NetworkManager client: success
+
+
+[2023-10-08 15:17:41] Client version: 1696019606
+[2023-10-08 15:17:41] Init: create NetworkManager client: success
+
+
+[2023-10-08 17:47:01] Client version: 1696019606
+[2023-10-08 17:47:01] Init: create NetworkManager client: success
+
+
+[2023-10-09 23:44:08] Client version: 1696019606
+[2023-10-09 23:44:08] Init: create NetworkManager client: success
+
+
+[2023-10-10 10:35:10] Client version: 1696019606
+[2023-10-10 10:35:10] Init: create NetworkManager client: success
+
+
+[2023-10-10 22:30:35] Client version: 1696019606
+[2023-10-10 22:30:35] Init: create NetworkManager client: success
+
+
+[2023-10-11 19:59:08] Client version: 1696019606
+[2023-10-11 19:59:08] Init: create NetworkManager client: success
+
+
+[2023-10-14 08:57:27] Client version: 1696019606
+[2023-10-14 08:57:27] Init: create NetworkManager client: success
+
+
+[2023-10-14 10:20:09] Client version: 1696019606
+[2023-10-14 10:20:09] Init: create NetworkManager client: success
+
+
+[2023-10-15 08:43:06] Client version: 1696019606
+[2023-10-15 08:43:06] Init: create NetworkManager client: success
+
+
+[2023-10-16 14:20:02] Client version: 1696019606
+[2023-10-16 14:20:02] Init: create NetworkManager client: success
+
+
+[2023-10-16 18:08:47] Client version: 1696019606
+[2023-10-16 18:08:47] Init: create NetworkManager client: success
+
+
+[2023-10-16 23:28:22] Client version: 1696019606
+[2023-10-16 23:28:22] Init: create NetworkManager client: success
+
+
+[2023-10-22 17:40:14] Client version: 1696019606
+[2023-10-22 17:40:14] Init: create NetworkManager client: success
+
+
+[2023-10-23 21:29:23] Client version: 1696019606
+[2023-10-23 21:29:23] Init: create NetworkManager client: success
+
+
+[2023-10-29 15:04:08] Client version: 1698260427
+[2023-10-29 15:04:08] Init: create NetworkManager client: success
+
+
+[2023-11-06 15:11:54] Client version: 1698777785
+[2023-11-06 15:11:54] Init: create NetworkManager client: success
+
+
+[2023-11-09 11:42:58] Client version: 1698777785
+[2023-11-09 11:42:58] Init: create NetworkManager client: success
+
+
+[2023-11-13 17:52:43] Client version: 1698777785
+[2023-11-13 17:52:43] Init: create NetworkManager client: success
+
+
+[2023-11-13 18:27:55] Client version: 1698777785
+[2023-11-13 18:27:55] Init: create NetworkManager client: success
+
+
+[2023-11-21 15:37:50] Client version: 1700160213
+[2023-11-21 15:37:50] Init: create NetworkManager client: success
+
+
+[2023-11-21 18:42:27] Client version: 1700160213
+[2023-11-21 18:42:27] Init: create NetworkManager client: success
+
+
+[2023-11-22 23:51:05] Client version: 1700160213
+[2023-11-22 23:51:05] Init: create NetworkManager client: success
+
+
+[2023-11-28 17:07:48] Client version: 1700160213
+[2023-11-28 17:07:48] Init: create NetworkManager client: success
+[2023-11-28 17:26:00] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2023-11-28 17:26:01] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2023-11-28 17:26:03] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2023-11-28 17:26:03] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2023-12-24 18:07:09] Client version: 1700160213
+[2023-12-24 18:07:09] Init: create NetworkManager client: success
+
+
+[2023-12-26 12:43:55] Client version: 1702079146
+[2023-12-26 12:43:55] Init: create NetworkManager client: success
+
+
+[2023-12-26 13:24:11] Client version: 1702079146
+[2023-12-26 13:24:11] Init: create NetworkManager client: success
+
+
+[2023-12-26 13:46:50] Client version: 1702079146
+[2023-12-26 13:46:50] Init: create NetworkManager client: success
+
+
+[2023-12-26 14:37:40] Client version: 1702079146
+[2023-12-26 14:37:40] Init: create NetworkManager client: success
+
+
+[2023-12-26 14:39:24] Client version: 1702079146
+[2023-12-26 14:39:24] Init: create NetworkManager client: success
+
+
+[2023-12-27 16:09:01] Client version: 1702079146
+[2023-12-27 16:09:01] Init: create NetworkManager client: success
+
+
+[2023-12-27 16:18:34] Client version: 1702079146
+[2023-12-27 16:18:34] Init: create NetworkManager client: success
+
+
+[2023-12-27 18:13:05] Client version: 1702079146
+[2023-12-27 18:13:05] Init: create NetworkManager client: success
+
+
+[2023-12-27 22:45:38] Client version: 1702079146
+[2023-12-27 22:45:38] Init: create NetworkManager client: success
+
+
+[2023-12-29 11:54:07] Client version: 1702079146
+[2023-12-29 11:54:07] Init: create NetworkManager client: success
+
+
+[2023-12-29 14:24:03] Client version: 1702079146
+[2023-12-29 14:24:03] Init: create NetworkManager client: success
+
+
+[2023-12-30 22:36:07] Client version: 1702079146
+[2023-12-30 22:36:07] Init: create NetworkManager client: success
+
+
+[2023-12-31 22:23:59] Client version: 1702079146
+[2023-12-31 22:23:59] Init: create NetworkManager client: success
+
+
+[2023-12-31 22:57:33] Client version: 1702079146
+[2023-12-31 22:57:33] Init: create NetworkManager client: success
+
+
+[2024-01-04 11:58:49] Client version: 1702079146
+[2024-01-04 11:58:49] Init: create NetworkManager client: success
+
+
+[2024-01-04 12:37:33] Client version: 1702079146
+[2024-01-04 12:37:33] Init: create NetworkManager client: success
+
+
+[2024-01-04 12:47:36] Client version: 1702079146
+[2024-01-04 12:47:36] Init: create NetworkManager client: success
+
+
+[2024-01-04 13:15:15] Client version: 1702079146
+[2024-01-04 13:15:15] Init: create NetworkManager client: success
+
+
+[2024-01-04 13:20:55] Client version: 1702079146
+[2024-01-04 13:20:55] Init: create NetworkManager client: success
+
+
+[2024-01-04 13:26:54] Client version: 1702079146
+[2024-01-04 13:26:54] Init: create NetworkManager client: success
+
+
+[2024-01-04 17:24:16] Client version: 1702079146
+[2024-01-04 17:24:16] Init: create NetworkManager client: success
+
+
+[2024-01-05 16:41:33] Client version: 1702079146
+[2024-01-05 16:41:33] Init: create NetworkManager client: success
+
+
+[2024-01-06 14:53:17] Client version: 1702079146
+[2024-01-06 14:53:17] Init: create NetworkManager client: success
+
+
+[2024-01-06 15:00:50] Client version: 1702079146
+[2024-01-06 15:00:50] Init: create NetworkManager client: success
+
+
+[2024-01-06 19:28:48] Client version: 1702079146
+[2024-01-06 19:28:48] Init: create NetworkManager client: success
+
+
+[2024-01-07 11:31:28] Client version: 1702079146
+[2024-01-07 11:31:28] Init: create NetworkManager client: success
+
+
+[2024-01-07 19:37:24] Client version: 1702079146
+[2024-01-07 19:37:24] Init: create NetworkManager client: success
+
+
+[2024-01-14 20:48:46] Client version: 1705108172
+[2024-01-14 20:48:46] Init: create NetworkManager client: success
+
+
+[2024-01-18 21:26:34] Client version: 1705108172
+[2024-01-18 21:26:34] Init: create NetworkManager client: success
+
+
+[2024-01-19 00:47:16] Client version: 1705108172
+[2024-01-19 00:47:16] Init: create NetworkManager client: success
+
+
+[2024-01-21 01:38:32] Client version: 1705108172
+[2024-01-21 01:38:32] Init: create NetworkManager client: success
+
+
+[2024-01-21 21:55:30] Client version: 1705108172
+[2024-01-21 21:55:30] Init: create NetworkManager client: success
+
+
+[2024-01-26 19:32:10] Client version: 1705108172
+[2024-01-26 19:32:10] Init: create NetworkManager client: success
+
+
+[2024-01-26 19:45:59] Client version: 1705108172
+[2024-01-26 19:45:59] Init: create NetworkManager client: success
+
+
+[2024-01-26 19:47:53] Client version: 1705108172
+[2024-01-26 19:47:53] Init: create NetworkManager client: success
+
+
+[2024-02-01 19:50:27] Client version: 1705108172
+[2024-02-01 19:50:27] Init: create NetworkManager client: success
+[2024-02-01 19:54:27] Device[0x2d16874a] device added
+[2024-02-01 19:54:29] Device[0x9f57d091] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-02-01 19:54:29] Device[0x9f57d091] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-02-01 19:54:29] Device[0x9f57d091] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-02-01 19:54:36] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-02-01 19:54:36] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-02-01 20:00:47] Device[0x9f57d091] state: Activated/Connected -> Unmanaged/NotPresent - reason: removed
+[2024-02-01 20:00:47] Device[0x9f57d091] device removed
+[2024-02-01 20:00:48] Device[0xcde203ee] device added
+[2024-02-01 20:00:50] Device[0x9f57d091] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-02-01 20:00:50] Device[0x9f57d091] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-02-01 20:00:50] Device[0x9f57d091] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-02-01 20:31:44] Device[0x9f57d091] state: Activated/Connected -> Unmanaged/NotPresent - reason: removed
+[2024-02-01 20:31:44] Device[0x9f57d091] device removed
+[2024-02-01 20:31:45] Device[0x9f57d091] device added
+
+
+[2024-02-04 15:54:45] Client version: 1705108172
+[2024-02-04 15:54:45] Init: create NetworkManager client: success
+
+
+[2024-02-04 16:43:25] Client version: 1705108172
+[2024-02-04 16:43:25] Init: create NetworkManager client: success
+[2024-02-04 16:59:13] Device[0x77cf7668] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2024-02-04 16:59:13] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 16:59:13] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-02-04 16:59:13] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-02-04 16:59:13] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 16:59:14] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-02-04 16:59:14] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-02-04 16:59:14] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-02-04 16:59:14] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-02-04 16:59:24] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-02-04 16:59:24] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-02-04 18:46:57] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-02-04 18:46:57] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 18:46:57] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-02-04 18:46:57] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-02-04 18:46:57] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-02-04 18:46:57] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-02-04 18:47:03] Device[0x77cf7668] state: Activated/Connected -> Failed/Failed - reason: unknown
+[2024-02-04 18:47:04] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-02-04 18:47:06] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-02-04 18:47:06] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 18:47:06] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-02-04 18:47:06] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2024-02-04 18:47:07] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-02-04 18:49:43] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-02-04 18:49:44] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 18:49:44] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-02-04 18:49:44] Device[0x77cf7668] state: Need Auth/NotPresent -> Deactivating/Disconnecting - reason: unknown
+[2024-02-04 18:49:45] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-02-04 18:49:45] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-02-04 18:49:46] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 18:49:46] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-02-04 18:49:58] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-02-04 18:49:58] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-04 18:49:58] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-02-04 18:49:58] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-02-04 18:49:58] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-02-04 18:49:58] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-02-04 18:50:12] Device[0xcf6fc2f3] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-02-04 18:50:13] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-02-05 13:04:42] Client version: 1705108172
+[2024-02-05 13:04:42] Init: create NetworkManager client: success
+[2024-02-05 15:09:42] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-02-05 15:09:43] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-02-05 15:09:44] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-02-05 15:09:44] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-05 15:09:44] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-02-05 15:09:44] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-02-05 15:09:44] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-02-05 15:09:44] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-02-05 15:09:45] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-02-05 15:09:45] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-02-05 15:09:45] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-02-05 15:09:47] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-02-05 15:09:47] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-02-05 20:27:52] Client version: 1705108172
+[2024-02-05 20:27:52] Init: create NetworkManager client: success
+
+
+[2024-02-05 20:36:05] Client version: 1705108172
+[2024-02-05 20:36:05] Init: create NetworkManager client: success
+
+
+[2024-02-06 10:20:00] Client version: 1705108172
+[2024-02-06 10:20:00] Init: create NetworkManager client: success
+
+
+[2024-02-07 18:14:46] Client version: 1705108172
+[2024-02-07 18:14:46] Init: create NetworkManager client: success
+
+
+[2024-02-08 13:03:22] Client version: 1705108172
+[2024-02-08 13:03:22] Init: create NetworkManager client: success
+
+
+[2024-02-17 23:13:18] Client version: 1705108172
+[2024-02-17 23:13:18] Init: create NetworkManager client: success
+
+
+[2024-02-19 22:35:38] Client version: 1705108172
+[2024-02-19 22:35:38] Init: create NetworkManager client: success
+[2024-02-20 01:00:32] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-02-20 01:00:34] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-02-20 19:31:22] Client version: 1705108172
+[2024-02-20 19:31:22] Init: create NetworkManager client: success
+
+
+[2024-02-21 23:00:12] Client version: 1705108172
+[2024-02-21 23:00:12] Init: create NetworkManager client: success
+
+
+[2024-02-22 10:49:31] Client version: 1705108172
+[2024-02-22 10:49:31] Init: create NetworkManager client: success
+
+
+[2024-02-22 14:57:38] Client version: 1705108172
+[2024-02-22 14:57:38] Init: create NetworkManager client: success
+
+
+[2024-02-22 15:00:28] Client version: 1705108172
+[2024-02-22 15:00:28] Init: create NetworkManager client: success
+
+
+[2024-02-22 15:03:23] Client version: 1705108172
+[2024-02-22 15:03:23] Init: create NetworkManager client: success
+
+
+[2024-02-22 15:20:18] Client version: 1705108172
+[2024-02-22 15:20:18] Init: create NetworkManager client: success
+
+
+[2024-02-22 15:23:25] Client version: 1705108172
+[2024-02-22 15:23:25] Init: create NetworkManager client: success
+
+
+[2024-02-22 15:33:52] Client version: 1705108172
+[2024-02-22 15:33:52] Init: create NetworkManager client: success
+
+
+[2024-02-22 15:50:09] Client version: 1705108172
+[2024-02-22 15:50:09] Init: create NetworkManager client: success
+
+
+[2024-02-25 11:25:58] Client version: 1705108172
+[2024-02-25 11:25:58] Init: create NetworkManager client: success
+
+
+[2024-02-25 12:36:19] Client version: 1705108172
+[2024-02-25 12:36:19] Init: create NetworkManager client: success
+
+
+[2024-02-25 12:37:55] Client version: 1705108172
+[2024-02-25 12:37:55] Init: create NetworkManager client: success
+
+
+[2024-02-25 13:23:13] Client version: 1705108172
+[2024-02-25 13:23:13] Init: create NetworkManager client: success
+
+
+[2024-02-28 01:22:29] Client version: 1705108172
+[2024-02-28 01:22:29] Init: create NetworkManager client: success
+
+
+[2024-03-05 15:23:35] Client version: 1709168962
+[2024-03-05 15:23:35] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:34:08] Client version: 1709168962
+[2024-03-06 15:34:08] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:37:11] Client version: 1709168962
+[2024-03-06 15:37:11] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:39:51] Client version: 1709168962
+[2024-03-06 15:39:51] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:41:48] Client version: 1709168962
+[2024-03-06 15:41:48] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:43:28] Client version: 1709168962
+[2024-03-06 15:43:28] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:44:30] Client version: 1709168962
+[2024-03-06 15:44:30] Init: create NetworkManager client: success
+
+
+[2024-03-06 15:44:54] Client version: 1709168962
+[2024-03-06 15:44:54] Init: create NetworkManager client: success
+
+
+[2024-03-06 18:00:18] Client version: 1709168962
+[2024-03-06 18:00:18] Init: create NetworkManager client: success
+
+
+[2024-03-09 12:19:19] Client version: 1709168962
+[2024-03-09 12:19:19] Init: create NetworkManager client: success
+
+
+[2024-03-12 22:20:40] Client version: 1709846872
+[2024-03-12 22:20:40] Init: create NetworkManager client: success
+
+
+[2024-03-12 22:34:07] Client version: 1709846872
+[2024-03-12 22:34:07] Init: create NetworkManager client: success
+
+
+[2024-03-13 15:22:50] Client version: 1709846872
+[2024-03-13 15:22:50] Init: create NetworkManager client: success
+
+
+[2024-03-13 15:23:29] Client version: 1709846872
+[2024-03-13 15:23:29] Init: create NetworkManager client: success
+
+
+[2024-03-13 15:23:53] Client version: 1709846872
+[2024-03-13 15:23:53] Init: create NetworkManager client: success
+
+
+[2024-03-13 21:43:49] Client version: 1709846872
+[2024-03-13 21:43:49] Init: create NetworkManager client: success
+
+
+[2024-03-17 19:04:10] Client version: 1709846872
+[2024-03-17 19:04:10] Init: create NetworkManager client: success
+[2024-03-17 19:35:19] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-17 19:35:19] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-17 19:35:19] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-17 19:35:20] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-17 19:35:20] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-17 19:35:20] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-17 19:35:20] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-17 19:35:20] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-17 19:35:21] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-17 19:35:21] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-03-17 19:35:21] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-03-17 19:35:21] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-17 19:35:21] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-17 19:35:21] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-17 19:35:21] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-17 19:35:21] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-17 19:35:22] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-17 19:35:22] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-17 19:35:22] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-17 19:35:24] Device[0xcf6fc2f3] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-17 19:35:24] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-03-18 14:16:54] Client version: 1709846872
+[2024-03-18 14:16:54] Init: create NetworkManager client: success
+
+
+[2024-03-20 00:32:00] Client version: 1709846872
+[2024-03-20 00:32:00] Init: create NetworkManager client: success
+
+
+[2024-03-20 00:40:42] Client version: 1709846872
+[2024-03-20 00:40:42] Init: create NetworkManager client: success
+
+
+[2024-03-20 10:27:50] Client version: 1709846872
+[2024-03-20 10:27:50] Init: create NetworkManager client: success
+
+
+[2024-03-20 12:01:12] Client version: 1709846872
+[2024-03-20 12:01:12] Init: create NetworkManager client: success
+
+
+[2024-03-20 14:14:42] Client version: 1709846872
+[2024-03-20 14:14:42] Init: create NetworkManager client: success
+
+
+[2024-03-20 21:39:13] Client version: 1709846872
+[2024-03-20 21:39:13] Init: create NetworkManager client: success
+
+
+[2024-03-21 13:19:17] Client version: 1709846872
+[2024-03-21 13:19:17] Init: create NetworkManager client: success
+[2024-03-21 14:34:37] Device[0x77cf7668] state: Unknown/NotPresent -> Disconnected/Disconnected - reason: supplicant-available
+[2024-03-21 14:34:39] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-21 14:34:40] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 14:34:40] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-03-21 14:34:40] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-03-21 14:34:40] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 14:34:40] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-21 14:34:41] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-21 14:34:41] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-21 14:34:41] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-21 14:34:41] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-03-21 14:34:42] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-03-21 14:34:42] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-21 14:34:43] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-21 14:34:45] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-21 14:34:45] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-21 15:55:18] Device[0x77cf7668] state: Activated/Connected -> Failed/Failed - reason: unknown
+[2024-03-21 15:55:20] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-03-21 15:55:21] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-21 15:55:22] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 15:55:22] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-03-21 15:55:22] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-03-21 15:55:22] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 15:55:22] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-21 15:55:23] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-21 15:55:23] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-21 15:55:23] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-21 15:56:11] Device[0x2d16874a] device added
+[2024-03-21 15:56:14] Device[0x712b0506] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-21 15:56:14] Device[0x712b0506] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-21 15:56:14] Device[0x712b0506] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-21 15:57:09] Device[0x712b0506] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-21 15:57:09] Device[0x712b0506] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-21 15:57:09] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-21 15:57:09] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 15:57:09] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-21 15:57:09] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-21 15:57:09] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-21 15:57:09] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-21 15:57:10] Device[0x712b0506] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-21 15:57:10] Device[0x712b0506] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-21 15:57:10] Device[0x712b0506] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-21 15:57:10] Device[0x712b0506] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-21 15:57:10] Device[0x712b0506] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-21 15:57:10] Device[0x712b0506] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-21 15:57:11] Device[0x712b0506] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-21 15:57:11] Device[0x712b0506] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-21 15:57:12] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-21 15:57:13] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-21 15:58:23] Device[0x712b0506] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: removed
+[2024-03-21 15:58:23] Device[0x712b0506] device removed
+
+
+[2024-03-22 09:48:54] Client version: 1709846872
+[2024-03-22 09:48:54] Init: create NetworkManager client: success
+
+
+[2024-03-23 00:01:19] Client version: 1709846872
+[2024-03-23 00:01:19] Init: create NetworkManager client: success
+[2024-03-23 01:00:33] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-03-23 01:00:35] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-03-25 20:34:02] Client version: 1709846872
+[2024-03-25 20:34:02] Init: create NetworkManager client: success
+
+
+[2024-03-25 20:41:02] Client version: 1709846872
+[2024-03-25 20:41:02] Init: create NetworkManager client: success
+[2024-03-25 20:57:04] Device[0x2d16874a] device added
+[2024-03-25 20:57:08] Device[0x712b0506] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-25 20:57:08] Device[0x712b0506] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-25 20:57:08] Device[0x712b0506] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-03-25 20:57:19] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-25 20:57:20] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-03-25 20:57:20] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-03-25 20:57:20] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-03-25 21:11:53] Client version: 1709846872
+[2024-03-25 21:11:53] Init: create NetworkManager client: success
+[2024-03-26 01:00:35] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-03-26 01:00:36] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-03-26 04:00:43] Device[0xcf6fc2f3] state: Unknown/Connected -> Unavailable/NotPresent - reason: carrier-changed
+[2024-03-26 04:01:05] Device[0xcf6fc2f3] state: Unavailable/NotPresent -> Disconnected/Disconnected - reason: carrier-changed
+[2024-03-26 04:01:05] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-03-26 04:01:05] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-03-26 04:01:05] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-03-26 04:01:38] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-03-26 04:01:38] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-03-26 04:01:38] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+
+
+[2024-03-27 13:58:40] Client version: 1709846872
+[2024-03-27 13:58:40] Init: create NetworkManager client: success
+
+
+[2024-03-30 12:06:40] Client version: 1709846872
+[2024-03-30 12:06:40] Init: create NetworkManager client: success
+
+
+[2024-04-02 22:44:27] Client version: 1709846872
+[2024-04-02 22:44:27] Init: create NetworkManager client: success
+
+
+[2024-04-03 22:56:30] Client version: 1709846872
+[2024-04-03 22:56:30] Init: create NetworkManager client: success
+
+
+[2024-04-12 14:21:01] Client version: 1709846872
+[2024-04-12 14:21:01] Init: create NetworkManager client: success
+
+
+[2024-04-13 22:23:13] Client version: 1709846872
+[2024-04-13 22:23:13] Init: create NetworkManager client: success
+
+
+[2024-04-17 22:31:43] Client version: 1709846872
+[2024-04-17 22:31:43] Init: create NetworkManager client: success
+
+
+[2024-05-19 12:59:43] Client version: 1709846872
+[2024-05-19 12:59:43] Init: create NetworkManager client: success
+
+
+[2024-05-28 10:13:31] Client version: 1716584667
+[2024-05-28 10:13:31] Init: create NetworkManager client: success
+
+
+[2024-05-28 14:40:11] Client version: 1716584667
+[2024-05-28 14:40:11] Init: create NetworkManager client: success
+
+
+[2024-05-28 14:40:39] Client version: 1716584667
+[2024-05-28 14:40:39] Init: create NetworkManager client: success
+
+
+[2024-05-29 10:38:50] Client version: 1716584667
+[2024-05-29 10:38:50] Init: create NetworkManager client: success
+
+
+[2024-05-29 11:19:47] Client version: 1716584667
+[2024-05-29 11:19:47] Init: create NetworkManager client: success
+
+
+[2024-05-29 13:24:23] Client version: 1716584667
+[2024-05-29 13:24:23] Init: create NetworkManager client: success
+
+
+[2024-05-29 17:04:32] Client version: 1716584667
+[2024-05-29 17:04:32] Init: create NetworkManager client: success
+
+
+[2024-05-29 17:50:50] Client version: 1716584667
+[2024-05-29 17:50:50] Init: create NetworkManager client: success
+
+
+[2024-05-29 20:09:23] Client version: 1716584667
+[2024-05-29 20:09:23] Init: create NetworkManager client: success
+
+
+[2024-06-13 16:50:39] Client version: 1716584667
+[2024-06-13 16:50:39] Init: create NetworkManager client: success
+
+
+[2024-06-13 22:43:09] Client version: 1716584667
+[2024-06-13 22:43:09] Init: create NetworkManager client: success
+
+
+[2024-06-14 23:57:11] Client version: 1716584667
+[2024-06-14 23:57:11] Init: create NetworkManager client: success
+
+
+[2024-06-15 23:42:18] Client version: 1718305227
+[2024-06-15 23:42:18] Init: create NetworkManager client: success
+
+
+[2024-06-15 22:50:19] Client version: 1718305227
+[2024-06-15 22:50:19] Init: create NetworkManager client: success
+
+
+[2024-06-17 10:24:19] Client version: 1718305227
+[2024-06-17 10:24:19] Init: create NetworkManager client: success
+
+
+[2024-06-19 13:55:59] Client version: 1718751621
+[2024-06-19 13:55:59] Init: create NetworkManager client: success
+
+
+[2024-06-23 16:39:55] Client version: 1718904662
+[2024-06-23 16:39:55] Init: create NetworkManager client: success
+
+
+[2024-06-23 23:58:47] Client version: 1718904662
+[2024-06-23 23:58:47] Init: create NetworkManager client: success
+
+
+[2024-06-29 21:38:19] Client version: 1718904662
+[2024-06-29 21:38:19] Init: create NetworkManager client: success
+
+
+[2024-06-30 16:54:27] Client version: 1718904662
+[2024-06-30 16:54:27] Init: create NetworkManager client: success
+
+
+[2024-07-01 21:13:13] Client version: 1718904662
+[2024-07-01 21:13:13] Init: create NetworkManager client: success
+
+
+[2024-07-01 23:39:49] Client version: 1718904662
+[2024-07-01 23:39:49] Init: create NetworkManager client: success
+
+
+[2024-07-01 23:49:43] Client version: 1718904662
+[2024-07-01 23:49:43] Init: create NetworkManager client: success
+
+
+[2024-07-02 00:20:34] Client version: 1718904662
+[2024-07-02 00:20:34] Init: create NetworkManager client: success
+[2024-07-02 01:00:32] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-07-02 01:00:32] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-07-04 00:06:14] Client version: 1718904662
+[2024-07-04 00:06:14] Init: create NetworkManager client: success
+
+
+[2024-07-04 00:37:17] Client version: 1718904662
+[2024-07-04 00:37:17] Init: create NetworkManager client: success
+
+
+[2024-07-04 00:37:53] Client version: 1718904662
+[2024-07-04 00:37:53] Init: create NetworkManager client: success
+
+
+[2024-07-04 00:51:43] Client version: 1718904662
+[2024-07-04 00:51:43] Init: create NetworkManager client: success
+[2024-07-04 01:00:33] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-07-04 01:00:34] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-07-04 17:31:00] Client version: 1718904662
+[2024-07-04 17:31:00] Init: create NetworkManager client: success
+[2024-07-04 17:42:36] Device[0x77cf7668] state: Unknown/Connected -> Need Auth/NotPresent - reason: supplicant-disconnect
+[2024-07-04 17:42:36] Device[0x77cf7668] state: Need Auth/NotPresent -> Failed/Failed - reason: no-secrets
+[2024-07-04 17:42:37] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-07-04 18:17:09] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-04 18:17:09] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 18:17:09] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-04 18:17:09] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-04 18:17:09] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 18:17:10] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-04 18:17:10] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-04 18:17:10] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-04 18:17:10] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-04 18:17:13] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-04 18:17:13] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-07-04 18:59:56] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-04 18:59:57] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-07-04 18:59:58] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-04 18:59:58] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 18:59:58] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-04 18:59:58] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-04 18:59:58] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-04 18:59:58] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-04 18:59:58] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-04 18:59:59] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+
+
+[2024-07-04 20:13:33] Client version: 1718904662
+[2024-07-04 20:13:33] Init: create NetworkManager client: success
+
+
+[2024-07-04 20:14:27] Client version: 1718904662
+[2024-07-04 20:14:27] Init: create NetworkManager client: success
+[2024-07-04 21:37:07] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-04 21:37:07] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-04 21:37:07] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-04 21:37:08] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 21:37:08] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-04 21:37:08] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-04 21:37:08] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-04 21:37:12] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-04 21:37:12] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-04 21:37:12] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-04 21:37:12] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-04 21:37:13] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-04 21:37:13] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-07-05 00:18:24] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-05 00:18:24] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-05 00:18:24] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-05 00:18:24] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-05 00:18:24] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-05 00:18:24] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-05 00:18:37] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-05 00:18:38] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-07-05 00:18:39] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-05 00:18:40] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-05 00:18:58] Device[0x77cf7668] state: Activated/Connected -> Unavailable/NotPresent - reason: none
+
+
+[2024-07-08 14:10:02] Client version: 1718904662
+[2024-07-08 14:10:02] Init: create NetworkManager client: success
+
+
+[2024-07-08 22:34:07] Client version: 1718904662
+[2024-07-08 22:34:07] Init: create NetworkManager client: success
+[2024-07-08 22:42:46] Device[0x77cf7668] state: Unknown/NotPresent -> Disconnected/Disconnected - reason: supplicant-available
+[2024-07-08 22:42:48] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-08 22:42:48] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-08 22:42:48] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-08 22:42:48] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-08 22:42:48] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-08 22:42:49] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-08 22:42:49] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-08 22:42:49] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-08 22:42:49] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-08 22:42:56] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-08 22:42:57] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-08 22:42:57] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-08 22:42:58] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-08 22:42:58] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-08 22:42:58] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-08 22:42:58] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-08 22:43:02] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-08 22:43:02] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-08 22:43:02] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-08 22:43:02] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-08 22:43:03] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-08 22:43:03] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-09 12:41:29] Client version: 1718904662
+[2024-07-09 12:41:29] Init: create NetworkManager client: success
+[2024-07-09 12:57:52] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-09 12:57:53] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-11 19:55:40] Client version: 1718904662
+[2024-07-11 19:55:40] Init: create NetworkManager client: success
+
+
+[2024-07-11 23:19:53] Client version: 1718904662
+[2024-07-11 23:19:53] Init: create NetworkManager client: success
+
+
+[2024-07-12 00:32:02] Client version: 1718904662
+[2024-07-12 00:32:02] Init: create NetworkManager client: success
+[2024-07-12 01:00:36] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-07-12 01:00:36] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-07-12 11:37:24] Client version: 1718904662
+[2024-07-12 11:37:24] Init: create NetworkManager client: success
+[2024-07-12 12:26:51] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-12 12:26:51] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-12 12:26:51] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-12 12:26:52] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-12 12:26:52] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-12 12:26:52] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-12 12:26:52] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-12 12:26:53] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-12 12:26:54] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-12 12:26:54] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-12 12:26:54] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-12 12:26:55] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-12 12:26:55] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-12 17:24:11] Client version: 1718904662
+[2024-07-12 17:24:11] Init: create NetworkManager client: success
+[2024-07-12 17:24:41] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-12 17:24:42] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-07-12 18:07:09] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-12 18:07:09] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-12 18:07:09] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-12 18:07:09] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-12 18:07:09] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-12 18:07:10] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-12 18:07:10] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-12 18:07:10] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-12 18:07:10] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-12 18:07:14] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-12 18:07:14] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-13 13:27:13] Client version: 1718904662
+[2024-07-13 13:27:13] Init: create NetworkManager client: success
+
+
+[2024-07-13 15:16:16] Client version: 1718904662
+[2024-07-13 15:16:16] Init: create NetworkManager client: success
+
+
+[2024-07-13 23:01:31] Client version: 1718904662
+[2024-07-13 23:01:31] Init: create NetworkManager client: success
+
+
+[2024-07-13 23:30:51] Client version: 1718904662
+[2024-07-13 23:30:51] Init: create NetworkManager client: success
+
+
+[2024-07-13 23:49:50] Client version: 1718904662
+[2024-07-13 23:49:50] Init: create NetworkManager client: success
+[2024-07-14 01:00:34] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-07-14 01:00:34] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-07-14 01:10:01] Client version: 1718904662
+[2024-07-14 01:10:01] Init: create NetworkManager client: success
+
+
+[2024-07-14 14:28:33] Client version: 1718904662
+[2024-07-14 14:28:33] Init: create NetworkManager client: success
+
+
+[2024-07-14 14:29:57] Client version: 1718904662
+[2024-07-14 14:29:57] Init: create NetworkManager client: success
+
+
+[2024-07-14 23:44:58] Client version: 1718904662
+[2024-07-14 23:44:58] Init: create NetworkManager client: success
+[2024-07-15 01:00:35] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-07-15 01:00:35] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-07-15 15:03:30] Client version: 1718904662
+[2024-07-15 15:03:30] Init: create NetworkManager client: success
+
+
+[2024-07-15 15:04:10] Client version: 1718904662
+[2024-07-15 15:04:10] Init: create NetworkManager client: success
+
+
+[2024-07-15 17:12:40] Client version: 1718904662
+[2024-07-15 17:12:40] Init: create NetworkManager client: success
+[2024-07-15 17:31:40] Device[0x94753efc] state: Unknown/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-15 17:31:46] Device[0x94753efc] state: Prepare/Connecting -> Failed/Failed - reason: bluetooth-failed
+[2024-07-15 17:31:46] Device[0x94753efc] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-07-15 17:33:13] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-15 17:33:13] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-15 17:33:13] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-15 17:33:14] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-15 17:33:14] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-15 17:33:14] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-15 17:33:14] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-15 17:33:18] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-15 17:33:18] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-15 17:33:18] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-15 17:33:18] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-15 17:33:20] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-15 17:33:20] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-16 14:17:15] Client version: 1718904662
+[2024-07-16 14:17:15] Init: create NetworkManager client: success
+
+
+[2024-07-16 15:54:02] Client version: 1718904662
+[2024-07-16 15:54:02] Init: create NetworkManager client: success
+
+
+[2024-07-16 17:13:13] Client version: 1718904662
+[2024-07-16 17:13:13] Init: create NetworkManager client: success
+
+
+[2024-07-16 20:55:34] Client version: 1718904662
+[2024-07-16 20:55:34] Init: create NetworkManager client: success
+[2024-07-16 21:27:02] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-16 21:27:02] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-16 21:27:02] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-16 21:27:03] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-16 21:27:03] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-16 21:27:03] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-16 21:27:03] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-16 21:27:03] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-16 21:27:04] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-16 21:27:04] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-16 21:27:04] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-16 21:27:04] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-16 21:27:04] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-17 08:28:10] Client version: 1721173382
+[2024-07-17 08:28:10] Init: create NetworkManager client: success
+
+
+[2024-07-17 15:21:01] Client version: 1721173382
+[2024-07-17 15:21:01] Init: create NetworkManager client: success
+
+
+[2024-07-17 17:32:10] Client version: 1721173382
+[2024-07-17 17:32:10] Init: create NetworkManager client: success
+
+
+[2024-07-18 11:38:08] Client version: 1721173382
+[2024-07-18 11:38:08] Init: create NetworkManager client: success
+
+
+[2024-07-18 12:27:12] Client version: 1721173382
+[2024-07-18 12:27:12] Init: create NetworkManager client: success
+
+
+[2024-07-19 11:37:29] Client version: 1721173382
+[2024-07-19 11:37:29] Init: create NetworkManager client: success
+
+
+[2024-07-19 19:45:57] Client version: 1721173382
+[2024-07-19 19:45:57] Init: create NetworkManager client: success
+
+
+[2024-07-19 21:48:14] Client version: 1721173382
+[2024-07-19 21:48:14] Init: create NetworkManager client: success
+[2024-07-19 22:01:06] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-19 22:01:07] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-19 22:01:07] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-19 22:01:07] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-19 22:01:07] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-19 22:01:07] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-19 22:01:07] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-19 22:01:08] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-19 22:01:08] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-19 22:01:08] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-19 22:01:08] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-19 22:01:09] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-19 22:01:09] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-20 13:12:18] Client version: 1721173382
+[2024-07-20 13:12:18] Init: create NetworkManager client: success
+
+
+[2024-07-20 13:29:35] Client version: 1721173382
+[2024-07-20 13:29:35] Init: create NetworkManager client: success
+
+
+[2024-07-21 13:22:15] Client version: 1721173382
+[2024-07-21 13:22:15] Init: create NetworkManager client: success
+
+
+[2024-07-21 15:06:54] Client version: 1721173382
+[2024-07-21 15:06:54] Init: create NetworkManager client: success
+
+
+[2024-07-21 19:04:24] Client version: 1721173382
+[2024-07-21 19:04:24] Init: create NetworkManager client: success
+[2024-07-21 19:28:55] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-21 19:28:56] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-21 19:28:56] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-21 19:28:56] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-21 19:28:56] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-21 19:28:56] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-21 19:28:56] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-21 19:29:00] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-21 19:29:01] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-21 19:29:01] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-21 19:29:01] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-21 19:29:05] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-21 19:29:05] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-21 22:51:14] Client version: 1721173382
+[2024-07-21 22:51:14] Init: create NetworkManager client: success
+[2024-07-21 23:04:16] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-21 23:04:16] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-21 23:04:16] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-21 23:04:17] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-21 23:04:17] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-21 23:04:17] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-21 23:04:17] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-21 23:04:18] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-21 23:04:19] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-21 23:04:19] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-21 23:04:19] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-21 23:04:19] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-21 23:04:19] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-22 12:13:17] Client version: 1721173382
+[2024-07-22 12:13:17] Init: create NetworkManager client: success
+[2024-07-22 12:46:57] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-22 12:46:58] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-07-22 12:46:59] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-22 12:47:00] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+
+
+[2024-07-22 15:24:54] Client version: 1721173382
+[2024-07-22 15:24:54] Init: create NetworkManager client: success
+
+
+[2024-07-22 16:14:09] Client version: 1721173382
+[2024-07-22 16:14:09] Init: create NetworkManager client: success
+
+
+[2024-07-22 17:37:04] Client version: 1721173382
+[2024-07-22 17:37:04] Init: create NetworkManager client: success
+
+
+[2024-07-22 18:05:46] Client version: 1721173382
+[2024-07-22 18:05:46] Init: create NetworkManager client: success
+
+
+[2024-07-22 18:08:28] Client version: 1721173382
+[2024-07-22 18:08:28] Init: create NetworkManager client: success
+
+
+[2024-07-22 23:35:13] Client version: 1721173382
+[2024-07-22 23:35:13] Init: create NetworkManager client: success
+
+
+[2024-07-23 13:40:17] Client version: 1721173382
+[2024-07-23 13:40:17] Init: create NetworkManager client: success
+
+
+[2024-07-26 11:59:42] Client version: 1721173382
+[2024-07-26 11:59:42] Init: create NetworkManager client: success
+
+
+[2024-07-26 12:35:40] Client version: 1721173382
+[2024-07-26 12:35:40] Init: create NetworkManager client: success
+
+
+[2024-07-27 08:57:28] Client version: 1721173382
+[2024-07-27 08:57:28] Init: create NetworkManager client: success
+
+
+[2024-07-27 12:42:37] Client version: 1721173382
+[2024-07-27 12:42:37] Init: create NetworkManager client: success
+
+
+[2024-07-27 23:03:43] Client version: 1721173382
+[2024-07-27 23:03:43] Init: create NetworkManager client: success
+
+
+[2024-07-28 09:52:21] Client version: 1721173382
+[2024-07-28 09:52:21] Init: create NetworkManager client: success
+[2024-07-28 10:00:15] Device[0xcf6fc2f3] state: Unknown/Connected -> Unavailable/NotPresent - reason: carrier-changed
+[2024-07-28 10:00:39] Device[0xcf6fc2f3] state: Unavailable/NotPresent -> Disconnected/Disconnected - reason: carrier-changed
+[2024-07-28 10:00:39] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-28 10:00:39] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 10:00:39] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-28 10:00:57] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-28 10:00:57] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-28 10:00:57] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-28 10:02:33] Device[0x77cf7668] state: Unknown/NotPresent -> Disconnected/Disconnected - reason: supplicant-available
+[2024-07-28 10:02:35] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-28 10:02:35] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 10:02:35] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-28 10:02:35] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-28 10:02:35] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 10:02:36] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-28 10:02:40] Device[0x77cf7668] state: IP Config/Connecting -> Deactivating/Disconnecting - reason: unknown
+[2024-07-28 10:02:41] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-28 10:02:41] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-28 10:02:42] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 10:02:42] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-28 10:02:42] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-28 10:02:42] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 10:02:46] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-28 10:02:46] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-28 10:02:46] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-28 10:02:46] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-28 10:02:48] Device[0xcf6fc2f3] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-28 10:02:48] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-28 10:04:22] Client version: 1721173382
+[2024-07-28 10:04:22] Init: create NetworkManager client: success
+
+
+[2024-07-28 13:01:19] Client version: 1721173382
+[2024-07-28 13:01:19] Init: create NetworkManager client: success
+
+
+[2024-07-28 15:22:01] Client version: 1721173382
+[2024-07-28 15:22:01] Init: create NetworkManager client: success
+
+
+[2024-07-28 16:36:37] Client version: 1721173382
+[2024-07-28 16:36:37] Init: create NetworkManager client: success
+
+
+[2024-07-28 22:23:14] Client version: 1721173382
+[2024-07-28 22:23:14] Init: create NetworkManager client: success
+[2024-07-28 22:27:04] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-07-28 22:27:05] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-07-28 22:27:05] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-07-28 22:27:05] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 22:27:05] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-07-28 22:27:05] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-07-28 22:27:05] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-07-28 22:27:06] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-07-28 22:27:06] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-07-28 22:27:06] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-07-28 22:27:06] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-07-28 22:27:08] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-07-28 22:27:08] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+
+
+[2024-07-28 23:32:16] Client version: 1721173382
+[2024-07-28 23:32:16] Init: create NetworkManager client: success
+
+
+[2024-07-29 01:48:20] Client version: 1721173382
+[2024-07-29 01:48:20] Init: create NetworkManager client: success
+
+
+[2024-07-29 10:53:01] Client version: 1721173382
+[2024-07-29 10:53:01] Init: create NetworkManager client: success
+
+
+[2024-07-30 10:34:13] Client version: 1721173382
+[2024-07-30 10:34:13] Init: create NetworkManager client: success
+
+
+[2024-07-31 17:01:51] Client version: 1721173382
+[2024-07-31 17:01:51] Init: create NetworkManager client: success
+
+
+[2024-07-31 23:07:09] Client version: 1721173382
+[2024-07-31 23:07:09] Init: create NetworkManager client: success
+[2024-08-01 01:00:45] Device[0x77cf7668] state: Unknown/Connected -> Failed/Failed - reason: unknown
+[2024-08-01 01:00:46] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+
+
+[2024-08-01 15:38:59] Client version: 1721173382
+[2024-08-01 15:38:59] Init: create NetworkManager client: success
+
+
+[2024-08-02 09:12:48] Client version: 1721173382
+[2024-08-02 09:12:48] Init: create NetworkManager client: success
+[2024-08-02 21:19:51] Device[0x77cf7668] state: Unknown/Connected -> Deactivating/Disconnecting - reason: unknown
+[2024-08-02 21:19:52] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: unknown
+[2024-08-02 21:19:52] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-08-02 21:19:52] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-08-02 21:19:52] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-08-02 21:19:52] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-08-02 21:19:52] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-08-02 21:19:54] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-08-02 21:19:54] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-08-02 21:19:54] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-08-02 21:19:54] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-08-02 21:19:55] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-08-02 21:19:55] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-08-02 23:30:19] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-08-02 23:30:19] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-08-02 23:30:19] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-08-02 23:30:20] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-08-02 23:30:20] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-08-02 23:30:20] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-08-02 23:30:21] Device[0x77cf7668] state: Activated/Connected -> Unavailable/NotPresent - reason: none
+
+
+[2024-08-03 12:44:22] Client version: 1721173382
+[2024-08-03 12:44:22] Init: create NetworkManager client: success
+
+
+[2024-08-03 13:02:31] Client version: 1721173382
+[2024-08-03 13:02:31] Init: create NetworkManager client: success
+
+
+[2024-08-03 16:53:35] Client version: 1721173382
+[2024-08-03 16:53:35] Init: create NetworkManager client: success
+
+
+[2024-08-03 20:14:57] Client version: 1721173382
+[2024-08-03 20:14:57] Init: create NetworkManager client: success
+
+
+[2024-08-04 15:35:26] Client version: 1721173382
+[2024-08-04 15:35:26] Init: create NetworkManager client: success
+
+
+[2024-08-07 10:29:30] Client version: 1721173382
+[2024-08-07 10:29:30] Init: create NetworkManager client: success
+[2024-08-07 10:31:11] Device[0x94753efc] state: Unknown/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:31:11] Device[0x94753efc] device removed
+[2024-08-07 10:31:13] Device[0x94753efc] device added
+[2024-08-07 10:40:25] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:40:25] Device[0x94753efc] device removed
+[2024-08-07 10:40:27] Device[0x94753efc] device added
+[2024-08-07 10:41:13] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:41:13] Device[0x94753efc] device removed
+[2024-08-07 10:41:15] Device[0x94753efc] device added
+[2024-08-07 10:45:16] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:45:16] Device[0x94753efc] device removed
+[2024-08-07 10:45:17] Device[0x94753efc] device added
+[2024-08-07 10:45:27] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:45:27] Device[0x94753efc] device removed
+[2024-08-07 10:45:28] Device[0x94753efc] device added
+[2024-08-07 10:45:42] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:45:42] Device[0x94753efc] device removed
+[2024-08-07 10:45:44] Device[0x94753efc] device added
+[2024-08-07 10:47:47] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:47:47] Device[0x94753efc] device removed
+[2024-08-07 10:47:49] Device[0x94753efc] device added
+[2024-08-07 10:49:04] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:49:04] Device[0x94753efc] device removed
+[2024-08-07 10:49:06] Device[0x94753efc] device added
+[2024-08-07 10:49:07] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:49:07] Device[0x94753efc] device removed
+[2024-08-07 10:49:09] Device[0x94753efc] device added
+[2024-08-07 10:50:14] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:50:14] Device[0x94753efc] device removed
+[2024-08-07 10:50:16] Device[0x94753efc] device added
+[2024-08-07 10:51:22] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:51:22] Device[0x94753efc] device removed
+[2024-08-07 10:51:23] Device[0x94753efc] device added
+[2024-08-07 10:57:09] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:57:09] Device[0x94753efc] device removed
+[2024-08-07 10:57:10] Device[0x94753efc] device added
+[2024-08-07 10:59:39] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:59:39] Device[0x94753efc] device removed
+[2024-08-07 10:59:41] Device[0x94753efc] device added
+[2024-08-07 10:59:43] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 10:59:43] Device[0x94753efc] device removed
+[2024-08-07 10:59:45] Device[0x94753efc] device added
+[2024-08-07 11:01:39] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:01:39] Device[0x94753efc] device removed
+[2024-08-07 11:01:41] Device[0x94753efc] device added
+[2024-08-07 11:01:46] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:01:46] Device[0x94753efc] device removed
+[2024-08-07 11:01:48] Device[0x94753efc] device added
+[2024-08-07 11:02:57] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:02:57] Device[0x94753efc] device removed
+[2024-08-07 11:02:58] Device[0x94753efc] device added
+[2024-08-07 11:06:31] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:06:31] Device[0x94753efc] device removed
+[2024-08-07 11:06:33] Device[0x94753efc] device added
+[2024-08-07 11:06:41] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:06:41] Device[0x94753efc] device removed
+[2024-08-07 11:06:43] Device[0x94753efc] device added
+[2024-08-07 11:14:21] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:14:21] Device[0x94753efc] device removed
+[2024-08-07 11:14:23] Device[0x94753efc] device added
+[2024-08-07 11:18:56] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:18:56] Device[0x94753efc] device removed
+[2024-08-07 11:18:58] Device[0x94753efc] device added
+[2024-08-07 11:19:05] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-08-07 11:19:05] Device[0x94753efc] device removed
+[2024-08-07 11:19:29] Device[0x94753efc] device added
+
+
+[2024-08-11 09:48:01] Client version: 1721173382
+[2024-08-11 09:48:01] Init: create NetworkManager client: success
+
+
+[2024-08-11 09:51:29] Client version: 1721173382
+[2024-08-11 09:51:29] Init: create NetworkManager client: success
+
+
+[2024-08-17 23:18:11] Client version: 1721173382
+[2024-08-17 23:18:11] Init: create NetworkManager client: success
+
+
+[2024-08-18 18:04:42] Client version: 1721173382
+[2024-08-18 18:04:42] Init: create NetworkManager client: success
+
+
+[2024-08-26 22:27:42] Client version: 1721173382
+[2024-08-26 22:27:42] Init: create NetworkManager client: success
+
+
+[2024-09-06 17:53:42] Client version: 1721173382
+[2024-09-06 17:53:42] Init: create NetworkManager client: success
+[2024-09-06 17:58:37] Device[0x77cf7668] state: Unknown/NotPresent -> Disconnected/Disconnected - reason: supplicant-available
+[2024-09-06 17:58:39] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-09-06 17:58:39] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 17:58:39] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-09-06 17:58:39] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-09-06 17:58:39] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 17:58:40] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-09-06 17:58:40] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-09-06 17:58:40] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-09-06 17:58:40] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-09-06 17:58:41] Device[0xcf6fc2f3] state: Unknown/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-09-06 17:58:41] Device[0xcf6fc2f3] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-09-06 17:59:10] Device[0xcf6fc2f3] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-09-06 17:59:10] Device[0xcf6fc2f3] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 17:59:10] Device[0xcf6fc2f3] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-09-06 17:59:10] Device[0xcf6fc2f3] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-09-06 17:59:10] Device[0xcf6fc2f3] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-09-06 17:59:10] Device[0xcf6fc2f3] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-09-06 17:59:12] Device[0x77cf7668] state: Activated/Connected -> Deactivating/Disconnecting - reason: user-requested
+[2024-09-06 17:59:12] Device[0x77cf7668] state: Deactivating/Disconnecting -> Disconnected/Disconnected - reason: user-requested
+[2024-09-06 17:59:14] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-09-06 17:59:14] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 17:59:14] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-09-06 17:59:14] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-09-06 17:59:14] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 17:59:14] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-09-06 17:59:15] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-09-06 17:59:15] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-09-06 17:59:15] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+[2024-09-06 18:30:43] Device[0x77cf7668] state: Activated/Connected -> Failed/Failed - reason: unknown
+[2024-09-06 18:30:43] Device[0x77cf7668] state: Failed/Failed -> Disconnected/Disconnected - reason: none
+[2024-09-06 18:30:45] Device[0x77cf7668] state: Disconnected/Disconnected -> Prepare/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: Config/Connecting -> Need Auth/NotPresent - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: Need Auth/NotPresent -> Prepare/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: Prepare/Connecting -> Config/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: Config/Connecting -> IP Config/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: IP Config/Connecting -> IP Check/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: IP Check/Connecting -> Secondaries/Connecting - reason: none
+[2024-09-06 18:30:46] Device[0x77cf7668] state: Secondaries/Connecting -> Activated/Connected - reason: none
+
+
+[2024-09-13 12:29:56] Client version: 1726088054
+[2024-09-13 12:29:56] Init: create NetworkManager client: success
+[2024-09-13 12:35:50] Device[0x94753efc] state: Unknown/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-09-13 12:35:50] Device[0x94753efc] device removed
+[2024-09-13 12:41:46] Device[0x94753efc] device added
+[2024-09-13 12:49:04] Device[0x94753efc] state: Disconnected/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-09-13 12:49:04] Device[0x94753efc] device removed
+[2024-09-13 12:49:09] Device[0x94753efc] device added
+
+
+[2024-10-17 13:36:25] Client version: 1726604483
+[2024-10-17 13:36:25] Init: create NetworkManager client: success
+
+
+[2024-10-24 21:53:28] Client version: 1726604483
+[2024-10-24 21:53:28] Init: create NetworkManager client: success
+
+
+[2024-10-24 23:25:59] Client version: 1726604483
+[2024-10-24 23:25:59] Init: create NetworkManager client: success
+
+
+[2024-10-24 23:26:49] Client version: 1726604483
+[2024-10-24 23:26:49] Init: create NetworkManager client: success
+
+
+[2024-10-25 10:07:21] Client version: 1726604483
+[2024-10-25 10:07:21] Init: create NetworkManager client: success
+[2024-10-25 11:59:29] Device[0x94753efc] state: Unknown/Disconnected -> Unmanaged/NotPresent - reason: unknown
+[2024-10-25 11:59:29] Device[0x94753efc] device removed
+[2024-10-25 11:59:29] Device[0x94753efc] device added
+
+
+[2024-10-25 12:48:39] Client version: 1726604483
+[2024-10-25 12:48:39] Init: create NetworkManager client: success
+
+
+[2024-10-26 10:43:01] Client version: 1726604483
+[2024-10-26 10:43:01] Init: create NetworkManager client: success
+
+
+[2024-10-27 10:29:17] Client version: 1726604483
+[2024-10-27 10:29:17] Init: create NetworkManager client: success
+
+
+[2024-10-29 14:04:26] Client version: 1726604483
+[2024-10-29 14:04:26] Init: create NetworkManager client: success
+
+
+[2024-10-30 09:20:51] Client version: 1726604483
+[2024-10-30 09:20:51] Init: create NetworkManager client: success
+
+
+[2024-10-30 20:36:47] Client version: 1726604483
+[2024-10-30 20:36:47] Init: create NetworkManager client: success
+
+
+[2024-11-01 17:55:19] Client version: 1726604483
+[2024-11-01 17:55:19] Init: create NetworkManager client: success
+
+
+[2024-11-04 14:20:51] Client version: 1726604483
+[2024-11-04 14:20:51] Init: create NetworkManager client: success
+
+
+[2024-11-04 14:49:08] Client version: 1726604483
+[2024-11-04 14:49:08] Init: create NetworkManager client: success
+
+
+[2024-11-04 14:51:30] Client version: 1726604483
+[2024-11-04 14:51:30] Init: create NetworkManager client: success
+
+
+[2024-11-04 23:25:10] Client version: 1726604483
+[2024-11-04 23:25:10] Init: create NetworkManager client: success
+
+
+[2024-11-10 15:10:24] Client version: 1730853027
+[2024-11-10 15:10:24] Init: enable connect workaround: 0
+[2024-11-10 15:10:24] Init: create NetworkManager client: success
+
+
+[2024-11-10 15:38:29] Client version: 1730853027
+[2024-11-10 15:38:29] Init: enable connect workaround: 0
+[2024-11-10 15:38:29] Init: create NetworkManager client: success
+
+
+[2024-11-11 17:43:57] Client version: 1730853027
+[2024-11-11 17:43:57] Init: enable connect workaround: 0
+[2024-11-11 17:43:57] Init: create NetworkManager client: success
+
+
+[2024-11-12 10:08:28] Client version: 1730853027
+[2024-11-12 10:08:28] Init: enable connect workaround: 0
+[2024-11-12 10:08:28] Init: create NetworkManager client: success
+
+
+[2024-11-13 10:33:08] Client version: 1731433018
+[2024-11-13 10:33:08] Init: enable connect workaround: 0
+[2024-11-13 10:33:08] Init: create NetworkManager client: success
+
+
+[2024-11-15 12:32:52] Client version: 1731433018
+[2024-11-15 12:32:52] Init: enable connect workaround: 0
+[2024-11-15 12:32:52] Init: create NetworkManager client: success
+
+
+[2024-11-18 13:46:36] Client version: 1731433018
+[2024-11-18 13:46:36] Init: enable connect workaround: 0
+[2024-11-18 13:46:36] Init: create NetworkManager client: success
+
+
+[2024-11-18 13:47:06] Client version: 1731433018
+[2024-11-18 13:47:06] Init: enable connect workaround: 0
+[2024-11-18 13:47:06] Init: create NetworkManager client: success
+
+
+[2024-11-18 13:48:40] Client version: 1731433018
+[2024-11-18 13:48:40] Init: enable connect workaround: 0
+[2024-11-18 13:48:40] Init: create NetworkManager client: success
+
+
+[2024-11-18 13:49:45] Client version: 1731433018
+[2024-11-18 13:49:45] Init: enable connect workaround: 0
+[2024-11-18 13:49:45] Init: create NetworkManager client: success
+
+
+[2024-11-18 13:50:14] Client version: 1731433018
+[2024-11-18 13:50:14] Init: enable connect workaround: 0
+[2024-11-18 13:50:14] Init: create NetworkManager client: success
+
+
+[2024-11-18 13:50:50] Client version: 1731433018
+[2024-11-18 13:50:50] Init: enable connect workaround: 0
+[2024-11-18 13:50:50] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:00:29] Client version: 1731433018
+[2024-11-18 14:00:29] Init: enable connect workaround: 0
+[2024-11-18 14:00:29] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:02:53] Client version: 1731433018
+[2024-11-18 14:02:53] Init: enable connect workaround: 0
+[2024-11-18 14:02:53] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:05:17] Client version: 1731716808
+[2024-11-18 14:05:17] Init: enable connect workaround: 0
+[2024-11-18 14:05:17] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:09:06] Client version: 1731716808
+[2024-11-18 14:09:06] Init: enable connect workaround: 0
+[2024-11-18 14:09:06] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:11:16] Client version: 1731716808
+[2024-11-18 14:11:16] Init: enable connect workaround: 0
+[2024-11-18 14:11:16] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:11:41] Client version: 1731716808
+[2024-11-18 14:11:41] Init: enable connect workaround: 0
+[2024-11-18 14:11:41] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:12:07] Client version: 1731716808
+[2024-11-18 14:12:07] Init: enable connect workaround: 0
+[2024-11-18 14:12:07] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:17:43] Client version: 1731433018
+[2024-11-18 14:17:43] Init: enable connect workaround: 0
+[2024-11-18 14:17:43] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:23:58] Client version: 1731433018
+[2024-11-18 14:23:58] Init: enable connect workaround: 0
+[2024-11-18 14:23:58] Init: create NetworkManager client: success
+
+
+[2024-11-18 14:36:32] Client version: 1731433018
+[2024-11-18 14:36:32] Init: enable connect workaround: 0
+[2024-11-18 14:36:32] Init: create NetworkManager client: success
+
+
+[2024-11-22 13:08:44] Client version: 1731433018
+[2024-11-22 13:08:44] Init: enable connect workaround: 0
+[2024-11-22 13:08:44] Init: create NetworkManager client: success
